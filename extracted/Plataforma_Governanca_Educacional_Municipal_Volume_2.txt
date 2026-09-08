@@ -1,0 +1,2227 @@
+
+
+PLATAFORMA DEGOVERNANÇA EDUCACIONALMUNICIPAL
+Documento-Mãe — Volume 2
+Catálogo completo de soluções e frentes de atuação municipal
+Propósito do Volume 2
+Transformar a arquitetura estratégica do Volume 1 em um catálogo comercial e técnico de soluções modulares. Cada frente é apresentada com problema, gatilhos de contratação, escopo, metodologia, entregáveis, dados, indicadores, evidências, níveis de serviço e critérios de implantação.
+O município pode iniciar por uma única prioridade e ampliar a solução progressivamente, reutilizando o mesmo núcleo de dados, governança e tecnologia.
+Versão 1.0  •  Setembro de 2026
+
+Ficha do documento
+Natureza
+Catálogo modular de soluções para redes municipais de educação.
+Função
+Permitir que o município selecione frentes conforme urgência, maturidade, risco, oportunidade de financiamento e prioridades pedagógicas.
+Vínculo com o Volume 1
+Aplica a estratégia de entrada pela dor municipal e o Método IMPACTA a módulos concretos.
+Vínculo com o Volume 3
+A Solução 01 — BNCC Computação será aprofundada como projeto completo, com desenho pedagógico, trilhas, cronograma, indicadores e instrumentos.
+Público
+Prefeitos, secretários municipais de educação, equipes técnicas, conselhos, gestores escolares e potenciais parceiros.
+Uso comercial
+Diagnóstico, desenho de proposta, composição de pacotes, dimensionamento de implantação e apresentação executiva.
+Salvaguarda
+O catálogo descreve capacidades e modelos de serviço. Normas, prazos, sistemas oficiais e critérios financeiros devem ser confirmados no ciclo vigente antes de cada contratação.
+Sumário executivo
+O Volume 2 funciona como a camada de produto da Plataforma de Governança Educacional Municipal. Em vez de oferecer um sistema genérico, a proposta organiza um conjunto de soluções que podem ser ativadas conforme a realidade de cada rede. A lógica é simples: o município escolhe uma prioridade; a consultoria realiza o diagnóstico; o escopo é parametrizado; a plataforma é configurada; a equipe é formada; a execução passa a ser monitorada; e os resultados alimentam o ciclo de decisão.
+A unidade comercial não é “uma tela” ou “um curso”. É uma frente de governança com objetivo público definido, entregáveis verificáveis, indicadores, evidências e responsabilidades.
+12 soluções
+Frentes independentes e combináveis.
+3 níveis
+Diagnóstico, implementação e governança completa.
+1 núcleo
+Cadastros, evidências, dados, perfis, indicadores e relatórios compartilhados.
+Classificação estratégica das soluções
+Classe
+Significado
+Exemplos
+Relação financeira
+Prioridade típica
+A — Urgência regulatória/financeira
+Há norma, condicionalidade, prazo ou requisito que pode gerar risco institucional se não for tratado.
+BNCC Computação; VAAR; gestão escolar; programas com pactuação.
+Direta ou condicional, conforme política.
+Alta
+B — Resultado educacional
+Foco em aprendizagem, fluxo, alfabetização, permanência e qualidade.
+Alfabetização; Saeb/Ideb; frequência.
+Indireta e, em alguns casos, incorporada a indicadores do VAAR.
+Alta
+C — Capacidade institucional
+Fortalece processos permanentes da secretaria e das escolas.
+Formação continuada; painel executivo; liderança.
+Indireta.
+Média/Alta
+T — Infraestrutura transversal
+Aumenta qualidade, interoperabilidade e sustentabilidade de todos os módulos.
+Dados e qualidade cadastral; evidências; governança.
+Indireta, mas crítica para execução e prestação de informações.
+Transversal
+
+Estrutura do Volume 2
+1. Como usar o catálogo
+2. Mapa de soluções e critérios de priorização
+3. Modelo padrão de contratação e níveis de serviço
+4. Solução 01 — BNCC Computação
+5. Solução 02 — Alfabetização e Anos Iniciais
+6. Solução 03 — Saeb, Ideb e Aprendizagem
+7. Solução 04 — VAAR: Condicionalidades, Permanência, Equidade e Gestão
+8. Solução 05 — Educação em Tempo Integral
+9. Solução 06 — Formação Continuada Municipal
+10. Solução 07 — Gestão e Liderança Escolar
+11. Solução 08 — Frequência, Abandono e Busca Ativa
+12. Solução 09 — Agendas Curriculares Transversais
+13. Solução 10 — Governança de Programas e Recursos
+14. Solução 11 — Painel Executivo da Secretaria
+15. Solução 12 — Dados e Qualidade Cadastral
+16. Combinações comerciais e arquitetura de expansão
+17. Diagnóstico para seleção de módulos
+18. Matriz consolidada de entregáveis, dados e indicadores
+19. Regras de dimensionamento comercial
+20. Transição para o Volume 3 — BNCC Computação
+Anexos — matriz de dependências, checklist de reunião comercial e referências oficiais.
+
+1. Como usar o catálogo
+O catálogo foi desenhado para ser utilizado em três momentos: prospecção, diagnóstico e composição do escopo. Na prospecção, ele demonstra que a solução não depende de uma única política. No diagnóstico, ajuda a transformar fragilidades municipais em demandas objetivas. Na composição do escopo, permite selecionar níveis de serviço e combinar módulos sem duplicar cadastros, tecnologia ou governança.
+1.1 Fluxo comercial recomendado
+1. Escuta
+2. Triagem
+3. Diagnóstico
+4. Priorização
+5. Proposta
+6. Implantação
+7. Expansão
+Dor declarada pelo gestor.
+Classificação regulatória, financeira, pedagógica e operacional.
+Levantamento de dados, documentos e processos.
+Seleção de 1 a 3 frentes iniciais.
+Escopo, indicadores, entregáveis e cronograma.
+Método IMPACTA e ativação da plataforma.
+Novos módulos com base em evidências e maturidade.
+1.2 Regra de posicionamento
+Não prometer recurso financeiro como resultado automático de um módulo. A solução pode apoiar requisitos, evidências, indicadores e capacidade de gestão, mas o repasse depende das regras oficiais de cada política.
+Distinguir obrigação legal, condicionalidade de financiamento, programa por adesão e prioridade estratégica. Esses quatro tipos de demanda não têm o mesmo peso.
+Evitar “vender software”. A plataforma é a infraestrutura de execução de uma metodologia de governança.
+Começar por uma dor com urgência reconhecida pelo gestor e apresentar a expansão como consequência de valor comprovado.
+Configurar indicadores que levem à decisão: cada indicador deve ter fonte, periodicidade, responsável, meta e ação associada.
+1.3 Três perguntas que definem a porta de entrada
+O que pode vencer?
+Prazo, janela de adesão, diligência, ciclo de avaliação ou necessidade curricular.
+O que pode custar?
+Perda de oportunidade, risco de inabilitação, baixa execução, reprovação ou abandono.
+O que pode melhorar?
+Aprendizagem, capacidade da equipe, governança, transparência e tomada de decisão.
+2. Mapa de soluções e critérios de priorização
+#
+Solução
+Classe
+Urgência típica
+Relação com recurso/resultado
+Dados críticos
+Módulo recomendado quando...
+01
+BNCC Computação
+A
+Alta
+Condicionalidade curricular no VAAR 2027 + obrigação curricular; efeito financeiro é indireto/condicional.
+Currículo, escolas, professores, formação, evidências.
+Há fragilidade curricular, baixa preparação docente ou necessidade de comprovação.
+02
+Alfabetização e Anos Iniciais
+B
+Alta
+Resultados de aprendizagem e políticas de alfabetização.
+Avaliações, turmas, professores, formação.
+Há metas de alfabetização, lacunas no 1º/2º ano ou baixa coerência entre avaliação e intervenção.
+03
+Saeb, Ideb e Aprendizagem
+B
+Alta
+Resultados oficiais e componentes usados em indicadores do VAAR.
+Saeb, Censo, avaliações internas, escolas.
+A rede precisa transformar resultado externo em plano de melhoria.
+04
+VAAR: condicionalidades e resultados
+A/B
+Alta
+Direta relação com habilitação e distribuição da complementação VAAR.
+Simec, Censo, Saeb, atos, processos.
+A gestão não possui mapa integrado das condicionalidades, evidências e indicadores.
+05
+Educação em Tempo Integral
+A/C
+Média/Alta
+Programa federal com assistência técnica e financeira, conforme pactuação e regras vigentes.
+Matrículas, escolas, jornada, pessoal, infraestrutura.
+Há expansão/pactuação de matrículas ou necessidade de consolidar o modelo pedagógico.
+06
+Formação Continuada Municipal
+C
+Média/Alta
+Capacidade institucional; pode apoiar diversas políticas.
+Profissionais, trilhas, inscrições, progresso, aplicação.
+A secretaria oferece formações sem visão consolidada de cobertura, conclusão e impacto.
+07
+Gestão e Liderança Escolar
+A/C
+Média/Alta
+Condicionalidade I do VAAR + qualidade da gestão.
+Gestores, legislação, seleção, competências, metas.
+Há necessidade de adequar seleção, desenvolver líderes ou monitorar gestão.
+08
+Frequência, Abandono e Busca Ativa
+B
+Média/Alta
+Permanência, fluxo e indicadores educacionais; relação indireta com VAAR.
+Frequência, movimento, território, ações.
+Há risco de abandono, infrequência crônica ou baixa rastreabilidade das ações.
+09
+Agendas Curriculares Transversais
+A/C
+Variável
+Principalmente conformidade curricular e implementação de agendas legais.
+Currículo, PPP, formação, planos, evidências.
+A rede precisa implementar temas obrigatórios ou prioritários sem criar sistemas isolados.
+10
+Governança de Programas e Recursos
+A/C
+Variável
+Apoia adesão, execução, regularidade e prestação de informações de programas.
+Programas, prazos, responsáveis, documentos, execução.
+A secretaria perde prazos, trabalha por planilhas isoladas ou tem baixa visão de execução.
+11
+Painel Executivo da Secretaria
+C/T
+Transversal
+Indireta; melhora coordenação e decisão.
+Indicadores, metas, riscos, programas, escolas.
+A alta gestão não dispõe de uma visão única das prioridades.
+12
+Dados e Qualidade Cadastral
+T
+Transversal
+Base para Censo, indicadores, repasses e demais módulos.
+Escolas, matrículas, profissionais, códigos, dicionário.
+Há divergências entre bases, duplicidades ou baixa confiança nos dados.
+2.1 Critério de priorização
+A priorização recomendada utiliza cinco dimensões pontuadas de 0 a 3: urgência normativa, risco financeiro, impacto pedagógico, capacidade de execução e disponibilidade de dados. A pontuação não substitui decisão política; ela torna explícito por que determinada frente deve entrar primeiro.
+3. Modelo padrão de contratação e níveis de serviço
+Cada solução pode ser contratada em diferentes profundidades. O desenho evita dois extremos: oferecer apenas diagnóstico sem capacidade de execução ou impor uma implantação completa quando o município precisa primeiro organizar documentos e dados.
+Nível
+Objetivo
+Entregas típicas
+Quando utilizar
+Nível 1 — Diagnóstico e Conformidade
+Compreender situação atual, risco e requisitos.
+Checklist, matriz de maturidade, inventário de documentos, mapa de lacunas, plano de adequação e painel de status.
+Primeiro contrato, janela curta, necessidade de decisão ou correção.
+Nível 2 — Implementação e Formação
+Executar plano, estruturar processos e desenvolver equipes.
+Adequação de instrumentos, trilhas, oficinas, fluxos, modelos, implantação por escolas, evidências e indicadores.
+Município já definiu prioridade e precisa fazer a política chegar à rede.
+Nível 3 — Governança Completa
+Institucionalizar acompanhamento contínuo e melhoria.
+Plataforma completa, metas, monitoramento, relatórios, alertas, suporte técnico, ciclos de avaliação e expansão.
+Políticas permanentes, redes médias/grandes ou necessidade de escala e continuidade.
+3.1 Núcleo comum incluído em qualquer módulo digital
+Cadastro e hierarquia da rede: secretaria, unidades escolares, etapas, turmas e territórios.
+Gestão de usuários, perfis e responsabilidades.
+Calendário de marcos, prazos e alertas.
+Repositório de documentos e evidências com metadados.
+Indicadores, metas e trilha histórica.
+Relatórios executivos e exportação.
+Logs de atualização e governança de dados.
+Controles de acesso e princípios de minimização de dados pessoais.
+
+4. Solução 01 — BNCC Computação
+Posicionamento: A conformidade curricular é apenas o primeiro passo. O município pode possuir um ato formal e ainda assim não saber quais escolas implementaram as aprendizagens, quais professores foram formados, quais etapas estão cobertas e quais evidências demonstram execução.
+Classe estratégica
+A — urgência regulatória/curricular
+Urgência típica
+Alta
+Relação com financiamento/resultados
+Relação condicional com VAAR 2027: o alinhamento curricular à Computação integra a Condicionalidade V. Não existe “percentual do VAAR da BNCC Computação”; trata-se de requisito de habilitação dentro de um conjunto maior.
+Gatilho de contratação
+Currículo municipal ainda não contempla formalmente Computação; adesão ao referencial estadual precisa ser organizada; professores não foram preparados; PPPs e planos não evidenciam implementação; a secretaria precisa produzir visão de cobertura e evidências.
+Público principal
+Secretaria, equipe curricular, conselho municipal, gestores escolares, coordenadores pedagógicos e professores.
+Fundamentação de referência
+Resolução CNE/CEB nº 1/2022; Lei nº 14.533/2023; regras do VAAR do ciclo vigente, incluindo a Resolução CIF nº 24/2026 para o exercício de 2027.
+4.1 Objetivos do módulo
+Diagnosticar o estágio de alinhamento curricular e de implementação da Computação.
+Apoiar opção entre currículo próprio, adequação curricular ou adesão formal a referencial aplicável.
+Estruturar formação continuada por etapas e perfis.
+Monitorar implementação por escola, etapa e professor.
+Consolidar evidências e produzir relatórios de governança.
+4.2 Escopo pela metodologia IMPACTA
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Normas, programas, indicadores, dor declarada e riscos.
+Mapa de requisitos
+M — Mapear
+Situação atual, dados, documentos, atores e maturidade.
+Linha de base
+P — Planejar
+Metas, escopo, cronograma, responsáveis e critérios de evidência.
+Plano do módulo
+A — Ativar
+Configuração da plataforma, fluxos, cadastros e instrumentos.
+Ambiente configurado
+C — Capacitar
+Formação das equipes e públicos definidos.
+Público habilitado
+T — Trackear
+Monitoramento de execução, indicadores, prazos e evidências.
+Painel vivo
+A — Avaliar
+Análise de resultado, conformidade e aprendizagem institucional.
+Relatório de ciclo
+↻ — Aprimorar
+Plano de melhoria, novo ciclo e expansão para outras frentes.
+Backlog de melhoria
+4.3 Entregáveis
+Entregável
+Natureza
+Aceite sugerido
+Diagnóstico normativo-curricular e matriz de lacunas.
+Diagnóstico
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Plano municipal de implementação da BNCC Computação.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Matriz de competências/habilidades por etapa e estratégia curricular.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Minutas/modelos de instrumentos de governança, quando cabível e sujeitos à validação jurídica/pedagógica local.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Trilhas de formação e instrumentos de avaliação.
+Formação
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painel de implementação por escola, etapa, professor e período.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Repositório de evidências e relatório anual de implementação.
+Relatório
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+4.4 Funcionalidades de plataforma
+Painel de conformidade e calendário VAAR.
+Trilhas formativas por etapa/perfil.
+Mapa de cobertura por escola.
+Registro de planos, sequências, projetos e evidências.
+Indicadores de formação, aplicação e alcance de estudantes.
+Relatório executivo e relatório anual da política.
+4.5 Indicadores recomendados
+Indicador
+Definição gerencial
+Cadência
+Cobertura curricular
+% de etapas/anos com estratégia definida para Computação
+Anual/revisão curricular
+Cobertura formativa
+% de docentes prioritários com formação concluída
+Mensal/bimestral
+Implementação escolar
+% de escolas com plano/ações em execução
+Bimestral
+Aplicação pedagógica
+% de professores formados que registraram evidência de aplicação
+Bimestral
+Evidências válidas
+% de evidências aprovadas conforme critérios
+Bimestral
+Conformidade documental
+status dos documentos exigidos no ciclo oficial
+Por ciclo/alerta
+4.6 Evidências e documentação
+Referencial curricular/ato de adesão e atos de aprovação, quando aplicável.
+PPPs e planos pedagógicos atualizados.
+Listas e resultados de formação.
+Planos de aula, projetos, registros e produtos pedagógicos.
+Atas/reuniões de governança e relatórios de acompanhamento.
+4.7 Níveis de serviço aplicáveis
+Nível
+Foco
+Inclui
+Resultado esperado
+1 — Diagnóstico
+Conhecer situação e risco.
+Inventário, linha de base, lacunas e plano.
+Decisão segura sobre o que fazer primeiro.
+2 — Implementação
+Fazer a política/ação acontecer.
+Instrumentos, formação, fluxos, plataforma e pilotagem.
+Execução padronizada e evidenciada.
+3 — Governança
+Manter, medir e aprimorar.
+Monitoramento contínuo, metas, suporte, relatórios e evolução.
+Capacidade institucional permanente.
+4.8 Perguntas de diagnóstico comercial
+O referencial municipal contempla formalmente as normas de Computação?
+O município adota referencial próprio ou estadual?
+Existe ato válido e documentação organizada?
+Quais professores e etapas são prioritários?
+Há formação já realizada? Com quais resultados?
+Como a secretaria sabe que a Computação chegou à sala de aula?
+4.9 Salvaguardas de escopo
+Normas e prazos devem ser validados no exercício vigente antes de configurar obrigações ou promessas contratuais.
+A plataforma não substitui sistemas oficiais do MEC, FNDE, Inep, conselho, contabilidade ou demais órgãos; funciona como camada de governança municipal.
+Dados pessoais devem ser limitados ao necessário, com perfis de acesso e finalidade definida.
+Indicadores devem ser parametrizados à realidade da rede e não usados como mecanismo automático de responsabilização individual.
+
+5. Solução 02 — Alfabetização e Anos Iniciais
+Posicionamento: Redes frequentemente possuem dados de avaliação e formação, mas não um ciclo único que conecte diagnóstico de aprendizagem, agrupamento de necessidades, ação formativa, intervenção pedagógica e reavaliação.
+Classe estratégica
+B — resultado educacional
+Urgência típica
+Alta
+Relação com financiamento/resultados
+Não é um “repasse automático por nota”. O módulo apoia metas de aprendizagem e a execução de políticas de alfabetização; resultados de aprendizagem e fluxo também dialogam com a lógica de indicadores educacionais e do VAAR.
+Gatilho de contratação
+Percentual de crianças alfabetizadas abaixo da meta; avaliações internas desconectadas de intervenção; formação sem acompanhamento; grande variação entre escolas/turmas; necessidade de organizar regime de colaboração e evidências.
+Público principal
+Secretaria, coordenação de alfabetização, gestores, coordenadores pedagógicos e docentes da Educação Infantil/anos iniciais.
+Fundamentação de referência
+Decreto nº 11.556/2023 — Compromisso Nacional Criança Alfabetizada e normativos/ações do ciclo vigente; avaliações e indicadores oficiais do MEC/Inep.
+5.1 Objetivos do módulo
+Organizar uma linha de base por escola, turma e habilidade.
+Conectar resultados de avaliação a planos de intervenção.
+Acompanhar cobertura e aplicação das formações.
+Monitorar metas de alfabetização e desigualdades internas da rede.
+Produzir evidências para gestão, regime de colaboração e comunicação institucional.
+5.2 Escopo pela metodologia IMPACTA
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Normas, programas, indicadores, dor declarada e riscos.
+Mapa de requisitos
+M — Mapear
+Situação atual, dados, documentos, atores e maturidade.
+Linha de base
+P — Planejar
+Metas, escopo, cronograma, responsáveis e critérios de evidência.
+Plano do módulo
+A — Ativar
+Configuração da plataforma, fluxos, cadastros e instrumentos.
+Ambiente configurado
+C — Capacitar
+Formação das equipes e públicos definidos.
+Público habilitado
+T — Trackear
+Monitoramento de execução, indicadores, prazos e evidências.
+Painel vivo
+A — Avaliar
+Análise de resultado, conformidade e aprendizagem institucional.
+Relatório de ciclo
+↻ — Aprimorar
+Plano de melhoria, novo ciclo e expansão para outras frentes.
+Backlog de melhoria
+5.3 Entregáveis
+Entregável
+Natureza
+Aceite sugerido
+Mapa municipal de alfabetização e linha de base.
+Diagnóstico
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Matriz de habilidades prioritárias e metas por ciclo.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Plano de intervenção por escola/turma.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Trilhas de formação para professores e gestores.
+Formação
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Rotina de avaliações diagnósticas/formativas.
+Governança
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painel de evolução, cobertura e risco.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Relatório de aprendizagem e plano de próximo ciclo.
+Relatório
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+5.4 Funcionalidades de plataforma
+Dashboard por escola/turma/habilidade.
+Importação de avaliações e consolidação de resultados.
+Planos de intervenção e responsáveis.
+Trilhas formativas vinculadas às lacunas.
+Alertas para turmas/escolas com risco.
+Relatório de evolução e mapa de boas práticas.
+5.5 Indicadores recomendados
+Indicador
+Definição gerencial
+Cadência
+Crianças no padrão esperado
+% por ano/turma conforme instrumento adotado
+Por avaliação
+Evolução de aprendizagem
+diferença entre diagnóstica e reavaliação
+Bimestral/trimestral
+Cobertura de intervenção
+% de turmas com plano ativo
+Mensal
+Formação docente
+% de profissionais prioritários concluindo a trilha
+Mensal
+Aplicação
+% de turmas com evidência de estratégia aplicada
+Bimestral
+Equidade interna
+diferença entre grupos/escolas
+Por ciclo
+5.6 Evidências e documentação
+Instrumentos e resultados de avaliação.
+Planos de intervenção.
+Registros de formação e acompanhamento pedagógico.
+Sequências/atividades aplicadas.
+Relatórios de visita e devolutivas.
+5.7 Níveis de serviço aplicáveis
+Nível
+Foco
+Inclui
+Resultado esperado
+1 — Diagnóstico
+Conhecer situação e risco.
+Inventário, linha de base, lacunas e plano.
+Decisão segura sobre o que fazer primeiro.
+2 — Implementação
+Fazer a política/ação acontecer.
+Instrumentos, formação, fluxos, plataforma e pilotagem.
+Execução padronizada e evidenciada.
+3 — Governança
+Manter, medir e aprimorar.
+Monitoramento contínuo, metas, suporte, relatórios e evolução.
+Capacidade institucional permanente.
+5.8 Perguntas de diagnóstico comercial
+Qual é a meta municipal de alfabetização?
+Quais avaliações a rede já utiliza?
+Os dados chegam ao nível de turma/habilidade?
+Como professores recebem devolutiva?
+Há calendário de intervenção e reavaliação?
+Quais escolas concentram maior desafio?
+5.9 Salvaguardas de escopo
+Normas e prazos devem ser validados no exercício vigente antes de configurar obrigações ou promessas contratuais.
+A plataforma não substitui sistemas oficiais do MEC, FNDE, Inep, conselho, contabilidade ou demais órgãos; funciona como camada de governança municipal.
+Dados pessoais devem ser limitados ao necessário, com perfis de acesso e finalidade definida.
+Indicadores devem ser parametrizados à realidade da rede e não usados como mecanismo automático de responsabilização individual.
+
+6. Solução 03 — Saeb, Ideb e Aprendizagem
+Posicionamento: O risco é tratar Saeb/Ideb como evento bienal. A gestão precisa acompanhar, entre ciclos, participação, fluxo, habilidades, desempenho interno, desigualdades e execução dos planos de melhoria.
+Classe estratégica
+B — resultado educacional
+Urgência típica
+Alta
+Relação com financiamento/resultados
+O Saeb e o Censo Escolar alimentam o Ideb; dados de aprendizagem, participação, aprovação e equidade também integram metodologias associadas ao VAAR.
+Gatilho de contratação
+Resultados do Saeb/Ideb são conhecidos, mas não convertidos em plano; participação é baixa; metas não são desdobradas por escola; avaliações internas não conversam com as externas; a rede precisa acompanhar evolução antes do próximo ciclo.
+Público principal
+Secretaria, equipe de avaliação, gestores, coordenadores e professores.
+Fundamentação de referência
+Sistema de Avaliação da Educação Básica (Saeb) e Índice de Desenvolvimento da Educação Básica (Ideb), sob responsabilidade do Inep; regras específicas da edição vigente.
+6.1 Objetivos do módulo
+Traduzir resultados oficiais em diagnóstico acionável.
+Construir metas e planos por escola.
+Monitorar participação, aprovação e aprendizagem ao longo do ciclo.
+Alinhar avaliações municipais a matrizes e necessidades da rede sem “ensinar para o teste”.
+Apoiar priorização de formação e acompanhamento pedagógico.
+6.2 Escopo pela metodologia IMPACTA
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Normas, programas, indicadores, dor declarada e riscos.
+Mapa de requisitos
+M — Mapear
+Situação atual, dados, documentos, atores e maturidade.
+Linha de base
+P — Planejar
+Metas, escopo, cronograma, responsáveis e critérios de evidência.
+Plano do módulo
+A — Ativar
+Configuração da plataforma, fluxos, cadastros e instrumentos.
+Ambiente configurado
+C — Capacitar
+Formação das equipes e públicos definidos.
+Público habilitado
+T — Trackear
+Monitoramento de execução, indicadores, prazos e evidências.
+Painel vivo
+A — Avaliar
+Análise de resultado, conformidade e aprendizagem institucional.
+Relatório de ciclo
+↻ — Aprimorar
+Plano de melhoria, novo ciclo e expansão para outras frentes.
+Backlog de melhoria
+6.3 Entregáveis
+Entregável
+Natureza
+Aceite sugerido
+Leitura técnica dos resultados oficiais e série histórica.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Mapa de desempenho e participação por escola.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Matriz de habilidades/lacunas.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Metas e plano de melhoria por escola.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Calendário de avaliações/monitoramento interno.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painel de execução e evolução.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Relatório pré-ciclo e pós-ciclo.
+Relatório
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+6.4 Funcionalidades de plataforma
+Importação de Saeb/Ideb e indicadores de rendimento.
+Painel de comparação histórica.
+Metas por escola e plano de ação.
+Avaliações internas e matriz de habilidades.
+Monitor de participação e risco.
+Relatórios para devolutiva às escolas.
+6.5 Indicadores recomendados
+Indicador
+Definição gerencial
+Cadência
+Participação
+% de estudantes presentes na avaliação
+Por aplicação
+Proficiência
+média e distribuição por nível
+Por ciclo
+Aprovação
+taxa por etapa/escola
+Anual
+Ideb
+índice oficial por etapa
+Bienal
+Execução do plano
+% de ações concluídas
+Mensal
+Desigualdade interna
+dispersão entre escolas/grupos
+Por ciclo
+6.6 Evidências e documentação
+Resultados oficiais e boletins.
+Metas e planos de ação.
+Avaliações internas.
+Registros de acompanhamento e formação.
+Relatórios de execução.
+6.7 Níveis de serviço aplicáveis
+Nível
+Foco
+Inclui
+Resultado esperado
+1 — Diagnóstico
+Conhecer situação e risco.
+Inventário, linha de base, lacunas e plano.
+Decisão segura sobre o que fazer primeiro.
+2 — Implementação
+Fazer a política/ação acontecer.
+Instrumentos, formação, fluxos, plataforma e pilotagem.
+Execução padronizada e evidenciada.
+3 — Governança
+Manter, medir e aprimorar.
+Monitoramento contínuo, metas, suporte, relatórios e evolução.
+Capacidade institucional permanente.
+6.8 Perguntas de diagnóstico comercial
+Quais foram os resultados mais recentes por etapa e escola?
+Qual foi a participação dos estudantes?
+Quais habilidades concentram maior dificuldade?
+Quais escolas apresentam combinação de baixo fluxo e aprendizagem?
+Existe plano por escola com responsável e prazo?
+Como a rede monitora evolução entre duas edições do Saeb?
+6.9 Salvaguardas de escopo
+Normas e prazos devem ser validados no exercício vigente antes de configurar obrigações ou promessas contratuais.
+A plataforma não substitui sistemas oficiais do MEC, FNDE, Inep, conselho, contabilidade ou demais órgãos; funciona como camada de governança municipal.
+Dados pessoais devem ser limitados ao necessário, com perfis de acesso e finalidade definida.
+Indicadores devem ser parametrizados à realidade da rede e não usados como mecanismo automático de responsabilização individual.
+
+7. Solução 04 — VAAR: Condicionalidades, Permanência, Equidade e Gestão
+Posicionamento: VAAR combina requisitos de habilitação e indicadores de resultado. Uma secretaria pode cumprir parte documental e perder capacidade de gestão sobre aprendizagem, equidade, participação, permanência ou seleção de gestores; também pode possuir bons dados, mas falhar em documentação e prazo.
+Classe estratégica
+A/B — financiamento + resultado
+Urgência típica
+Alta
+Relação com financiamento/resultados
+Relação direta com a habilitação e com a distribuição da complementação-VAAR do Fundeb. O módulo não garante recebimento; organiza requisitos, dados, evidências, riscos e ações associadas às regras vigentes.
+Gatilho de contratação
+Secretaria acompanha VAAR apenas perto do prazo; documentos estão dispersos; não há visão consolidada das cinco condicionalidades; indicadores de atendimento/aprendizagem não são monitorados de forma contínua.
+Público principal
+Dirigente municipal, equipe Fundeb/VAAR, planejamento, avaliação, currículo, gestão escolar e jurídico/controle quando necessário.
+Fundamentação de referência
+Constituição Federal art. 212-A; Lei nº 14.113/2020; Decreto nº 10.656/2021; resoluções CIF e notas técnicas do Inep/FNDE do ciclo vigente.
+7.1 Objetivos do módulo
+Criar mapa único de condicionalidades e responsáveis.
+Manter calendário de comprovações e diligências.
+Acompanhar indicadores de atendimento, aprendizagem, participação, aprovação e equidade.
+Relacionar fragilidades a planos de melhoria.
+Preservar memória institucional dos ciclos VAAR.
+7.2 Escopo pela metodologia IMPACTA
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Normas, programas, indicadores, dor declarada e riscos.
+Mapa de requisitos
+M — Mapear
+Situação atual, dados, documentos, atores e maturidade.
+Linha de base
+P — Planejar
+Metas, escopo, cronograma, responsáveis e critérios de evidência.
+Plano do módulo
+A — Ativar
+Configuração da plataforma, fluxos, cadastros e instrumentos.
+Ambiente configurado
+C — Capacitar
+Formação das equipes e públicos definidos.
+Público habilitado
+T — Trackear
+Monitoramento de execução, indicadores, prazos e evidências.
+Painel vivo
+A — Avaliar
+Análise de resultado, conformidade e aprendizagem institucional.
+Relatório de ciclo
+↻ — Aprimorar
+Plano de melhoria, novo ciclo e expansão para outras frentes.
+Backlog de melhoria
+7.3 Entregáveis
+Entregável
+Natureza
+Aceite sugerido
+Checklist das condicionalidades I a V.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Inventário de atos, editais, currículos e evidências.
+Diagnóstico
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Calendário de prazos e diligências.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painel de habilitação por condicionalidade.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painel de indicadores VAAR e fatores associados.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Plano de mitigação de risco.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Dossiê anual do ciclo VAAR.
+Relatório
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+7.4 Funcionalidades de plataforma
+Checklist dinâmico das condicionalidades.
+Calendário e alertas.
+Repositório de atos e comprovações.
+Painel de indicadores VAAR.
+Gestão de diligências e respostas.
+Simulador gerencial de risco, sem prometer valor de repasse.
+7.5 Indicadores recomendados
+Indicador
+Definição gerencial
+Cadência
+Condicionalidades
+nº/percentual de requisitos em situação regular
+Semanal no período crítico
+Pendências
+nº de itens sem responsável ou documento
+Semanal
+Participação Saeb
+taxa oficial/monitorada
+Por ciclo
+Aprendizagem
+evolução e distribuição
+Por ciclo
+Aprovação/permanência
+taxas oficiais e sinais internos
+Mensal/anual
+Equidade
+diferenças entre grupos conforme metodologia aplicável
+Por ciclo
+7.6 Evidências e documentação
+Atos de gestão escolar e processos seletivos.
+Registros e telas do Simec, quando autorizados.
+Referenciais curriculares e atos de aprovação/adesão.
+Dados oficiais do Inep/FNDE.
+Planos de melhoria e relatórios de execução.
+7.7 Níveis de serviço aplicáveis
+Nível
+Foco
+Inclui
+Resultado esperado
+1 — Diagnóstico
+Conhecer situação e risco.
+Inventário, linha de base, lacunas e plano.
+Decisão segura sobre o que fazer primeiro.
+2 — Implementação
+Fazer a política/ação acontecer.
+Instrumentos, formação, fluxos, plataforma e pilotagem.
+Execução padronizada e evidenciada.
+3 — Governança
+Manter, medir e aprimorar.
+Monitoramento contínuo, metas, suporte, relatórios e evolução.
+Capacidade institucional permanente.
+7.8 Perguntas de diagnóstico comercial
+Qual foi a situação do município em cada condicionalidade no último ciclo?
+Há responsável nominal por cada requisito?
+Existem diligências ou pendências?
+Quais indicadores de resultado pioraram ou melhoraram?
+Como a gestão acompanha o ciclo fora do período de habilitação?
+Os documentos estão versionados e facilmente recuperáveis?
+7.9 Salvaguardas de escopo
+Normas e prazos devem ser validados no exercício vigente antes de configurar obrigações ou promessas contratuais.
+A plataforma não substitui sistemas oficiais do MEC, FNDE, Inep, conselho, contabilidade ou demais órgãos; funciona como camada de governança municipal.
+Dados pessoais devem ser limitados ao necessário, com perfis de acesso e finalidade definida.
+Indicadores devem ser parametrizados à realidade da rede e não usados como mecanismo automático de responsabilização individual.
+
+8. Solução 05 — Educação em Tempo Integral
+Posicionamento: Criar matrícula integral não é apenas ampliar tempo. Exige proposta pedagógica, organização da jornada, profissionais, espaços, equidade de acesso, controle das matrículas pactuadas e monitoramento da implementação.
+Classe estratégica
+A/C — programa + capacidade de oferta
+Urgência típica
+Média/Alta
+Relação com financiamento/resultados
+O Programa Escola em Tempo Integral prevê assistência técnica e financeira da União para fomentar novas matrículas, conforme pactuação, declaração, disponibilidade e regras vigentes.
+Gatilho de contratação
+Município pactua novas matrículas; precisa selecionar escolas/estudantes; expansão ocorre sem modelo pedagógico consistente; dificuldades de pessoal, jornada, infraestrutura ou acompanhamento de metas.
+Público principal
+Secretaria, planejamento, currículo, gestores, RH, infraestrutura e escolas selecionadas.
+Fundamentação de referência
+Lei nº 14.640/2023 e regulamentações do Programa Escola em Tempo Integral do ciclo vigente.
+8.1 Objetivos do módulo
+Apoiar seleção e planejamento da expansão.
+Monitorar pactuação e criação de matrículas.
+Estruturar proposta pedagógica e plano de escola.
+Acompanhar condições de oferta e vulnerabilidades.
+Gerar evidências físicas e pedagógicas da implementação.
+8.2 Escopo pela metodologia IMPACTA
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Normas, programas, indicadores, dor declarada e riscos.
+Mapa de requisitos
+M — Mapear
+Situação atual, dados, documentos, atores e maturidade.
+Linha de base
+P — Planejar
+Metas, escopo, cronograma, responsáveis e critérios de evidência.
+Plano do módulo
+A — Ativar
+Configuração da plataforma, fluxos, cadastros e instrumentos.
+Ambiente configurado
+C — Capacitar
+Formação das equipes e públicos definidos.
+Público habilitado
+T — Trackear
+Monitoramento de execução, indicadores, prazos e evidências.
+Painel vivo
+A — Avaliar
+Análise de resultado, conformidade e aprendizagem institucional.
+Relatório de ciclo
+↻ — Aprimorar
+Plano de melhoria, novo ciclo e expansão para outras frentes.
+Backlog de melhoria
+8.3 Entregáveis
+Entregável
+Natureza
+Aceite sugerido
+Diagnóstico de capacidade de oferta.
+Diagnóstico
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Mapa de escolas e matrículas priorizadas.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Plano municipal de expansão.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Modelo de plano pedagógico de tempo integral.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Matriz de recursos humanos e infraestrutura.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painel de matrículas, execução e risco.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Relatório de implementação.
+Relatório
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+8.4 Funcionalidades de plataforma
+Mapa de expansão e vagas.
+Controle de pactuação e marcos.
+Checklist de condições por escola.
+Planos pedagógicos e evidências.
+Monitoramento de matrículas e permanência.
+Relatórios para gestão e programas.
+8.5 Indicadores recomendados
+Indicador
+Definição gerencial
+Cadência
+Matrículas pactuadas
+nº e % declaradas/criadas
+Mensal na implantação
+Cobertura
+% de matrículas da rede em jornada integral
+Mensal/anual
+Equidade de acesso
+perfil dos estudantes e territórios atendidos
+Trimestral
+Condições de oferta
+% de escolas com requisitos operacionais atendidos
+Mensal
+Execução pedagógica
+% de escolas com plano ativo/evidenciado
+Bimestral
+Permanência
+frequência/abandono nas escolas integrais
+Mensal
+8.6 Evidências e documentação
+Pactuações e declarações oficiais.
+Planos pedagógicos e horários.
+Matrículas e dados do Censo.
+Registros de infraestrutura/pessoal.
+Atividades e relatórios escolares.
+8.7 Níveis de serviço aplicáveis
+Nível
+Foco
+Inclui
+Resultado esperado
+1 — Diagnóstico
+Conhecer situação e risco.
+Inventário, linha de base, lacunas e plano.
+Decisão segura sobre o que fazer primeiro.
+2 — Implementação
+Fazer a política/ação acontecer.
+Instrumentos, formação, fluxos, plataforma e pilotagem.
+Execução padronizada e evidenciada.
+3 — Governança
+Manter, medir e aprimorar.
+Monitoramento contínuo, metas, suporte, relatórios e evolução.
+Capacidade institucional permanente.
+8.8 Perguntas de diagnóstico comercial
+Quantas matrículas integrais existem e quantas serão expandidas?
+Quais escolas possuem condições de oferta?
+A proposta pedagógica está alinhada à educação integral?
+Quais grupos vulneráveis serão priorizados?
+Como são acompanhadas frequência e permanência?
+A rede controla marcos de pactuação e declaração?
+8.9 Salvaguardas de escopo
+Normas e prazos devem ser validados no exercício vigente antes de configurar obrigações ou promessas contratuais.
+A plataforma não substitui sistemas oficiais do MEC, FNDE, Inep, conselho, contabilidade ou demais órgãos; funciona como camada de governança municipal.
+Dados pessoais devem ser limitados ao necessário, com perfis de acesso e finalidade definida.
+Indicadores devem ser parametrizados à realidade da rede e não usados como mecanismo automático de responsabilização individual.
+
+9. Solução 06 — Formação Continuada Municipal
+Posicionamento: A formação costuma ser gerida como evento. A proposta transforma-a em ciclo de desenvolvimento profissional conectado a diagnóstico, necessidade da escola, percurso, evidência de aplicação e resultado.
+Classe estratégica
+C — capacidade institucional
+Urgência típica
+Média/Alta
+Relação com financiamento/resultados
+Valor principalmente institucional e pedagógico. A formação pode ser requisito ou componente de diversas políticas, mas não deve ser apresentada como geradora automática de repasse.
+Gatilho de contratação
+Cursos são oferecidos sem cadastro consolidado; falta visão por escola/tema; certificados não demonstram aplicação; formações não respondem aos indicadores; a secretaria não possui histórico profissional da rede.
+Público principal
+Secretaria, setor de formação, gestores, coordenadores e profissionais da educação.
+Fundamentação de referência
+LDB e normativas específicas de cada política; diretrizes de formação devem ser verificadas conforme tema e perfil profissional.
+9.1 Objetivos do módulo
+Consolidar catálogo de formações e histórico profissional.
+Criar trilhas por perfil, tema e nível.
+Acompanhar inscrição, participação, conclusão e certificação.
+Medir aplicação e cobertura por escola.
+Relacionar formação a prioridades e indicadores.
+9.2 Escopo pela metodologia IMPACTA
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Normas, programas, indicadores, dor declarada e riscos.
+Mapa de requisitos
+M — Mapear
+Situação atual, dados, documentos, atores e maturidade.
+Linha de base
+P — Planejar
+Metas, escopo, cronograma, responsáveis e critérios de evidência.
+Plano do módulo
+A — Ativar
+Configuração da plataforma, fluxos, cadastros e instrumentos.
+Ambiente configurado
+C — Capacitar
+Formação das equipes e públicos definidos.
+Público habilitado
+T — Trackear
+Monitoramento de execução, indicadores, prazos e evidências.
+Painel vivo
+A — Avaliar
+Análise de resultado, conformidade e aprendizagem institucional.
+Relatório de ciclo
+↻ — Aprimorar
+Plano de melhoria, novo ciclo e expansão para outras frentes.
+Backlog de melhoria
+9.3 Entregáveis
+Entregável
+Natureza
+Aceite sugerido
+Censo formativo dos profissionais.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Matriz de competências e necessidades.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Catálogo de trilhas.
+Formação
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Plano anual de formação.
+Formação
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Gestão de turmas, progresso e certificação.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Instrumentos de avaliação e aplicação.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painel de cobertura e desenvolvimento.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+9.4 Funcionalidades de plataforma
+Catálogo e trilhas.
+Inscrição e turmas.
+Importação de progresso de AVA, quando disponível.
+Certificação e validação.
+Portfólio profissional.
+Painel por escola, função, trilha e período.
+9.5 Indicadores recomendados
+Indicador
+Definição gerencial
+Cadência
+Cobertura
+% do público prioritário inscrito/concluinte
+Mensal
+Conclusão
+taxa por trilha/turma
+Mensal
+Carga formativa
+horas por profissional/escola
+Trimestral
+Aplicação
+% de concluintes com evidência prática
+Bimestral
+Satisfação/utilidade
+avaliação pós-formação
+Por turma
+Aderência
+% das formações vinculadas a diagnóstico/prioridade
+Semestral
+9.6 Evidências e documentação
+Listas de presença/progresso.
+Avaliações e produtos formativos.
+Certificados.
+Planos/aplicações práticas.
+Relatórios de acompanhamento.
+9.7 Níveis de serviço aplicáveis
+Nível
+Foco
+Inclui
+Resultado esperado
+1 — Diagnóstico
+Conhecer situação e risco.
+Inventário, linha de base, lacunas e plano.
+Decisão segura sobre o que fazer primeiro.
+2 — Implementação
+Fazer a política/ação acontecer.
+Instrumentos, formação, fluxos, plataforma e pilotagem.
+Execução padronizada e evidenciada.
+3 — Governança
+Manter, medir e aprimorar.
+Monitoramento contínuo, metas, suporte, relatórios e evolução.
+Capacidade institucional permanente.
+9.8 Perguntas de diagnóstico comercial
+Existe base única de profissionais?
+Quais formações ocorreram nos últimos dois anos?
+Quem concluiu e quem não concluiu?
+As trilhas atendem necessidades diagnosticadas?
+Como se verifica aplicação no trabalho?
+A secretaria consegue provar cobertura por escola e função?
+9.9 Salvaguardas de escopo
+Normas e prazos devem ser validados no exercício vigente antes de configurar obrigações ou promessas contratuais.
+A plataforma não substitui sistemas oficiais do MEC, FNDE, Inep, conselho, contabilidade ou demais órgãos; funciona como camada de governança municipal.
+Dados pessoais devem ser limitados ao necessário, com perfis de acesso e finalidade definida.
+Indicadores devem ser parametrizados à realidade da rede e não usados como mecanismo automático de responsabilização individual.
+
+10. Solução 07 — Gestão e Liderança Escolar
+Posicionamento: A rede pode tratar a seleção de gestores apenas como evento administrativo. O módulo conecta conformidade, processo seletivo, desenvolvimento de competências e gestão por metas.
+Classe estratégica
+A/C — condicionalidade + liderança
+Urgência típica
+Média/Alta
+Relação com financiamento/resultados
+A forma de provimento de gestores integra a Condicionalidade I do VAAR, conforme regras do ciclo. O desenvolvimento de liderança agrega valor de gestão além da habilitação.
+Gatilho de contratação
+Legislação de seleção está desatualizada; processo seletivo não gera base organizada; gestores assumem sem trilha de desenvolvimento; metas e acompanhamento não são padronizados.
+Público principal
+Secretaria, RH, jurídico, comissão de seleção, gestores escolares e supervisão.
+Fundamentação de referência
+Lei nº 14.113/2020, Decreto nº 10.656/2021 e metodologia/resoluções do VAAR do ciclo vigente; LDB e normas locais de gestão democrática.
+10.1 Objetivos do módulo
+Mapear aderência do modelo de seleção às regras aplicáveis.
+Organizar etapas e evidências do processo.
+Construir perfil de competências de liderança.
+Criar trilha de desenvolvimento para gestores.
+Acompanhar metas escolares e evolução da gestão.
+10.2 Escopo pela metodologia IMPACTA
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Normas, programas, indicadores, dor declarada e riscos.
+Mapa de requisitos
+M — Mapear
+Situação atual, dados, documentos, atores e maturidade.
+Linha de base
+P — Planejar
+Metas, escopo, cronograma, responsáveis e critérios de evidência.
+Plano do módulo
+A — Ativar
+Configuração da plataforma, fluxos, cadastros e instrumentos.
+Ambiente configurado
+C — Capacitar
+Formação das equipes e públicos definidos.
+Público habilitado
+T — Trackear
+Monitoramento de execução, indicadores, prazos e evidências.
+Painel vivo
+A — Avaliar
+Análise de resultado, conformidade e aprendizagem institucional.
+Relatório de ciclo
+↻ — Aprimorar
+Plano de melhoria, novo ciclo e expansão para outras frentes.
+Backlog de melhoria
+10.3 Entregáveis
+Entregável
+Natureza
+Aceite sugerido
+Diagnóstico normativo do provimento.
+Diagnóstico
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Mapa do processo seletivo e documentos.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Cadastro/histórico de gestores.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Matriz de competências.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Trilha de formação para liderança.
+Formação
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Plano de metas e acompanhamento.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painel de gestão escolar.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+10.4 Funcionalidades de plataforma
+Cadastro e histórico de gestores.
+Gestão documental do processo seletivo.
+Matriz de competências e avaliação.
+Trilhas formativas.
+Planos/metas por escola.
+Painel de liderança e alertas.
+10.5 Indicadores recomendados
+Indicador
+Definição gerencial
+Cadência
+Adequação do provimento
+% de gestores em situação compatível com regra vigente
+Por ciclo
+Cobertura formativa
+% de gestores na trilha
+Mensal
+Metas escolares
+% de metas em trajetória adequada
+Bimestral
+Planos de gestão
+% atualizados e acompanhados
+Trimestral
+Desenvolvimento
+evolução em competências avaliadas
+Semestral
+10.6 Evidências e documentação
+Lei/decreto/resolução e editais.
+Resultados e atas do processo.
+Planos de gestão.
+Registros de formação e avaliação.
+Relatórios de acompanhamento.
+10.7 Níveis de serviço aplicáveis
+Nível
+Foco
+Inclui
+Resultado esperado
+1 — Diagnóstico
+Conhecer situação e risco.
+Inventário, linha de base, lacunas e plano.
+Decisão segura sobre o que fazer primeiro.
+2 — Implementação
+Fazer a política/ação acontecer.
+Instrumentos, formação, fluxos, plataforma e pilotagem.
+Execução padronizada e evidenciada.
+3 — Governança
+Manter, medir e aprimorar.
+Monitoramento contínuo, metas, suporte, relatórios e evolução.
+Capacidade institucional permanente.
+10.8 Perguntas de diagnóstico comercial
+Como os gestores são selecionados hoje?
+Qual percentual está coberto pelo modelo exigido no ciclo?
+Quais documentos comprovam o processo?
+Há perfil de competências?
+Existe formação de entrada e continuada?
+Cada gestor possui metas monitoradas?
+10.9 Salvaguardas de escopo
+Normas e prazos devem ser validados no exercício vigente antes de configurar obrigações ou promessas contratuais.
+A plataforma não substitui sistemas oficiais do MEC, FNDE, Inep, conselho, contabilidade ou demais órgãos; funciona como camada de governança municipal.
+Dados pessoais devem ser limitados ao necessário, com perfis de acesso e finalidade definida.
+Indicadores devem ser parametrizados à realidade da rede e não usados como mecanismo automático de responsabilização individual.
+
+11. Solução 08 — Frequência, Abandono e Busca Ativa
+Posicionamento: O dado de frequência só gera valor quando aciona um fluxo. A solução precisa distinguir ausência episódica, risco persistente, abandono, transferência e situações que exigem articulação com outros serviços.
+Classe estratégica
+B — permanência e fluxo
+Urgência típica
+Média/Alta
+Relação com financiamento/resultados
+A permanência e o fluxo afetam resultados educacionais e bases oficiais; componentes de atendimento/aprendizagem podem dialogar com VAAR conforme metodologia vigente.
+Gatilho de contratação
+Infrequência é percebida tarde; escolas usam controles diferentes; ações de contato não são registradas; não há visão territorial; abandono e transferência são analisados apenas no fechamento anual.
+Público principal
+Secretaria, gestores, equipes pedagógicas, assistência/saúde quando houver articulação autorizada e escolas.
+Fundamentação de referência
+LDB, ECA, regras de frequência escolar e Censo Escolar; protocolos locais e intersetoriais devem observar competências e proteção de dados.
+11.1 Objetivos do módulo
+Criar regra municipal de alerta e acompanhamento.
+Registrar ações e responsáveis.
+Identificar padrões por escola, turma e território.
+Reduzir tempo entre sinal de risco e intervenção.
+Consolidar indicadores de permanência e movimento.
+11.2 Escopo pela metodologia IMPACTA
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Normas, programas, indicadores, dor declarada e riscos.
+Mapa de requisitos
+M — Mapear
+Situação atual, dados, documentos, atores e maturidade.
+Linha de base
+P — Planejar
+Metas, escopo, cronograma, responsáveis e critérios de evidência.
+Plano do módulo
+A — Ativar
+Configuração da plataforma, fluxos, cadastros e instrumentos.
+Ambiente configurado
+C — Capacitar
+Formação das equipes e públicos definidos.
+Público habilitado
+T — Trackear
+Monitoramento de execução, indicadores, prazos e evidências.
+Painel vivo
+A — Avaliar
+Análise de resultado, conformidade e aprendizagem institucional.
+Relatório de ciclo
+↻ — Aprimorar
+Plano de melhoria, novo ciclo e expansão para outras frentes.
+Backlog de melhoria
+11.3 Entregáveis
+Entregável
+Natureza
+Aceite sugerido
+Diagnóstico de frequência/abandono.
+Diagnóstico
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Protocolo municipal de alertas e escalonamento.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Cadastro de casos com minimização de dados.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painel de risco e ações.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Mapa territorial quando houver base adequada.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Relatório mensal e fechamento anual.
+Relatório
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+11.4 Funcionalidades de plataforma
+Alertas por regra parametrizável.
+Fila de acompanhamento por escola.
+Registro de contatos e ações.
+Encaminhamentos com perfis restritos.
+Painel de risco e permanência.
+Relatórios agregados, com proteção de dados pessoais.
+11.5 Indicadores recomendados
+Indicador
+Definição gerencial
+Cadência
+Frequência
+% de presença por período
+Semanal/mensal
+Risco
+nº/% de estudantes acima do limiar definido
+Semanal
+Tempo de resposta
+dias entre alerta e primeira ação
+Semanal
+Recuperação
+% de casos com retorno/regularização
+Mensal
+Abandono
+taxa oficial e interna
+Mensal/anual
+Reincidência
+% de casos que voltam ao risco
+Mensal
+11.6 Evidências e documentação
+Registros de frequência.
+Ações de contato e acompanhamento.
+Planos de intervenção.
+Movimento/rendimento do Censo.
+Relatórios agregados de permanência.
+11.7 Níveis de serviço aplicáveis
+Nível
+Foco
+Inclui
+Resultado esperado
+1 — Diagnóstico
+Conhecer situação e risco.
+Inventário, linha de base, lacunas e plano.
+Decisão segura sobre o que fazer primeiro.
+2 — Implementação
+Fazer a política/ação acontecer.
+Instrumentos, formação, fluxos, plataforma e pilotagem.
+Execução padronizada e evidenciada.
+3 — Governança
+Manter, medir e aprimorar.
+Monitoramento contínuo, metas, suporte, relatórios e evolução.
+Capacidade institucional permanente.
+11.8 Perguntas de diagnóstico comercial
+Qual regra define estudante em risco?
+Com que frequência a secretaria recebe dados?
+Quem é responsável pela primeira ação?
+Como os casos são escalonados?
+Há integração com outros serviços?
+Quais escolas/territórios concentram risco?
+11.9 Salvaguardas de escopo
+Normas e prazos devem ser validados no exercício vigente antes de configurar obrigações ou promessas contratuais.
+A plataforma não substitui sistemas oficiais do MEC, FNDE, Inep, conselho, contabilidade ou demais órgãos; funciona como camada de governança municipal.
+Dados pessoais devem ser limitados ao necessário, com perfis de acesso e finalidade definida.
+Indicadores devem ser parametrizados à realidade da rede e não usados como mecanismo automático de responsabilização individual.
+
+12. Solução 09 — Agendas Curriculares Transversais
+Posicionamento: “Tema transversal” não é uma categoria jurídica uniforme. Alguns temas têm obrigação legal explícita; outros são orientações curriculares ou prioridades. O produto precisa classificar a força normativa antes de propor uma solução.
+Classe estratégica
+A/C — conformidade curricular variável
+Urgência típica
+Variável
+Relação com financiamento/resultados
+Predominantemente curricular e institucional. Não se deve associar genericamente essas agendas a repasse financeiro; cada tema possui base legal e mecanismos próprios.
+Gatilho de contratação
+Normas existem, mas currículo/PPP/formação/evidências não estão organizados; a secretaria deseja implantar várias agendas usando um mesmo modelo de governança.
+Público principal
+Currículo, formação, gestores, coordenadores, professores, conselhos e parceiros temáticos.
+Fundamentação de referência
+Exemplos: Lei nº 9.795/1999 (Educação Ambiental); Leis nº 10.639/2003 e nº 11.645/2008 e Resolução CNE/CP nº 1/2004 (relações étnico-raciais); BNCC e Cadernos de Temas Contemporâneos Transversais para temas como educação financeira, além de outras normas específicas.
+12.1 Objetivos do módulo
+Inventariar agendas obrigatórias/prioritárias.
+Classificar força normativa e estágio de implementação.
+Integrar temas ao currículo e PPP sem fragmentação.
+Formar profissionais e acompanhar aplicação.
+Construir evidências e indicadores adequados a cada agenda.
+12.2 Escopo pela metodologia IMPACTA
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Normas, programas, indicadores, dor declarada e riscos.
+Mapa de requisitos
+M — Mapear
+Situação atual, dados, documentos, atores e maturidade.
+Linha de base
+P — Planejar
+Metas, escopo, cronograma, responsáveis e critérios de evidência.
+Plano do módulo
+A — Ativar
+Configuração da plataforma, fluxos, cadastros e instrumentos.
+Ambiente configurado
+C — Capacitar
+Formação das equipes e públicos definidos.
+Público habilitado
+T — Trackear
+Monitoramento de execução, indicadores, prazos e evidências.
+Painel vivo
+A — Avaliar
+Análise de resultado, conformidade e aprendizagem institucional.
+Relatório de ciclo
+↻ — Aprimorar
+Plano de melhoria, novo ciclo e expansão para outras frentes.
+Backlog de melhoria
+12.3 Entregáveis
+Entregável
+Natureza
+Aceite sugerido
+Matriz municipal de agendas curriculares.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Mapa de base legal e requisitos por tema.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Plano de implementação por agenda.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Trilhas formativas temáticas.
+Formação
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Modelos de projetos/ações pedagógicas.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painel de cobertura e evidências.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Relatório anual de agendas curriculares.
+Relatório
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+12.4 Funcionalidades de plataforma
+Catálogo de agendas e requisitos.
+Checklist por escola/PPP.
+Trilhas formativas.
+Banco de projetos e evidências.
+Painel de cobertura.
+Relatórios por tema e por rede.
+12.5 Indicadores recomendados
+Indicador
+Definição gerencial
+Cadência
+Cobertura curricular
+% de agendas prioritárias incorporadas aos instrumentos
+Anual
+Cobertura escolar
+% de escolas com ações evidenciadas
+Bimestral
+Formação
+% do público prioritário formado
+Trimestral
+Aplicação
+nº/% de projetos ou sequências validadas
+Bimestral
+Diversidade de cobertura
+etapas/territórios contemplados
+Semestral
+12.6 Evidências e documentação
+Currículo e PPP.
+Planos de aula/projetos.
+Registros de formação.
+Eventos e produtos pedagógicos.
+Relatórios de implementação.
+12.7 Níveis de serviço aplicáveis
+Nível
+Foco
+Inclui
+Resultado esperado
+1 — Diagnóstico
+Conhecer situação e risco.
+Inventário, linha de base, lacunas e plano.
+Decisão segura sobre o que fazer primeiro.
+2 — Implementação
+Fazer a política/ação acontecer.
+Instrumentos, formação, fluxos, plataforma e pilotagem.
+Execução padronizada e evidenciada.
+3 — Governança
+Manter, medir e aprimorar.
+Monitoramento contínuo, metas, suporte, relatórios e evolução.
+Capacidade institucional permanente.
+12.8 Perguntas de diagnóstico comercial
+Quais agendas são obrigatórias por lei e quais são prioridades locais?
+Quais já constam do currículo?
+O PPP das escolas reflete essas agendas?
+Há formação específica?
+Como a rede evita ações apenas comemorativas/pontuais?
+Que evidência demonstra continuidade ao longo do ano?
+12.9 Salvaguardas de escopo
+Normas e prazos devem ser validados no exercício vigente antes de configurar obrigações ou promessas contratuais.
+A plataforma não substitui sistemas oficiais do MEC, FNDE, Inep, conselho, contabilidade ou demais órgãos; funciona como camada de governança municipal.
+Dados pessoais devem ser limitados ao necessário, com perfis de acesso e finalidade definida.
+Indicadores devem ser parametrizados à realidade da rede e não usados como mecanismo automático de responsabilização individual.
+
+13. Solução 10 — Governança de Programas e Recursos
+Posicionamento: A secretaria pode ter dezenas de programas com lógicas diferentes. A solução não tenta “substituir o FNDE/Simec”; cria uma camada municipal para saber o que precisa ser feito, por quem, até quando e com qual evidência.
+Classe estratégica
+A/C — execução de programas
+Urgência típica
+Variável
+Relação com financiamento/resultados
+Pode apoiar programas com transferência de recursos, mas não substitui sistemas oficiais, contabilidade, prestação de contas ou regras específicas. O valor está na gestão de prazos, responsabilidades, documentos e execução física.
+Gatilho de contratação
+Múltiplos programas federais/estaduais são acompanhados em planilhas diferentes; prazos são perdidos; unidades executoras têm pendências; não há visão executiva de pactuação, execução e evidências.
+Público principal
+Secretaria, financeiro/administrativo, técnicos de programas, gestores e unidades executoras.
+Fundamentação de referência
+Normas específicas de cada programa. Exemplo: PDDE e suas resoluções do FNDE; Escola em Tempo Integral; ações de conectividade e outras políticas, sempre conforme ciclo vigente.
+13.1 Objetivos do módulo
+Criar portfólio único de programas.
+Controlar adesões, cadastros, pendências e prazos.
+Acompanhar execução física e metas.
+Organizar documentos e evidências.
+Gerar alertas e visão de risco para alta gestão.
+13.2 Escopo pela metodologia IMPACTA
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Normas, programas, indicadores, dor declarada e riscos.
+Mapa de requisitos
+M — Mapear
+Situação atual, dados, documentos, atores e maturidade.
+Linha de base
+P — Planejar
+Metas, escopo, cronograma, responsáveis e critérios de evidência.
+Plano do módulo
+A — Ativar
+Configuração da plataforma, fluxos, cadastros e instrumentos.
+Ambiente configurado
+C — Capacitar
+Formação das equipes e públicos definidos.
+Público habilitado
+T — Trackear
+Monitoramento de execução, indicadores, prazos e evidências.
+Painel vivo
+A — Avaliar
+Análise de resultado, conformidade e aprendizagem institucional.
+Relatório de ciclo
+↻ — Aprimorar
+Plano de melhoria, novo ciclo e expansão para outras frentes.
+Backlog de melhoria
+13.3 Entregáveis
+Entregável
+Natureza
+Aceite sugerido
+Inventário de programas e fontes.
+Diagnóstico
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Calendário anual de obrigações.
+Planejamento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Matriz RACI por programa.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Checklist de regularidade.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painel de execução física e status.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Repositório de documentos.
+Governança
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Relatório executivo de programas.
+Relatório
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+13.4 Funcionalidades de plataforma
+Portfólio de programas.
+Calendário e alertas.
+Checklist de regularidade.
+Workflow de documentos.
+Execução física e metas.
+Painel executivo.
+13.5 Indicadores recomendados
+Indicador
+Definição gerencial
+Cadência
+Regularidade
+% de programas/unidades sem pendência conhecida
+Semanal/mensal
+Prazos
+% de marcos concluídos no prazo
+Mensal
+Execução física
+% de metas/entregas realizadas
+Mensal
+Documentação
+% de itens obrigatórios arquivados
+Mensal
+Risco
+nº de programas em atenção/crítico
+Semanal
+13.6 Evidências e documentação
+Comprovantes de adesão/pactuação.
+Cadastros e regularidade de unidades.
+Planos e documentos do programa.
+Registros de execução física.
+Protocolos/recibos dos sistemas oficiais quando aplicável.
+13.7 Níveis de serviço aplicáveis
+Nível
+Foco
+Inclui
+Resultado esperado
+1 — Diagnóstico
+Conhecer situação e risco.
+Inventário, linha de base, lacunas e plano.
+Decisão segura sobre o que fazer primeiro.
+2 — Implementação
+Fazer a política/ação acontecer.
+Instrumentos, formação, fluxos, plataforma e pilotagem.
+Execução padronizada e evidenciada.
+3 — Governança
+Manter, medir e aprimorar.
+Monitoramento contínuo, metas, suporte, relatórios e evolução.
+Capacidade institucional permanente.
+13.8 Perguntas de diagnóstico comercial
+Quais programas estão ativos?
+Quem é responsável por cada um?
+Quais sistemas oficiais são usados?
+Onde ficam os comprovantes?
+Quais unidades têm pendências?
+A alta gestão sabe o que vence nos próximos 30/60/90 dias?
+13.9 Salvaguardas de escopo
+Normas e prazos devem ser validados no exercício vigente antes de configurar obrigações ou promessas contratuais.
+A plataforma não substitui sistemas oficiais do MEC, FNDE, Inep, conselho, contabilidade ou demais órgãos; funciona como camada de governança municipal.
+Dados pessoais devem ser limitados ao necessário, com perfis de acesso e finalidade definida.
+Indicadores devem ser parametrizados à realidade da rede e não usados como mecanismo automático de responsabilização individual.
+
+14. Solução 11 — Painel Executivo da Secretaria
+Posicionamento: Painéis tradicionais acumulam gráficos sem decisão. O painel executivo precisa ser orientado por perguntas: o que está fora da meta, por quê, quem responde, qual o prazo e qual ação está em curso.
+Classe estratégica
+C/T — gestão estratégica
+Urgência típica
+Transversal
+Relação com financiamento/resultados
+Não gera repasse por si. Consolida visão de políticas, indicadores, riscos e metas, apoiando melhor alocação de capacidade e resposta institucional.
+Gatilho de contratação
+Secretário depende de planilhas e apresentações manuais; cada equipe possui seus indicadores; não existe visão única de prioridades, escolas críticas, prazos e execução.
+Público principal
+Prefeito, secretário, adjuntos, gerências/coordenadorias e equipe de planejamento.
+Fundamentação de referência
+Módulo gerencial transversal; alimentado por dados oficiais e municipais conforme governança definida.
+14.1 Objetivos do módulo
+Consolidar portfólio de políticas e indicadores.
+Apresentar riscos e prioridades em linguagem executiva.
+Permitir drill-down por escola/território sem expor dados indevidos.
+Acompanhar metas e planos.
+Produzir relatórios periódicos de gestão.
+14.2 Escopo pela metodologia IMPACTA
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Normas, programas, indicadores, dor declarada e riscos.
+Mapa de requisitos
+M — Mapear
+Situação atual, dados, documentos, atores e maturidade.
+Linha de base
+P — Planejar
+Metas, escopo, cronograma, responsáveis e critérios de evidência.
+Plano do módulo
+A — Ativar
+Configuração da plataforma, fluxos, cadastros e instrumentos.
+Ambiente configurado
+C — Capacitar
+Formação das equipes e públicos definidos.
+Público habilitado
+T — Trackear
+Monitoramento de execução, indicadores, prazos e evidências.
+Painel vivo
+A — Avaliar
+Análise de resultado, conformidade e aprendizagem institucional.
+Relatório de ciclo
+↻ — Aprimorar
+Plano de melhoria, novo ciclo e expansão para outras frentes.
+Backlog de melhoria
+14.3 Entregáveis
+Entregável
+Natureza
+Aceite sugerido
+Mapa estratégico da secretaria.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Dicionário de indicadores.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Dashboard executivo.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painéis temáticos.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Relatório mensal e pauta de reunião de gestão.
+Relatório
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Matriz de riscos e alertas.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+14.4 Funcionalidades de plataforma
+Home executiva.
+Mapa/ranking quando adequado.
+Cards de risco e prazo.
+Drill-down por escola e política.
+Relatórios automáticos.
+Gestão de metas e planos.
+14.5 Indicadores recomendados
+Indicador
+Definição gerencial
+Cadência
+Metas
+% de indicadores em meta/atenção/crítico
+Mensal
+Planos
+% de ações no prazo
+Semanal/mensal
+Prazos críticos
+nº de marcos nos próximos 30 dias
+Semanal
+Cobertura de dados
+% de escolas com atualização válida
+Mensal
+Tempo de resposta
+tempo entre sinal crítico e ação registrada
+Mensal
+14.6 Evidências e documentação
+Atas de reunião gerencial.
+Planos e metas.
+Relatórios exportados.
+Histórico de indicadores.
+Registro de decisões e responsáveis.
+14.7 Níveis de serviço aplicáveis
+Nível
+Foco
+Inclui
+Resultado esperado
+1 — Diagnóstico
+Conhecer situação e risco.
+Inventário, linha de base, lacunas e plano.
+Decisão segura sobre o que fazer primeiro.
+2 — Implementação
+Fazer a política/ação acontecer.
+Instrumentos, formação, fluxos, plataforma e pilotagem.
+Execução padronizada e evidenciada.
+3 — Governança
+Manter, medir e aprimorar.
+Monitoramento contínuo, metas, suporte, relatórios e evolução.
+Capacidade institucional permanente.
+14.8 Perguntas de diagnóstico comercial
+Quais são as 10 prioridades do secretário?
+Quais indicadores realmente mudam decisão?
+Que relatórios são produzidos manualmente?
+Quais bases alimentam esses relatórios?
+Quem atualiza cada indicador?
+Que nível de detalhe cada perfil deve visualizar?
+14.9 Salvaguardas de escopo
+Normas e prazos devem ser validados no exercício vigente antes de configurar obrigações ou promessas contratuais.
+A plataforma não substitui sistemas oficiais do MEC, FNDE, Inep, conselho, contabilidade ou demais órgãos; funciona como camada de governança municipal.
+Dados pessoais devem ser limitados ao necessário, com perfis de acesso e finalidade definida.
+Indicadores devem ser parametrizados à realidade da rede e não usados como mecanismo automático de responsabilização individual.
+
+15. Solução 12 — Dados e Qualidade Cadastral
+Posicionamento: Sem dados confiáveis, todos os demais módulos perdem credibilidade. Qualidade cadastral é produto de governança: dicionário, chaves, responsáveis, periodicidade, validações e histórico.
+Classe estratégica
+T — infraestrutura transversal
+Urgência típica
+Transversal
+Relação com financiamento/resultados
+Dados do Censo Escolar e de outras bases sustentam indicadores, planejamento e procedimentos administrativos ligados a políticas e financiamento. O módulo reduz risco de inconsistência; não substitui a declaração oficial.
+Gatilho de contratação
+INEPs divergentes; nomes de escola variam; professores duplicados; bases não têm chaves; dados são atualizados por cópia manual; resultados diferentes aparecem em relatórios distintos.
+Público principal
+Equipe de dados/TI, planejamento, Censo Escolar, RH, coordenações e gestores de módulos.
+Fundamentação de referência
+Censo Escolar do Inep, realizado anualmente e obrigatório; regras de dados, LGPD e fontes oficiais específicas de cada política.
+15.1 Objetivos do módulo
+Criar cadastro mestre da rede.
+Padronizar chaves e dicionário.
+Definir fontes oficiais por campo/indicador.
+Automatizar validações e cruzamentos quando viável.
+Estabelecer rotina de atualização, auditoria e LGPD.
+15.2 Escopo pela metodologia IMPACTA
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Normas, programas, indicadores, dor declarada e riscos.
+Mapa de requisitos
+M — Mapear
+Situação atual, dados, documentos, atores e maturidade.
+Linha de base
+P — Planejar
+Metas, escopo, cronograma, responsáveis e critérios de evidência.
+Plano do módulo
+A — Ativar
+Configuração da plataforma, fluxos, cadastros e instrumentos.
+Ambiente configurado
+C — Capacitar
+Formação das equipes e públicos definidos.
+Público habilitado
+T — Trackear
+Monitoramento de execução, indicadores, prazos e evidências.
+Painel vivo
+A — Avaliar
+Análise de resultado, conformidade e aprendizagem institucional.
+Relatório de ciclo
+↻ — Aprimorar
+Plano de melhoria, novo ciclo e expansão para outras frentes.
+Backlog de melhoria
+15.3 Entregáveis
+Entregável
+Natureza
+Aceite sugerido
+Inventário de bases.
+Diagnóstico
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Dicionário de dados.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Modelo mestre de escola/profissional/turma/estudante conforme necessidade.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Regras de qualidade e validação.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Rotina de atualização e versionamento.
+Governança
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Painel de qualidade cadastral.
+Plataforma
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+Matriz LGPD e perfis de acesso.
+Instrumento
+Documento/registro validado pela equipe responsável e armazenado na trilha de evidências.
+15.4 Funcionalidades de plataforma
+Cadastro mestre.
+Importadores de planilhas/arquivos.
+Validações automáticas.
+Logs e versionamento.
+Painel de qualidade.
+Perfis de acesso e minimização de dados.
+15.5 Indicadores recomendados
+Indicador
+Definição gerencial
+Cadência
+Completude
+% de campos obrigatórios preenchidos
+Mensal
+Consistência
+% de registros sem conflito de regra
+Mensal
+Duplicidade
+nº/% de duplicados
+Mensal
+Atualidade
+% de registros dentro do SLA de atualização
+Mensal
+Rastreabilidade
+% de indicadores com fonte/responsável definidos
+Trimestral
+15.6 Evidências e documentação
+Dicionário e regras de negócio.
+Relatórios de qualidade.
+Logs de importação/alteração.
+Termos/processos de governança.
+Mapas de acesso e finalidade.
+15.7 Níveis de serviço aplicáveis
+Nível
+Foco
+Inclui
+Resultado esperado
+1 — Diagnóstico
+Conhecer situação e risco.
+Inventário, linha de base, lacunas e plano.
+Decisão segura sobre o que fazer primeiro.
+2 — Implementação
+Fazer a política/ação acontecer.
+Instrumentos, formação, fluxos, plataforma e pilotagem.
+Execução padronizada e evidenciada.
+3 — Governança
+Manter, medir e aprimorar.
+Monitoramento contínuo, metas, suporte, relatórios e evolução.
+Capacidade institucional permanente.
+15.8 Perguntas de diagnóstico comercial
+Qual base é considerada oficial para escolas, profissionais e matrículas?
+Quais chaves permitem cruzamento seguro?
+Quem pode corrigir cada tipo de dado?
+Com que frequência as bases são atualizadas?
+Quais dados pessoais são realmente necessários?
+Os indicadores têm fonte e fórmula documentadas?
+15.9 Salvaguardas de escopo
+Normas e prazos devem ser validados no exercício vigente antes de configurar obrigações ou promessas contratuais.
+A plataforma não substitui sistemas oficiais do MEC, FNDE, Inep, conselho, contabilidade ou demais órgãos; funciona como camada de governança municipal.
+Dados pessoais devem ser limitados ao necessário, com perfis de acesso e finalidade definida.
+Indicadores devem ser parametrizados à realidade da rede e não usados como mecanismo automático de responsabilização individual.
+
+16. Combinações comerciais e arquitetura de expansão
+A expansão deve ocorrer por combinação de capacidades reutilizáveis. Quando um município já possui o módulo de dados e o painel executivo, novos módulos tendem a exigir menos configuração de base. Quando já existe formação continuada, uma nova agenda curricular pode reutilizar trilhas, inscrições, certificação e evidências.
+Pacote
+Composição sugerida
+Dor que resolve
+Primeiro resultado
+Expansão natural
+Conformidade Curricular
+BNCC Computação + Agendas Curriculares + Formação
+Normas e currículo não chegam à escola.
+Mapa de adequação + plano + trilha formativa.
+Painel executivo e dados.
+Resultados e VAAR
+VAAR + Saeb/Ideb + Frequência/Permanência + Dados
+Risco de habilitação e indicadores sem gestão integrada.
+Mapa de risco + painel de indicadores.
+Gestão escolar e alfabetização.
+Aprendizagem
+Alfabetização + Saeb/Ideb + Formação
+Baixo desempenho e intervenção fragmentada.
+Linha de base + planos por escola.
+Frequência e painel executivo.
+Gestão de Rede
+Painel Executivo + Dados + Gestão Escolar
+Alta gestão sem visão única e processos pouco padronizados.
+Sala de situação municipal.
+Programas/recursos e formação.
+Execução de Programas
+Programas/Recursos + Tempo Integral + Dados
+Prazos, pactuações, regularidade e execução dispersos.
+Calendário + portfólio + alertas.
+Painel executivo.
+Transformação Completa
+Núcleo + 3 frentes prioritárias definidas por diagnóstico
+Município busca modelo integrado e escalável.
+Plano 90 dias + plataforma modular.
+Demais frentes por maturidade.
+16.1 Regra de cross-sell responsável
+Novo módulo só deve ser recomendado quando houver uma lacuna demonstrável, um ganho de governança ou uma prioridade reconhecida pelo município. A expansão não deve ser apresentada como “mais funcionalidades”, e sim como resolução de um novo problema.
+17. Diagnóstico para seleção de módulos
+O diagnóstico comercial pode ser aplicado em reunião de 60 a 90 minutos e validado posteriormente com documentos e dados. A finalidade é selecionar de uma a três frentes prioritárias, evitando escopo excessivo no primeiro ciclo.
+Dimensão
+Pergunta-chave
+0 — baixo
+1/2 — médio
+3 — alto
+Urgência normativa
+Existe prazo, obrigação, diligência ou mudança normativa próxima?
+Sem prazo relevante.
+Há requisito, mas controlado.
+Prazo próximo, pendência ou risco.
+Impacto financeiro
+A frente influencia habilitação, pactuação ou regularidade de programa?
+Sem relação.
+Relação indireta.
+Relação direta/condicional relevante.
+Impacto pedagógico
+A lacuna afeta aprendizagem, permanência ou equidade?
+Baixo.
+Localizado.
+Amplo ou crítico.
+Capacidade atual
+A rede possui equipe, processo e dados confiáveis?
+Alta capacidade.
+Parcial.
+Baixa capacidade/fragmentação.
+Evidência
+A secretaria consegue provar o que executou?
+Sim, de forma organizada.
+Parcialmente.
+Não/depende de buscas manuais.
+Visibilidade política
+A frente é prioridade do governo/secretário/comunidade?
+Baixa.
+Média.
+Alta.
+17.1 Interpretação
+0–5 pontos: manter no backlog ou tratar por orientação pontual.
+6–10 pontos: candidato a módulo de Nível 1 ou piloto.
+11–14 pontos: prioridade de Nível 2, com implementação estruturada.
+15–18 pontos: prioridade crítica; avaliar Nível 3 e governança executiva.
+
+18. Matriz consolidada de entregáveis, dados e indicadores
+Solução
+Documento/Plano
+Formação
+Dados-chave
+Indicador central
+Evidência central
+01 — BNCC Computação
+Plano municipal de implementação da BNCC Computação.
+Sim
+Currículo, professores, escolas
+Cobertura curricular
+Referencial curricular/ato de adesão e atos de aprovação, quando aplicável.
+02 — Alfabetização e Anos Iniciais
+Matriz de habilidades prioritárias e metas por ciclo.
+Sim
+Avaliações, turmas
+Crianças no padrão esperado
+Instrumentos e resultados de avaliação.
+03 — Saeb, Ideb e Aprendizagem
+Mapa de desempenho e participação por escola.
+Sim
+Saeb, Censo, avaliações
+Participação
+Resultados oficiais e boletins.
+04 — VAAR: Condicionalidades, Permanência, Equidade e Gestão
+Inventário de atos, editais, currículos e evidências.
+Conforme escopo
+Simec, Saeb, Censo, atos
+Condicionalidades
+Atos de gestão escolar e processos seletivos.
+05 — Educação em Tempo Integral
+Mapa de escolas e matrículas priorizadas.
+Sim
+Matrículas, jornada, escolas
+Matrículas pactuadas
+Pactuações e declarações oficiais.
+06 — Formação Continuada Municipal
+Matriz de competências e necessidades.
+Sim
+Profissionais, trilhas
+Cobertura
+Listas de presença/progresso.
+07 — Gestão e Liderança Escolar
+Mapa do processo seletivo e documentos.
+Sim
+Gestores, atos, metas
+Adequação do provimento
+Lei/decreto/resolução e editais.
+08 — Frequência, Abandono e Busca Ativa
+Protocolo municipal de alertas e escalonamento.
+Conforme escopo
+Frequência, movimento
+Frequência
+Registros de frequência.
+09 — Agendas Curriculares Transversais
+Mapa de base legal e requisitos por tema.
+Sim
+Currículo, PPP, projetos
+Cobertura curricular
+Currículo e PPP.
+10 — Governança de Programas e Recursos
+Calendário anual de obrigações.
+Conforme escopo
+Programas, prazos, documentos
+Regularidade
+Comprovantes de adesão/pactuação.
+11 — Painel Executivo da Secretaria
+Dicionário de indicadores.
+Conforme escopo
+Metas, indicadores
+Metas
+Atas de reunião gerencial.
+12 — Dados e Qualidade Cadastral
+Dicionário de dados.
+Conforme escopo
+Cadastros e chaves
+Completude
+Dicionário e regras de negócio.
+18.1 Camadas de dados reutilizáveis
+Escolas: INEP, nome, localização, etapas, modalidades, oferta, infraestrutura e responsáveis.
+Profissionais: chave funcional, escola(s), função, formação, componentes, carga horária, trilhas e histórico.
+Estudantes: somente quando necessário ao módulo; preferir identificadores internos/anonimizados em análises agregadas.
+Políticas e programas: normas, marcos, responsáveis, documentos, status e riscos.
+Indicadores: fórmula, fonte, periodicidade, granularidade, meta, responsável e histórico.
+Evidências: tipo, política, escola, período, autor/responsável, validação e versão.
+19. Regras de dimensionamento comercial
+O preço final não deve depender apenas do número de módulos. O dimensionamento precisa considerar o esforço real de implantação e sustentação. O catálogo recomenda uma fórmula de composição com componentes transparentes.
+Componente
+Variáveis
+Efeito no esforço
+Observação
+Diagnóstico inicial
+porte da rede, nº de bases, nº de políticas, qualidade documental
+Aumenta horas de consultoria.
+Pode ser produto de entrada independente.
+Configuração tecnológica
+módulos, perfis, integrações, relatórios
+Aumenta setup.
+Reutilizável na expansão.
+Formação
+nº de perfis, turmas, carga horária, conteúdo autoral
+Aumenta produção e facilitação.
+Separar formação da licença quando necessário.
+Suporte e governança
+SLA, cadência de reuniões, volume de usuários
+Aumenta recorrência.
+Base para contrato anual.
+Dados e integrações
+qualidade, frequência, API/importação, legado
+Pode elevar complexidade.
+Não prometer integração sem validação técnica.
+Customização
+regras locais, relatórios, identidade, novos fluxos
+Aumenta desenvolvimento.
+Controlar para preservar escalabilidade.
+19.1 Formatos comerciais sugeridos
+Diagnóstico Executivo — escopo curto, preço fechado, gera mapa de prioridades e proposta de continuidade.
+Projeto Temático — implantação de uma solução com prazo e entregáveis definidos.
+Assinatura de Governança — plataforma + acompanhamento contínuo + relatórios + suporte, com módulos contratados.
+Programa Integrado — múltiplas soluções, com governança central e ondas de implantação.
+Serviço de Formação — pode ser contratado isoladamente, mas ganha valor quando conectado a um módulo de política e seus indicadores.
+20. Transição para o Volume 3 — BNCC Computação
+A Solução 01 é a porta de entrada prioritária porque combina obrigação curricular, demanda formativa, necessidade de implementação escolar, rastreabilidade de evidências e conexão com a Condicionalidade V do VAAR no ciclo 2027. O Volume 3 deve transformar a ficha deste catálogo em projeto operacional completo.
+20.1 Conteúdo previsto do Volume 3
+Diagnóstico municipal de maturidade em BNCC Computação.
+Alternativas de implementação curricular e governança de aprovação/adesão.
+Estrutura pedagógica por Educação Infantil, anos iniciais e anos finais, conforme escopo municipal.
+Trilhas de formação, módulos, cargas horárias de referência e critérios de certificação.
+Plano de implantação em escolas piloto e expansão.
+Matriz de indicadores e evidências bimestrais/anual.
+Modelo de reconhecimento e valorização profissional.
+Arquitetura funcional detalhada do módulo na plataforma.
+Cronograma, papéis, entregáveis e critérios de aceite.
+Modelos de documentos, checklists e roteiro de apresentação comercial.
+O Volume 2 diz “o que pode ser comprado”. O Volume 3 dirá, em profundidade, “como a BNCC Computação será implementada”.
+
+ANEXO A — Matriz de dependências entre soluções
+Solução
+Dependência recomendada
+Sinergia forte
+Pode iniciar sozinha?
+BNCC Computação
+Dados básicos da rede
+Formação + Agendas + VAAR
+Sim
+Alfabetização
+Dados + avaliações
+Formação + Saeb/Ideb
+Sim
+Saeb/Ideb
+Dados de escolas/avaliações
+VAAR + Alfabetização
+Sim
+VAAR
+Dados + documentos do ciclo
+Saeb/Ideb + Gestão + BNCC Computação
+Sim
+Tempo Integral
+Dados de matrícula/escola
+Programas + Painel
+Sim
+Formação
+Cadastro de profissionais
+Todos os módulos pedagógicos
+Sim
+Gestão Escolar
+Cadastro de gestores/escolas
+VAAR + Painel
+Sim
+Frequência
+Dados de matrícula/frequência
+VAAR + Painel
+Sim, com fonte de frequência
+Agendas Curriculares
+Currículo/PPP
+Formação + BNCC Computação
+Sim
+Programas/Recursos
+Inventário de programas
+Painel + Dados
+Sim
+Painel Executivo
+Indicadores e fontes definidas
+Todos
+Sim, mas ganha valor com módulos
+Dados
+Acesso a bases municipais
+Todos
+Sim — é infraestrutura
+ANEXO B — Checklist de reunião comercial inicial
+☐ 01. Quais são hoje as três maiores preocupações do secretário para os próximos 12 meses?
+☐ 02. Existe algum prazo do MEC/FNDE/Inep/Simec ou do conselho que esteja pressionando a equipe?
+☐ 03. Quais políticas têm documentação incompleta ou dependem de poucas pessoas?
+☐ 04. Quais indicadores o prefeito/secretário acompanha regularmente?
+☐ 05. Quais resultados de aprendizagem ou fluxo mais preocupam a rede?
+☐ 06. Quais programas possuem recursos, pactuações ou prestações de informação em andamento?
+☐ 07. Como são gerenciadas as formações e o histórico dos profissionais?
+☐ 08. Existe uma base única de escolas, profissionais e matrículas confiável?
+☐ 09. Quais relatórios são montados manualmente todos os meses?
+☐ 10. Que sistema oficial ou planilha a equipe considera mais crítica?
+☐ 11. Qual frente poderia gerar valor visível em até 90 dias?
+☐ 12. Quem precisa estar na governança do projeto para a implantação funcionar?
+ANEXO C — Referências oficiais de base
+As referências abaixo sustentam o desenho inicial do catálogo. Antes de cada implantação, devem ser consultadas as versões, portarias, resoluções, manuais e prazos do exercício vigente.
+Referência
+Órgão
+Link oficial
+BNCC Computação — Resolução CNE/CEB nº 1/2022
+Conselho Nacional de Educação / MEC
+Acessar fonte
+Política Nacional de Educação Digital — Lei nº 14.533/2023
+Presidência da República
+Acessar fonte
+Fundeb — Lei nº 14.113/2020
+Presidência da República
+Acessar fonte
+VAAR 2027 — Resolução CIF nº 24/2026
+FNDE
+Acessar fonte
+VAAR 2027 — metodologia dos indicadores de atendimento e aprendizagem
+Inep
+Acessar fonte
+Compromisso Nacional Criança Alfabetizada — Decreto nº 11.556/2023
+Presidência/MEC
+Acessar fonte
+Saeb — apresentação e resultados
+Inep
+Acessar fonte
+Ideb — apresentação
+Inep
+Acessar fonte
+Censo Escolar
+Inep
+Acessar fonte
+Programa Escola em Tempo Integral — Lei nº 14.640/2023
+Presidência/FNDE
+Acessar fonte
+PDDE — Resolução nº 15/2021
+FNDE
+Acessar fonte
+Política Nacional de Educação Ambiental — Lei nº 9.795/1999
+MEC
+Acessar fonte
+Diretrizes Curriculares Nacionais para Educação das Relações Étnico-Raciais — Resolução CNE/CP nº 1/2004
+CNE/MEC
+Acessar fonte
+Temas Contemporâneos Transversais — Economia / Educação Financeira
+MEC/BNCC
+Acessar fonte
+ANEXO D — Glossário comercial
+Termo
+Definição
+Conformidade
+Situação em que documentos, processos e requisitos estão aderentes à norma/regra aplicável no ciclo verificado.
+Evidência
+Registro verificável que demonstra realização de uma ação, decisão ou entrega.
+Governança
+Conjunto de papéis, processos, decisões, controles e informações que sustentam a execução de uma política.
+Módulo
+Frente de solução parametrizada para uma política, programa ou necessidade municipal.
+Núcleo comum
+Capacidades reutilizadas por vários módulos: cadastros, perfis, evidências, indicadores, relatórios e dados.
+Porta de entrada
+Primeira solução contratada, escolhida por urgência ou valor percebido.
+Trilha
+Sequência estruturada de formação/desenvolvimento com critérios de progresso e conclusão.
+VAAR
+Complementação da União ao Fundeb vinculada a condicionalidades de gestão e evolução de indicadores, conforme legislação e metodologia vigente.
+
+Encerramento do Volume 2
+Este catálogo estabelece uma arquitetura de portfólio capaz de atender municípios em estágios distintos de maturidade. A estratégia comercial recomendada é começar por uma frente concreta, demonstrar capacidade de organização e resultado, consolidar o núcleo de governança e expandir apenas quando novas prioridades forem validadas.
+Próxima entrega: Volume 3 — BNCC Computação, com projeto completo de implementação municipal, formação, monitoramento, evidências e arquitetura funcional do módulo.
+Status: Volume 2 — versão inicial completa para validação estratégica e posterior refinamento comercial.

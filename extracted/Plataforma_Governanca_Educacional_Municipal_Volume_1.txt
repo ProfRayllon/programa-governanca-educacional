@@ -1,0 +1,881 @@
+
+
+PLATAFORMA DEGOVERNANÇA EDUCACIONALMUNICIPAL
+Documento-Mãe — Volume 1
+Estratégia, metodologia, arquitetura e modelo de implantação
+Propósito do documento
+Estabelecer a base conceitual de uma solução modular de governança educacional para municípios, capaz de transformar normas, programas e prioridades públicas em diagnóstico, planejamento, formação, implementação, evidências, indicadores e decisões de gestão.
+A BNCC Computação é tratada como módulo prioritário de entrada e será detalhada em volume específico.
+Versão 1.0  •  Setembro de 2026
+
+Ficha do documento
+Natureza
+Documento estratégico, metodológico e de arquitetura de produto.
+Abrangência
+Aplicável a redes municipais de educação, com parametrização conforme porte, estrutura, maturidade e prioridades locais.
+Situação
+Documento-mãe em desenvolvimento. Serve como referência para os volumes temáticos e para propostas municipais customizadas.
+Módulo prioritário
+BNCC Computação — implementação curricular, formação, evidências, monitoramento e governança.
+Uso esperado
+Planejamento de produto, apresentação institucional, desenho de propostas, escopo de implantação, referência para desenvolvimento tecnológico e alinhamento com parceiros.
+Limites
+Não substitui parecer jurídico, normativo, contábil, pedagógico ou de contratação pública. Regras federais e estaduais devem ser confirmadas no ciclo vigente de cada política.
+Como este documento se conecta aos próximos volumes
+Volume 1 — Estratégia, metodologia e arquitetura da plataforma (este documento).
+Volume 2 — Catálogo de soluções: fichas completas dos módulos, entregáveis, indicadores e combinações possíveis.
+Volume 3 — BNCC Computação: projeto completo do módulo prioritário, da adequação curricular à implementação nas escolas.
+Volume 4 — Instrumentos operacionais: diagnósticos, matrizes, checklists, modelos de documentos, indicadores, dados e anexos.
+
+Sumário executivo
+A gestão municipal de educação opera em um ambiente no qual a capacidade de transformar normas e programas em execução comprovável tornou-se tão importante quanto a existência formal das políticas. Secretarias precisam conhecer sua rede, organizar responsabilidades, formar profissionais, acompanhar escolas, consolidar evidências, alimentar sistemas oficiais, observar indicadores de aprendizagem e responder rapidamente a mudanças normativas. Em muitos municípios, essas funções permanecem fragmentadas em planilhas, documentos isolados, mensagens, sistemas não integrados e processos dependentes de conhecimento tácito de poucas pessoas.
+A Plataforma de Governança Educacional Municipal é concebida para atuar nesse intervalo entre “a política publicada” e “a política implementada”. Não é apenas um software, um ambiente de cursos ou um painel de indicadores. É uma arquitetura de serviços, método e tecnologia que organiza o ciclo completo: identificar a exigência ou prioridade, diagnosticar a situação municipal, planejar a resposta, estruturar a governança, formar os atores, acompanhar a execução, registrar evidências, medir resultados e retroalimentar a decisão.
+Tese central
+O município não precisa comprar uma plataforma “cheia de módulos”. Ele precisa resolver uma prioridade concreta. A solução entra pela dor mais urgente, entrega valor mensurável e amplia gradualmente o escopo de governança conforme novas necessidades são identificadas.
+A arquitetura comercial e técnica, portanto, é modular. Um município pode iniciar por BNCC Computação, alfabetização, Saeb/Ideb, permanência e equidade, formação continuada, gestão escolar, educação em tempo integral ou outra frente. O mesmo núcleo metodológico permanece; mudam os requisitos, conteúdos, indicadores, documentos e fluxos específicos de cada política.
+Por que a BNCC Computação é um módulo prioritário de entrada
+A Computação na Educação Básica possui respaldo normativo nacional como complemento à BNCC, com determinação de implementação das aprendizagens e consideração das normas na formação inicial e continuada de professores. A Política Nacional de Educação Digital reforçou a educação digital escolar e alterou a LDB. Além disso, no ciclo VAAR 2027, a metodologia da Condicionalidade V passou a verificar o alinhamento dos referenciais curriculares também às Normas sobre Computação na Educação Básica. Isso cria uma combinação rara de urgência regulatória, necessidade pedagógica, formação profissional e demanda de evidências de gestão.
+A solução, contudo, não deve ser vendida como promessa de repasse financeiro. O alinhamento curricular é uma condicionalidade dentro de um sistema mais amplo de habilitação e resultados do VAAR. A proposta de valor é reduzir risco de desorganização, aumentar a capacidade de comprovação, estruturar a implementação real e apoiar uma gestão orientada por evidências.
+Visão de produto em uma frase
+Uma plataforma e metodologia para transformar políticas educacionais em execução governada, evidências confiáveis e melhoria contínua na rede municipal.
+
+Estrutura do Volume 1
+1. Educação municipal na era da governança por evidências
+2. Conceito, missão, visão e proposta de valor
+3. Estratégia de produto e arquitetura de negócio
+4. Método IMPACTA — ciclo de governança educacional
+5. Modelo de diagnóstico e maturidade municipal
+6. Governança, papéis e responsabilidades
+7. Arquitetura funcional da plataforma
+8. Arquitetura de dados, tecnologia, segurança e LGPD
+9. Catálogo estratégico de soluções
+10. Modelo de implantação municipal
+11. Monitoramento, indicadores e evidências
+12. Modelo de contratação e composição comercial
+13. Escala, roadmap e inteligência de rede
+14. BNCC Computação como porta de entrada
+15. Riscos, premissas e salvaguardas
+16. Próximos volumes e decisões de validação
+Anexos — instrumentos de referência inicial
+
+1. Educação municipal na era da governança por evidências
+1.1 O problema que a solução pretende resolver
+Em uma secretaria municipal, políticas educacionais chegam por diferentes vias: legislação federal, normas do CNE, programas do MEC, regras do Fundeb, orientações estaduais, decisões do conselho municipal, metas locais, avaliações externas e prioridades do próprio governo. O problema raramente é apenas “conhecer a norma”. O desafio é operacionalizá-la em uma rede heterogênea, com escolas de diferentes portes, equipes com diferentes níveis de capacidade e dados distribuídos em múltiplas fontes.
+Informação fragmentada: documentos, planilhas e bases que não conversam entre si.
+Gestão reativa: a secretaria descobre pendências perto do prazo oficial, quando a capacidade de correção já é reduzida.
+Distância entre norma e escola: currículo, resolução ou programa existe formalmente, mas sua execução não é acompanhada de maneira sistemática.
+Formação desconectada de implementação: cursos são ofertados, porém nem sempre se mede se o profissional aplicou o que aprendeu.
+Evidências dispersas: documentos, atas, planos, relatórios e registros pedagógicos não formam uma trilha auditável de implementação.
+Indicadores sem ação: dashboards mostram números, mas não vinculam resultados às políticas, responsáveis, metas e planos de melhoria.
+Dependência de pessoas-chave: mudanças de gestão ou equipe podem provocar perda de memória institucional e descontinuidade.
+Dificuldade de priorização: o município não enxerga com clareza quais fragilidades representam risco regulatório, financeiro, pedagógico ou reputacional.
+1.2 A oportunidade
+Essas fragilidades podem ser tratadas por uma camada transversal de governança. O mesmo município que precisa comprovar um referencial curricular também precisa acompanhar formação, implantação nas escolas, participação em avaliações, permanência, resultados e evidências. Em vez de criar um sistema independente para cada programa, a proposta é construir um núcleo comum de governança, com módulos temáticos que reutilizam cadastros, perfis, fluxos, indicadores e registros.
+1.3 Do sistema isolado ao ciclo de política pública
+Norma / prioridade
+Diagnóstico
+Plano
+Governança
+Formação
+Execução
+Evidências
+Indicadores / decisão
+A tecnologia aparece como infraestrutura para esse ciclo, e não como fim. O produto precisa funcionar mesmo quando a maior parte da mudança depende de pessoas, normas, formação, documentos e processos administrativos.
+1.4 Princípios de desenho
+Princípio
+Aplicação
+Municipal por natureza
+A unidade de desenho é a rede municipal: secretaria, escolas, profissionais, estudantes, conselhos e responsabilidades locais.
+Modular por necessidade
+O município contrata a frente que resolve sua dor atual e pode ampliar o escopo sem reconstruir a base.
+Governança antes de tecnologia
+Papéis, regras, responsabilidades, calendário e evidências devem existir antes da automação.
+Dados com finalidade
+Cada dado coletado deve responder a uma pergunta de gestão, uma exigência ou um indicador.
+Evidência como ativo
+A plataforma deve organizar prova de execução: quem fez, quando, em qual escola, com qual documento e qual resultado.
+Formação aplicada
+A trilha formativa deve conectar competência, prática, acompanhamento e certificação.
+Melhoria contínua
+O ciclo não termina no envio ao sistema oficial; resultados geram novas prioridades e planos.
+Interoperabilidade e portabilidade
+Dados e documentos precisam poder ser exportados e integrados, evitando aprisionamento tecnológico.
+Privacidade por padrão
+Dados pessoais, especialmente de estudantes, devem ser minimizados e protegidos desde a concepção.
+2. Conceito, missão, visão e proposta de valor
+2.1 Conceito
+A Plataforma de Governança Educacional Municipal é um ecossistema composto por metodologia, consultoria, serviços educacionais e tecnologia. Seu objetivo é fornecer uma infraestrutura contínua para que secretarias municipais organizem políticas e programas desde a leitura da necessidade até o acompanhamento de resultados.
+2.2 Missão
+Aumentar a capacidade dos municípios de implementar políticas educacionais com clareza de responsabilidades, formação adequada, dados confiáveis, evidências organizadas e acompanhamento contínuo.
+2.3 Visão
+Tornar-se uma referência nacional em governança educacional municipal modular, permitindo que redes de diferentes portes transformem exigências e prioridades em ciclos sustentáveis de implementação e melhoria.
+2.4 Proposta de valor por público
+Público
+Valor entregue
+Prefeito / alta gestão
+Visão executiva de riscos, prioridades, execução e resultados; melhor capacidade de decidir onde investir.
+Secretário(a) de Educação
+Controle do portfólio de políticas, prazos, responsáveis, indicadores e evidências em uma visão única.
+Equipe técnica da Secretaria
+Fluxos claros, checklists, documentos, planos de ação, bases organizadas e redução de retrabalho.
+Gestor escolar
+Orientação objetiva sobre o que a escola precisa executar, registrar e comprovar.
+Professor / profissional
+Trilhas formativas contextualizadas, acompanhamento de progresso, aplicação prática e reconhecimento.
+Conselho / instâncias de governança
+Acesso a evidências e relatórios que apoiem deliberação e acompanhamento, respeitados os perfis de acesso.
+Parceiros / consultoria
+Metodologia replicável, capacidade de comparar maturidade e acelerar diagnósticos e implantações.
+2.5 O que a solução não é
+Não é somente um LMS/AVA de cursos.
+Não é somente um BI com gráficos.
+Não é um sistema de protocolo documental genérico.
+Não substitui sistemas oficiais do MEC, Inep, FNDE ou do Estado.
+Não garante habilitação, repasses ou melhoria de indicadores por si só.
+Não elimina a autonomia do sistema municipal de ensino nem a competência dos conselhos e gestores.
+3. Estratégia de produto e arquitetura de negócio
+3.1 Estratégia de entrada pela dor municipal
+A comercialização deve partir de uma pergunta simples: “Qual é a prioridade que a Secretaria precisa resolver agora?”. A resposta define o módulo de entrada. Após a implantação, o diagnóstico revela necessidades adjacentes, permitindo expansão orgânica do relacionamento.
+Dor / gatilho
+Módulos prováveis
+Proposta de valor
+Risco regulatório / prazo
+BNCC Computação; adequação curricular; gestão escolar; documentos e evidências
+Conformidade + implantação
+Risco de perda de oportunidade financeira
+VAAR; tempo integral; programas com transferência; Censo/Siope relacionados ao planejamento
+Habilitação e prontidão — sem promessa de repasse
+Baixo resultado de aprendizagem
+Alfabetização; Saeb/Ideb; avaliação municipal
+Melhoria pedagógica e foco em aprendizagem
+Abandono, frequência ou desigualdade
+Permanência, equidade, busca ativa, atendimento
+Proteção de trajetória e indicadores
+Formações desconectadas
+Gestão da formação continuada
+Desenvolvimento profissional com evidência de aplicação
+Gestão pulverizada
+Portfólio estratégico e painéis executivos
+Eficiência, memória institucional e decisão
+3.2 Arquitetura de oferta
+Núcleo comum: cadastros, perfis, escolas, profissionais, estudantes quando necessário, documentos, metas, planos, indicadores, evidências, relatórios e auditoria.
+Módulos temáticos: regras, checklists, trilhas, indicadores e entregáveis próprios de cada política.
+Serviços especializados: diagnóstico, desenho de política, formação, apoio técnico, configuração, integração de dados e acompanhamento.
+Conteúdos e trilhas: formações que podem ser produzidas internamente, cocriadas ou integradas a ambientes externos.
+Camada de inteligência: comparação temporal, alertas, riscos, priorização e, futuramente, benchmarking anonimizado entre redes aderentes.
+3.3 Ciclo de expansão comercial
+Diagnóstico inicial
+Escolha do módulo prioritário
+Implantação e entrega de valor
+Medição de maturidade e resultados
+Identificação de lacunas adjacentes
+Expansão de módulos
+Renovação anual e melhoria contínua
+3.4 Hipótese de valor econômico
+O retorno do investimento deve ser demonstrado por uma combinação de benefícios, e não por uma promessa de “gerar repasse”. O business case pode considerar: redução de retrabalho, mitigação de risco de inabilitação ou perda de prazos, melhoria de capacidade de captação/execução, redução de dependência de consultorias pontuais, ganho de produtividade da equipe, maior aderência às formações e melhor monitoramento de resultados.
+4. Método IMPACTA — ciclo de governança educacional
+O Método IMPACTA é a assinatura metodológica proposta para a plataforma. Ele organiza a implantação em sete movimentos integrados e repetíveis, podendo ser aplicado a qualquer módulo temático.
+Etapa
+O que acontece
+Saídas mínimas
+I — Identificar
+Identificar a prioridade, a norma, o programa, o risco, o prazo e a pergunta de gestão que justifica a intervenção.
+Briefing executivo; mapa de requisitos; escopo preliminar.
+M — Mapear
+Mapear rede, dados, documentos, capacidades, atores, processos, maturidade e lacunas.
+Diagnóstico municipal; inventário de dados; matriz de maturidade.
+P — Planejar
+Converter lacunas em objetivos, metas, cronograma, responsáveis, indicadores e plano de ação.
+Plano municipal do módulo; matriz de metas; calendário.
+A — Articular
+Definir governança, atos normativos, responsabilidades, fluxos, comunicação, integrações e instâncias decisórias.
+RACI; fluxos; minutas/checklists; estrutura de governança.
+C — Capacitar
+Desenvolver as competências necessárias para que técnicos, gestores e professores executem a política.
+Trilhas; formações; avaliação diagnóstica e final; certificação.
+T — Transformar
+Levar a política à escola e à prática: currículo, PPP, planejamento, rotina, ações, projetos e acompanhamento.
+Plano de implementação por escola; evidências; apoio técnico.
+A — Acompanhar
+Monitorar execução, evidências e resultados; gerar alertas, relatórios, revisão de metas e novo ciclo.
+Dashboard; relatórios; matriz de risco; plano de melhoria contínua.
+4.1 Regras do método
+Nenhum módulo inicia pela tecnologia: inicia pela pergunta de gestão e pelo diagnóstico.
+Toda exigência normativa relevante deve ser convertida em requisito verificável.
+Todo requisito deve possuir responsável, prazo, evidência e status.
+Toda formação deve declarar a competência pretendida e a evidência de aplicação esperada.
+Todo indicador precisa ter definição, fonte, periodicidade, responsável e uso decisório.
+Toda implantação deve prever um momento de revisão e aprendizado para o ciclo seguinte.
+4.2 Produto mínimo de cada etapa
+Etapa
+Produto mínimo
+Identificar
+1 ficha de prioridade + 1 mapa de requisitos
+Mapear
+1 diagnóstico + 1 mapa de dados
+Planejar
+1 plano com metas e calendário
+Articular
+1 matriz de governança + fluxos
+Capacitar
+1 trilha com avaliação e certificação
+Transformar
+1 plano de execução por unidade
+Acompanhar
+1 painel + relatório periódico + plano de melhoria
+5. Modelo de diagnóstico e maturidade municipal
+5.1 Objetivo do diagnóstico
+O diagnóstico não deve ser um questionário genérico. Ele precisa responder: onde o município está, qual risco enfrenta, o que já possui, o que falta, qual esforço é necessário, quais dados são confiáveis e qual módulo deve ser priorizado.
+5.2 Dimensões do diagnóstico
+Dimensão
+Questões principais
+Governança e liderança
+prioridade política, instâncias, responsabilidades, capacidade de decisão e continuidade.
+Normas e conformidade
+leis, resoluções, referenciais, atos, prazos, documentos e sistemas oficiais.
+Currículo e prática pedagógica
+currículo, PPP, planejamento, materiais, rotinas e implementação nas escolas.
+Pessoas e capacidades
+quantitativo, perfis, formação, competências, disponibilidade e necessidade de desenvolvimento.
+Dados e indicadores
+fontes, qualidade, atualização, cruzamentos, dicionário, governança e uso decisório.
+Tecnologia e infraestrutura
+sistemas, conectividade, equipamentos, identidade de usuário, integrações e suporte.
+Monitoramento e evidências
+checklists, registros, documentos, evidências por escola, periodicidade e auditoria.
+Resultados e equidade
+aprendizagem, aprovação, frequência, permanência, participação, desigualdades e metas.
+Sustentabilidade e financiamento
+recursos, contratos, custos recorrentes, programas, riscos e capacidade de manutenção.
+5.3 Escala de maturidade
+Nível
+Descrição
+0 — Inexistente
+Não há política, processo, dado confiável ou responsável definido.
+1 — Reativo
+Ações pontuais, dependentes de pessoas, normalmente acionadas por prazo ou problema.
+2 — Em estruturação
+Existem documentos e iniciativas, mas os fluxos e evidências ainda são parciais.
+3 — Gerenciado
+Processos, responsáveis, calendário e monitoramento estão definidos e utilizados.
+4 — Orientado por dados
+Indicadores e evidências são usados regularmente para priorizar e corrigir a execução.
+5 — Transformador
+A rede aprende com os dados, antecipa riscos, integra políticas e sustenta melhoria contínua.
+5.4 Resultado do diagnóstico
+O diagnóstico final deve produzir um “Mapa de Prioridades Municipais”, e não apenas uma nota. Cada fragilidade deve receber quatro classificações: criticidade, urgência, esforço e impacto. A priorização pode usar uma pontuação simples, validada com a gestão municipal.
+Critério
+Pergunta
+Criticidade
+Qual o dano potencial se nada for feito?
+Urgência
+Existe prazo, condicionalidade, ciclo de avaliação ou risco imediato?
+Esforço
+Quanto tempo, dado, decisão, formação e orçamento são necessários?
+Impacto
+Qual o potencial de benefício para gestão, profissionais, estudantes e sustentabilidade?
+6. Governança, papéis e responsabilidades
+6.1 Estrutura recomendada
+Papel
+Quem pode exercer
+Responsabilidade
+Patrocinador executivo
+Prefeito, secretário ou liderança designada
+priorização, patrocínio, decisões de alto nível e remoção de impedimentos.
+Comitê de governança
+Secretaria + áreas relacionadas
+validação de metas, riscos, prazos, políticas e decisões transversais.
+Gestor municipal da plataforma
+servidor/técnico designado
+administração funcional, calendário, permissões, planos, relatórios e coordenação.
+Responsável temático
+coordenação pedagógica/programa
+conteúdo, regras, indicadores, formação e acompanhamento do módulo.
+Gestor escolar
+direção/coordenação
+execução na escola, evidências, acompanhamento dos profissionais e comunicação.
+Profissional participante
+professor/técnico
+formação, práticas, registros, avaliações e evidências previstas.
+Equipe de dados/TI
+municipal e/ou parceira
+integrações, bases, qualidade, segurança e suporte.
+Consultoria/implantação
+fornecedor/parceiro
+diagnóstico, configuração, método, apoio técnico, formação e evolução do produto.
+6.2 Matriz RACI simplificada
+Atividade
+Patrocinador
+Comitê
+Resp. temático
+Gestor escolar
+Profissional
+Priorizar módulo
+A
+C
+R
+C
+I
+Validar diagnóstico
+A
+R
+R
+C
+I
+Aprovar plano
+A
+R
+C
+C
+I
+Executar ações na escola
+I
+C
+C
+R
+R
+Gerenciar formação
+I
+C
+R
+C
+R
+Registrar evidências
+I
+C
+C
+R
+R
+Monitorar indicadores
+I
+A
+R
+C
+I
+Revisar plano
+A
+R
+R
+C
+I
+Legenda: R = responsável por executar; A = autoridade/aprovação; C = consultado; I = informado.
+6.3 Governança de calendário
+A plataforma deve permitir três temporalidades simultâneas: (a) prazos regulatórios e ciclos oficiais; (b) calendário anual municipal; e (c) ciclos pedagógicos internos, como bimestres ou trimestres. A periodicidade de monitoramento do município não deve ser confundida com a periodicidade exigida por sistemas federais. Um relatório bimestral pode ser excelente para a gestão local mesmo quando a comprovação oficial ocorre anualmente.
+7. Arquitetura funcional da plataforma
+7.1 Núcleo funcional comum
+Componente
+Função
+1. Diagnóstico Municipal
+questionários, evidências, importações, entrevistas, pontuação de maturidade e mapa de prioridades.
+2. Catálogo de Soluções
+módulos disponíveis, requisitos, escopo, entregáveis e combinação recomendada a partir do diagnóstico.
+3. Planos e Metas
+objetivos, ações, responsáveis, prazos, metas, dependências, riscos e status.
+4. Formação e Trilhas
+diagnóstico de competência, cursos, módulos, atividades, avaliações, certificação e aplicação prática.
+5. Execução nas Escolas
+checklists por unidade, tarefas, cronograma, orientações, registros e devolutivas.
+6. Evidências e Documentos
+repositório com tipologia, validade, responsável, versão, aprovação e associação a requisitos.
+7. Indicadores e BI
+painéis executivos, pedagógicos e operacionais; metas; tendência; comparações; alertas.
+8. Relatórios e Compliance
+relatórios periódicos, dossiês de evidência, exportações e preparação para diligências/prestações.
+9. Reconhecimento e Incentivos
+selos, marcos de progresso, certificações, reconhecimento de escolas e profissionais, quando adequado à política.
+10. Administração e Auditoria
+usuários, perfis, permissões, logs, parâmetros, calendários, integrações e histórico.
+7.2 Perfis de acesso
+Administrador da rede: configura município, usuários, módulos, parâmetros e integrações.
+Gestão executiva: visualiza indicadores consolidados, riscos, metas e relatórios.
+Coordenação temática: gerencia módulo, plano, formação, escolas e evidências.
+Analista/técnico: trabalha dados, documentos, validações e relatórios conforme permissão.
+Gestor escolar: vê apenas sua unidade ou conjunto autorizado; executa tarefas e acompanha equipe.
+Professor/profissional: acessa sua trilha, tarefas, certificados, evidências e devolutivas.
+Conselho/controle/visualizador: acesso de leitura a escopos específicos, quando autorizado.
+Consultoria/suporte: acesso temporário e auditável, limitado ao contrato e às permissões concedidas.
+7.3 Jornada padrão do município
+1. Cadastrar/validar a rede
+2. Executar diagnóstico
+3. Selecionar módulo
+4. Configurar plano
+5. Importar bases
+6. Formar atores
+7. Executar nas escolas
+8. Validar evidências
+9. Acompanhar indicadores
+10. Gerar relatório e replanejar
+8. Arquitetura de dados, tecnologia, segurança e LGPD
+8.1 Domínios de dados
+Domínio
+Conteúdo
+Rede e unidades
+município, escolas, INEP, localização, etapas, modalidades, turnos, turmas e infraestrutura.
+Pessoas
+usuários, profissionais, vínculos, funções, formação, participação em trilhas; dados de estudantes apenas quando necessários ao módulo.
+Políticas e requisitos
+normas, condicionalidades, perguntas, requisitos, documentos esperados e regras de validação.
+Planos e execução
+objetivos, ações, tarefas, responsáveis, prazos, status e comentários.
+Formação
+trilhas, módulos, carga horária, progresso, avaliação, certificação e aplicação.
+Evidências
+documentos, links, anexos, metadados, versão, unidade, requisito e validação.
+Indicadores
+definições, fonte, recorte, série histórica, meta, valor, periodicidade e responsável.
+Auditoria
+login, alterações, validações, exportações, permissões e trilha de eventos.
+8.2 Princípios de arquitetura tecnológica
+Aplicação web responsiva como canal principal, com experiência adequada a desktop e celular.
+Arquitetura multi-tenant: cada município deve possuir segregação lógica de dados e configuração própria.
+Módulos desacoplados sobre um núcleo compartilhado de identidade, rede, documentos, indicadores e auditoria.
+API e rotinas de importação/exportação para reduzir digitação e facilitar integração com bases oficiais ou municipais.
+Camada de BI nativa ou integrada, preservando dicionário e linhagem do indicador.
+Armazenamento de documentos com versionamento, metadados, permissões e histórico.
+Logs auditáveis de ações críticas e exportações.
+Backups, recuperação, disponibilidade e monitoramento definidos por acordo de serviço.
+Portabilidade: exportação estruturada de dados e documentos no encerramento contratual.
+8.3 LGPD e proteção de dados
+A solução deve aplicar minimização de dados, finalidade explícita, controle de acesso e segurança desde a concepção. Dados de estudantes — em especial crianças e adolescentes — merecem tratamento reforçado. Para painéis gerenciais, deve-se preferir agregação e pseudonimização sempre que o objetivo não exigir identificação individual.
+Controle
+Aplicação
+Minimização
+coletar somente o necessário para a finalidade do módulo.
+Perfil e menor privilégio
+cada usuário acessa apenas o que precisa para exercer sua função.
+Segregação municipal
+nenhum município acessa dados identificados de outro município.
+Auditoria
+ações críticas registradas com usuário, data e contexto.
+Retenção
+política de guarda e descarte compatível com obrigação legal, finalidade e contrato.
+Incidentes
+procedimento de resposta, comunicação e contenção.
+Transparência
+documentação das finalidades, bases, operadores e fluxos de tratamento.
+Exportação segura
+relatórios e planilhas com controles proporcionais à sensibilidade.
+8.4 Integrações: princípio de realidade
+Nem todo sistema oficial oferece API ou integração automatizada. A plataforma deve suportar quatro níveis de integração: (1) consulta/entrada manual estruturada; (2) importação de CSV/XLSX; (3) ingestão periódica por arquivo; e (4) API/serviço quando tecnicamente e juridicamente disponível. O desenho comercial não deve prometer automação de sistemas de terceiros antes de validar a viabilidade de acesso.
+9. Catálogo estratégico de soluções
+O catálogo é a camada comercial que traduz as capacidades da plataforma em frentes reconhecíveis pelo gestor municipal. Cada módulo terá ficha própria no Volume 2, com problema, público, requisitos, dados, entregáveis, formação, indicadores, cronograma e dependências.
+#
+Solução
+Urgência típica
+Valor principal
+Escopo resumido
+01
+BNCC Computação
+Alta
+Regulatório + curricular + formação
+Adequação/adesão curricular, formação, execução por escola, evidências e monitoramento. Módulo prioritário de entrada.
+02
+Alfabetização e anos iniciais
+Alta
+Aprendizagem + políticas nacionais
+Diagnóstico de aprendizagem, formação, planos, acompanhamento por escola/turma e indicadores.
+03
+Saeb, Ideb e aprendizagem
+Alta
+Resultados + planejamento
+Participação, proficiência, aprovação, metas, preparação sistêmica e análise de lacunas.
+04
+VAAR: permanência, equidade e gestão
+Alta
+Financiamento + resultados
+Mapa de condicionalidades, indicadores, riscos, evidências, calendário e plano de melhoria.
+05
+Educação em tempo integral
+Média/Alta
+Expansão de matrículas + financiamento
+Planejamento de oferta, matrículas, organização pedagógica, profissionais, evidências e indicadores.
+06
+Formação continuada municipal
+Média/Alta
+Capacidade institucional
+Catálogo de trilhas, inscrições, progresso, aplicação, certificação, indicadores e histórico profissional.
+07
+Gestão e liderança escolar
+Média/Alta
+Governança + condicionalidades
+Seleção de gestores, competências, metas, acompanhamento e evidências.
+08
+Frequência, abandono e busca ativa
+Média/Alta
+Permanência + equidade
+Alertas, fluxos de acompanhamento, ações, retorno, indicadores por escola e território.
+09
+Agendas curriculares transversais
+Variável
+Currículo + legislação
+Educação ambiental, relações étnico-raciais, educação financeira, direitos humanos e outras agendas, conforme prioridade e norma aplicável.
+10
+Governança de programas e recursos
+Variável
+Execução + prestação/controle
+Calendário de programas, responsabilidades, documentos, metas, execução física e evidências; integração financeira apenas quando escopo e fonte permitirem.
+11
+Painel executivo da Secretaria
+Transversal
+Gestão estratégica
+Portfólio, metas, riscos, prazos, escolas, indicadores e relatórios para alta gestão.
+12
+Dados e qualidade cadastral
+Transversal
+Infraestrutura de gestão
+Padronização, dicionário, cruzamentos, consistência, atualização e governança das bases municipais.
+9.1 Combinações comerciais possíveis
+Conformidade Curricular: BNCC Computação + agendas curriculares + formação + evidências
+Resultados e VAAR: VAAR + Saeb/Ideb + permanência/equidade + painel executivo
+Desenvolvimento Profissional: formação continuada + gestão escolar + trilhas temáticas + reconhecimento
+Gestão Estratégica da Rede: painel executivo + dados + planos/metas + portfólio de políticas
+Transformação Completa: núcleo comum + módulos prioritários definidos após diagnóstico
+10. Modelo de implantação municipal
+10.1 Implantação em cinco ondas
+Onda
+Foco
+Onda 0 — Preparação (1–2 semanas)
+patrocínio, escopo, responsáveis, acesso às bases, calendário e regras de segurança.
+Onda 1 — Diagnóstico e desenho (2–4 semanas)
+maturidade, dados, requisitos, plano, indicadores e configuração inicial.
+Onda 2 — Implantação e formação (4–8 semanas)
+cadastros, trilhas, escolas, fluxos, documentos, treinamento e piloto.
+Onda 3 — Operação assistida (8–12 semanas)
+uso real, validação de evidências, ajustes, relatórios, metas e estabilização.
+Onda 4 — Ciclo contínuo (anual)
+monitoramento, atualização de normas, novas turmas, melhoria, relatórios e expansão de módulos.
+10.2 Modelo 30-60-90 dias
+Marco
+Resultado esperado
+Dia 30
+diagnóstico fechado, rede e dados mapeados, módulo configurado, plano validado e piloto definido.
+Dia 60
+formação inicial em andamento/concluída, escolas executando tarefas e primeiras evidências registradas.
+Dia 90
+painel operacional ativo, relatório de situação, riscos conhecidos, correções priorizadas e decisão de escala.
+10.3 Critérios para pilotagem
+Representatividade: incluir escolas de portes e realidades diferentes.
+Viabilidade: escolher unidades com liderança disponível e dados minimamente acessíveis.
+Aprendizado: testar fluxos, não apenas demonstrar uma interface.
+Métrica: definir antes do piloto o que significa “funcionou”.
+Escala: registrar ajustes que serão necessários antes de expandir para toda a rede.
+11. Monitoramento, indicadores e evidências
+11.1 Pirâmide de indicadores
+Camada
+Exemplos
+Insumo
+recursos, equipes, infraestrutura, bases, materiais e oferta de formação.
+Processo
+ações executadas, adesão, frequência, prazos, validações e cumprimento de tarefas.
+Produto
+profissionais formados, escolas adequadas, documentos aprovados, planos implementados e evidências validadas.
+Resultado
+mudança de prática, alcance de estudantes, aprendizagem, permanência, equidade, eficiência e maturidade institucional.
+Impacto
+mudanças sustentáveis na capacidade da rede e nos resultados educacionais; exige horizonte maior e cautela causal.
+11.2 Ficha obrigatória de indicador
+Nome
+Pergunta que responde
+Definição/fórmula
+Fonte
+Recorte
+Periodicidade
+Meta
+Responsável
+Regra de qualidade
+Data de atualização
+Uso decisório
+Limitações
+11.3 Registro de evidências
+A evidência precisa ser tratada como dado estruturado. Um arquivo solto não prova automaticamente um requisito. Cada registro deve informar o que comprova, a qual escola ou unidade pertence, período, responsável, requisito associado, situação de validação e eventual validade.
+Tipo de evidência
+Título
+Requisito associado
+Unidade/escola
+Período
+Responsável
+Data de envio
+Validador
+Status
+Versão
+Observação
+Arquivo/link
+11.4 Cadência recomendada
+Cadência
+Uso
+Semanal
+operações críticas, pendências, chamados e prazos próximos.
+Mensal
+execução do plano, adesão, formação, evidências, riscos e metas operacionais.
+Bimestral/trimestral
+implementação pedagógica, comparação entre escolas e ciclos de melhoria local.
+Semestral
+revisão de estratégia, competências e resultados intermediários.
+Anual
+consolidação de resultados, documentos oficiais, planejamento do ciclo seguinte e expansão do portfólio.
+12. Modelo de contratação e composição comercial
+12.1 Objeto comercial
+O objeto pode ser estruturado como implantação e licenciamento de plataforma de governança educacional, acompanhada de serviços técnicos especializados de diagnóstico, configuração, formação, suporte, monitoramento e produção de entregáveis do(s) módulo(s) contratado(s). A redação definitiva do objeto deve ser ajustada ao modelo jurídico e de contratação do cliente, observando a Lei nº 14.133/2021 e demais normas aplicáveis.
+12.2 Componentes de preço
+Componente
+O que remunera
+Implantação
+diagnóstico, desenho, configuração, parametrização, importações iniciais, treinamento e piloto.
+Licença/assinatura
+uso contínuo da plataforma, infraestrutura, atualizações, manutenção e segurança.
+Módulo temático
+regras, conteúdos, dashboards, instrumentos e suporte específico da frente contratada.
+Formação
+produção/oferta de cursos, tutoria, avaliação, certificação e atividades práticas.
+Serviço técnico
+consultoria, acompanhamento, análise, reuniões, relatórios e apoio a processos.
+Integração/migração
+tratamento de bases, desenvolvimento de integração e saneamento de dados quando fora do padrão.
+Customização
+fluxos, relatórios ou funcionalidades exclusivas que não compõem o produto padrão.
+12.3 Variáveis de dimensionamento
+Número de escolas/unidades.
+Número de profissionais e perfis de usuário.
+Número de estudantes, apenas quando o módulo exige dados individualizados.
+Quantidade de módulos contratados.
+Complexidade de dados e integrações.
+Volume e carga horária das formações.
+Necessidade de produção de conteúdo.
+Intensidade da consultoria e acompanhamento presencial/remoto.
+SLA, suporte e requisitos especiais de infraestrutura/segurança.
+12.4 Formatos de oferta sugeridos
+Diagnóstico Estratégico: projeto curto; entrega mapa de maturidade, riscos, prioridades e recomendação de módulos.
+Módulo Essencial: implantação de uma frente específica sobre o núcleo comum, com suporte e indicadores.
+Módulo + Formação: frente temática acrescida de trilhas e acompanhamento de profissionais.
+Governança Anual: núcleo + múltiplos módulos + ciclo de monitoramento e revisão anual.
+Transformação Municipal: programa plurianual de evolução de maturidade, implantação progressiva e expansão de módulos.
+12.5 Regras de posicionamento comercial
+Vender solução de problema, não quantidade de telas.
+Não vincular remuneração a promessa de recebimento de recursos públicos que dependa de critérios externos.
+Quantificar valor por produtividade, risco mitigado, prontidão, aderência e capacidade de gestão.
+Diferenciar claramente produto padrão de customização exclusiva.
+Usar o diagnóstico como ferramenta de escopo e qualificação, evitando propostas genéricas.
+Manter rastreabilidade entre cada item contratado e um entregável verificável.
+13. Escala, roadmap e inteligência de rede
+13.1 Roadmap do produto
+Fase
+Capacidade
+Fase A — Produto mínimo
+núcleo municipal, diagnóstico, planos, documentos, formação, evidências, indicadores e BNCC Computação.
+Fase B — Expansão temática
+VAAR, Saeb/Ideb, alfabetização, permanência/equidade, tempo integral e formação continuada.
+Fase C — Integrações e automação
+conectores, importações recorrentes, alertas, validações e relatórios automáticos.
+Fase D — Inteligência
+recomendações de prioridade, detecção de risco, projeções e comparação temporal.
+Fase E — Benchmarking seguro
+indicadores anonimizados entre redes aderentes, por porte e contexto, com governança de dados específica.
+13.2 Como manter o produto escalável
+Criar parâmetros por política em vez de codificar regras diretamente nas telas.
+Reutilizar cadastros, indicadores, documentos e fluxos entre módulos.
+Construir templates de diagnóstico e plano configuráveis.
+Ter biblioteca de regras e requisitos por ano/ciclo, com versionamento.
+Separar conteúdo formativo da lógica de gestão, permitindo integração com AVAs externos.
+Desenvolver dashboards a partir de um dicionário comum de indicadores.
+Manter uma camada de configuração municipal sem bifurcar o produto para cada cliente.
+14. BNCC Computação como porta de entrada
+14.1 Fundamentação estratégica
+A Resolução CNE/CEB nº 1, de 4 de outubro de 2022, define as Normas sobre Computação na Educação Básica como complemento à BNCC e estabelece que os processos e aprendizagens de Computação devem ser implementados, que a formulação curricular deve considerar as competências e habilidades anexas e que a formação inicial e continuada de professores deve considerar essas normas. A Lei nº 14.533/2023 instituiu a Política Nacional de Educação Digital e reforçou a educação digital no âmbito escolar.
+No Fundeb, a Lei nº 14.113/2020 estabelece que a complementação da União corresponde a, no mínimo, 23% dos recursos de referência do Fundo; desse total, 2,5 pontos percentuais correspondem à modalidade VAAR. O acesso ao VAAR depende do cumprimento das condicionalidades de melhoria de gestão e da evolução nos indicadores definidos. Entre as cinco condicionalidades está a existência de referenciais curriculares alinhados à BNCC, aprovados no respectivo sistema de ensino.
+Para o exercício financeiro de 2027, a Resolução CIF nº 24/2026 regulamentou a aferição das Condicionalidades I, IV e V e incorporou, na Condicionalidade V, a verificação relacionada às Normas sobre Computação na Educação Básica. A regra de cada exercício pode ser atualizada; por isso, a plataforma deve versionar requisitos e datas por ciclo.
+Posicionamento correto: a BNCC Computação não representa uma “fatia percentual” do VAAR. Ela se relaciona ao atendimento da Condicionalidade V no ciclo vigente. O projeto pode apoiar conformidade e implementação, mas não deve prometer habilitação ou repasse, pois existem outras condicionalidades e indicadores externos.
+14.2 Fluxo do módulo BNCC Computação
+Etapa
+Escopo
+1. Diagnóstico
+situação do currículo/referencial, ato de aprovação/adesão, escolas, profissionais, infraestrutura e ações existentes.
+2. Estratégia curricular
+definição do caminho municipal: adesão/adequação, abordagem pedagógica e documentação necessária, conforme competência do sistema.
+3. Governança
+responsáveis, conselho/instâncias, cronograma, comunicação e plano de implementação.
+4. Formação
+trilhas por público e etapa, diagnóstico de competência, avaliação, prática e certificação.
+5. Implementação escolar
+PPP, planejamento, práticas, atividades, projetos e orientação por etapa.
+6. Evidências
+atos, currículo, PPP, planos, participação, produtos, relatórios e validações.
+7. Monitoramento
+adesão, cobertura, progresso, aplicação, escolas, estudantes alcançados, maturidade e riscos.
+8. Consolidação anual
+relatório municipal, atualização de plano, documentos e preparação do ciclo seguinte.
+14.3 Entregáveis que serão detalhados no Volume 3
+Diagnóstico municipal de prontidão para BNCC Computação.
+Matriz de requisitos normativos e documentais do ciclo vigente.
+Modelo de governança e cronograma de implementação.
+Arquitetura da trilha formativa por público e etapa.
+Matriz de competências e evidências de aplicação.
+Modelo de monitoramento por escola e por profissional.
+Painel executivo e indicadores operacionais/pedagógicos.
+Modelos de checklists, relatórios, evidências e plano anual.
+Estratégia de reconhecimento/certificação sem distorcer critérios pedagógicos.
+Escopo tecnológico detalhado do módulo.
+14.4 Exemplo de narrativa comercial
+“A prefeitura não recebe apenas uma formação. Recebe um método para diagnosticar sua situação, organizar a política, desenvolver os profissionais, acompanhar a implementação nas escolas, reunir evidências e tomar decisões a partir de indicadores. A BNCC Computação é o primeiro módulo; a mesma infraestrutura passa a sustentar outras prioridades educacionais.”
+15. Riscos, premissas e salvaguardas
+Risco
+Salvaguarda
+Promessa indevida de resultado financeiro
+Posicionar VAAR e programas como contexto de governança; nunca garantir recebimento ou atribuir causalidade exclusiva ao produto.
+Mudança normativa anual
+Versionar requisitos, manter monitoramento regulatório e registrar qual regra vale para cada ciclo.
+Baixa qualidade das bases
+Incluir diagnóstico e saneamento; mostrar indicadores de completude e atualização.
+Coleta excessiva de dados pessoais
+Aplicar minimização, agregação e pseudonimização; justificar cada campo.
+Sobrecarga da escola
+Reduzir formulários, reutilizar dados, importar bases e pedir apenas evidências com finalidade clara.
+Dependência do fornecedor
+Garantir exportação, documentação, dicionário de dados e processos de transição.
+Produto customizado demais
+Priorizar configuração e templates; customização exclusiva deve ser exceção e ter custo separado.
+Formação sem transferência para prática
+Associar curso a atividades aplicadas, acompanhamento e evidências de uso.
+Indicadores sem decisão
+Cada painel deve responder a perguntas e estar ligado a responsáveis e ações.
+Descontinuidade política
+Formalizar governança, registrar histórico e construir capacidade da equipe municipal.
+15.1 Premissas de sucesso
+Existe um patrocinador municipal com autoridade para priorizar e cobrar execução.
+A Secretaria designa um responsável funcional e disponibiliza dados/documentos necessários.
+As escolas recebem comunicação clara sobre finalidade, carga de trabalho e calendário.
+O escopo é calibrado ao porte e à maturidade do município.
+As regras do ciclo normativo são validadas antes de configurar o módulo.
+Indicadores de sucesso são definidos antes da implantação.
+A solução inclui transferência de conhecimento à equipe municipal.
+16. Próximos volumes e decisões de validação
+16.1 Volume 2 — Catálogo completo
+O Volume 2 deverá transformar cada solução do catálogo em uma ficha de produto padronizada. A ficha mínima deve conter: problema, público, fundamento, diagnóstico, dados necessários, módulos funcionais, jornada, formação, indicadores, evidências, entregáveis, cronograma, dependências, riscos, opções comerciais e exemplos de dashboard.
+16.2 Volume 3 — BNCC Computação
+O Volume 3 será o primeiro projeto temático completo e deve estar pronto para ser apresentado a qualquer município após uma camada inicial de customização. Ele deverá conter uma versão “base nacional” e campos parametrizáveis para diagnóstico e contexto local.
+16.3 Volume 4 — Instrumentos operacionais
+O Volume 4 consolidará templates que aceleram implantação: checklist de coleta, questionário de maturidade, RACI, plano 30-60-90, plano anual, dicionário de dados, matriz de indicadores, matriz de evidências, modelos de relatório, roteiro de reunião, critérios de aceitação e instrumentos de avaliação de formação.
+16.4 Decisões que precisam ser validadas antes do desenvolvimento
+Nome comercial definitivo da plataforma e identidade da metodologia.
+Público comprador principal: prefeitura, secretaria, consórcio, associação de municípios ou parceiro institucional.
+Formato preferencial de contratação e duração dos ciclos.
+Quais módulos entram no produto mínimo além de BNCC Computação.
+Qual parte da formação será própria e qual poderá integrar AVAs externos.
+Quais bases municipais serão consideradas padrão de entrada.
+Nível de acompanhamento humano incluído no produto padrão.
+Indicadores essenciais do dashboard executivo.
+Política de personalização de marca por município.
+Política de suporte, SLA, implantação e atualizações normativas.
+16.5 Critério para considerar a Entrega 1 validada
+Esta entrega estará validada quando a estratégia responder, sem ambiguidade, às seguintes perguntas:
+O que é o produto e o que ele não é?
+Qual problema municipal ele resolve?
+Por que a arquitetura precisa ser modular?
+Como um município entra e como expande módulos?
+Qual é a metodologia repetível de implantação?
+Quais são os componentes comuns da plataforma?
+Como dados, documentos, formação e indicadores se conectam?
+Como a BNCC Computação funciona como módulo de entrada?
+Como o modelo comercial evita promessas indevidas?
+Quais decisões ainda precisam ser tomadas antes do detalhamento dos próximos volumes?
+ANEXO A — Checklist de diagnóstico municipal inicial
+Bloco
+Pergunta de abertura
+Estrutura da rede
+quantas escolas, etapas, modalidades, matrículas, turmas, profissionais e principais territórios?
+Prioridades
+quais são as três maiores dores do secretário hoje?
+Prazos
+quais ciclos oficiais, avaliações, programas e comprovações têm prazo nos próximos 12 meses?
+Normas
+quais políticas já possuem lei, resolução, currículo, ato de adesão ou aprovação?
+Dados
+quais bases existem, em quais formatos, com qual atualização e responsável?
+Formação
+quais programas formativos estão ativos e como progresso/aplicação são acompanhados?
+Escolas
+quais tarefas a Secretaria exige das escolas e como recebe/valida evidências?
+Indicadores
+quais números são acompanhados hoje e quais decisões eles acionam?
+Tecnologia
+quais sistemas são utilizados; existe login único, BI, AVA, armazenamento e suporte?
+Equipe
+quem responde por currículo, formação, dados, tecnologia, programas e monitoramento?
+Riscos
+quais pendências podem gerar inabilitação, atraso, retrabalho ou perda de oportunidade?
+Investimento
+quais recursos e contratos existem para tecnologia, formação e consultoria?
+ANEXO B — Template de ficha de solução
+Nome do módulo
+Problema municipal
+Gatilhos/urgência
+Público beneficiário
+Base normativa/política
+Perguntas do diagnóstico
+Dados necessários
+Documentos/evidências
+Objetivo geral
+Objetivos específicos
+Entregáveis
+Trilha formativa
+Fluxo de implantação
+Perfis envolvidos
+Indicadores
+Dashboards
+Relatórios
+Cronograma base
+Dependências
+Riscos
+Integrações
+Modelo comercial
+Critérios de aceite
+Resultados esperados
+ANEXO C — Dicionário mínimo de dados do núcleo
+Entidade
+Campos/conteúdo mínimo
+Município
+código IBGE, UF, nome, sistema de ensino, contatos institucionais.
+Escola
+INEP, nome, localização, zona, etapas, modalidades, turnos, situação.
+Profissional
+ID/matrícula, nome, vínculo, função, escola(s), formação, contato institucional; somente campos necessários.
+Usuário
+identidade de acesso, perfil, escopo, status, logs.
+Estudante
+quando necessário: ID interno/pseudônimo, escola, turma, etapa, atributos necessários ao indicador; evitar excesso de identificação.
+Política/Módulo
+código, nome, ciclo, requisitos, versão, status.
+Requisito
+descrição, tipo, base, evidência esperada, prazo, responsável.
+Plano/Ação
+objetivo, ação, unidade, responsável, início, prazo, status, meta.
+Formação
+trilha, curso, participante, progresso, avaliação, conclusão, certificado, aplicação.
+Evidência
+tipo, arquivo/link, requisito, unidade, período, status, validador.
+Indicador
+nome, fórmula, fonte, data, recorte, valor, meta, status.
+Evento de auditoria
+usuário, ação, entidade, data/hora, contexto.
+ANEXO D — Referências normativas e fontes oficiais
+As referências abaixo fundamentam o desenho geral e o módulo prioritário. Devem ser verificadas novamente na implantação de cada município e atualizadas por ciclo.
+1. BRASIL. Constituição da República Federativa do Brasil de 1988, especialmente arts. 211, 212 e 212-A.
+2. BRASIL. Lei nº 9.394, de 20 de dezembro de 1996 — Lei de Diretrizes e Bases da Educação Nacional (LDB).
+3. BRASIL. Lei nº 13.709, de 14 de agosto de 2018 — Lei Geral de Proteção de Dados Pessoais (LGPD).
+4. BRASIL. Lei nº 14.113, de 25 de dezembro de 2020 — regulamenta o Fundeb. Art. 5º: VAAF, VAAT e VAAR; art. 14: condicionalidades e indicadores do VAAR.
+5. BRASIL. Lei nº 14.133, de 1º de abril de 2021 — Lei de Licitações e Contratos Administrativos.
+6. CONSELHO NACIONAL DE EDUCAÇÃO. Resolução CNE/CEB nº 1, de 4 de outubro de 2022 — Normas sobre Computação na Educação Básica — Complemento à BNCC.
+7. BRASIL. Lei nº 14.533, de 11 de janeiro de 2023 — institui a Política Nacional de Educação Digital e altera a LDB.
+8. COMISSÃO INTERGOVERNAMENTAL DE FINANCIAMENTO PARA A EDUCAÇÃO BÁSICA DE QUALIDADE. Resolução CIF nº 24, de 15 de junho de 2026 — metodologia das Condicionalidades I, IV e V do VAAR para 2027.
+9. COMISSÃO INTERGOVERNAMENTAL DE FINANCIAMENTO PARA A EDUCAÇÃO BÁSICA DE QUALIDADE. Resolução CIF nº 25, de 23 de julho de 2026 — metodologias das Condicionalidades II e III e dos indicadores VAAR para 2027.
+10. FNDE. Portal Fundeb 2026 — estimativas, cronogramas, redes beneficiadas e arquivos de dados das complementações VAAF, VAAT e VAAR.
+Links oficiais de referência
+https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm
+https://portal.mec.gov.br/docman/outubro-2022-pdf/241671-rceb001-22/file
+https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14533.htm
+https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/financiamento/fundeb/legislacao/2026
+https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/financiamento/fundeb/2026
+Data de consolidação desta versão: 1º de setembro de 2026.
+
+FIM DA ENTREGA 1
+Documento-Mãe — Volume 1Estratégia, metodologia e arquitetura da Plataforma de Governança Educacional Municipal
+Próxima entrega recomendada: Volume 2 — Catálogo Completo de Soluções

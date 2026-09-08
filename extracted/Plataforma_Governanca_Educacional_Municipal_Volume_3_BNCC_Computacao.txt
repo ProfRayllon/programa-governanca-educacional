@@ -1,0 +1,1691 @@
+
+
+PLATAFORMA DEGOVERNANÇA EDUCACIONALMUNICIPAL
+Documento-Mãe — Volume 3
+BNCC Computação
+Projeto municipal de adequação curricular, formação docente, implementação nas escolas, evidências e monitoramento
+Porta de entrada prioritária do ecossistema
+A BNCC Computação é tratada neste volume como política curricular municipal completa — não como curso isolado. O projeto conecta conformidade normativa, decisão curricular, formação, prática pedagógica, infraestrutura, evidências, indicadores, reconhecimento e inteligência de gestão.
+Aplicável a redes municipais de diferentes portes, com parametrização após diagnóstico local.
+Versão 1.0  •  Atualização regulatória: 1º de setembro de 2026
+
+Ficha do documento
+Natureza
+Projeto-referência modular para implementação municipal da BNCC Computação e da educação digital associada.
+Função
+Servir como base técnica, pedagógica, operacional e comercial para propostas a prefeituras e secretarias municipais de educação.
+Vínculo com o Volume 1
+Aplica a estratégia da Plataforma de Governança Educacional Municipal e o Método IMPACTA.
+Vínculo com o Volume 2
+Aprofunda a Solução 01 — BNCC Computação, transformando o item de catálogo em projeto completo.
+Público decisor
+Prefeito, secretário municipal de educação, conselho municipal de educação, equipes de currículo, formação, tecnologia, avaliação e gestão.
+Público executor
+Gestores escolares, coordenadores pedagógicos, professores e equipes técnicas da rede.
+Horizonte
+Implantação inicial em até 12 meses, com ciclo contínuo de monitoramento, revisão curricular e formação.
+Salvaguarda
+O projeto apoia conformidade e organização de evidências, mas não garante habilitação ou repasse financeiro. Regras oficiais devem ser verificadas no ciclo vigente e no Simec.
+Como ler este volume
+O documento está organizado em três camadas. A primeira explica por que a BNCC Computação se tornou uma prioridade municipal. A segunda apresenta o desenho completo da política: currículo, formação, escola, tecnologia, dados e governança. A terceira converte o desenho em implantação, indicadores, entregáveis e instrumentos reutilizáveis em propostas comerciais.
+Mensagem central: adequar o currículo é o ponto de partida; implementar, formar, evidenciar e medir é o que transforma a norma em política pública real.
+
+Sumário executivo
+A Computação passou a integrar de forma explícita o marco curricular da Educação Básica. A Resolução CNE/CEB nº 1/2022 definiu as Normas sobre Computação na Educação Básica como complemento à BNCC; a Lei nº 14.533/2023 inseriu a educação digital na LDB; e a Resolução CNE/CEB nº 2/2025 consolidou diretrizes de integração curricular da educação digital e midiática. Em 2026, a atualização curricular ganhou também uma dimensão financeira: para o VAAR 2027, a Condicionalidade V exige referenciais curriculares alinhados à BNCC e às normas de Computação, com comprovação no Simec segundo a Resolução CIF nº 24/2026.
+O novo Plano Nacional de Educação, aprovado pela Lei nº 15.388/2026, eleva o tema a uma agenda de resultado: o Objetivo 7 trata de conectividade e educação digital e a Meta 7.b estabelece metas de aprendizagem nas três dimensões — pensamento computacional, mundo digital e cultura digital. O PNE também prevê que o Inep defina padrões e indicadores para essas dimensões e avance na incorporação da educação digital à avaliação nacional.
+Currículo
+Referencial municipal ou adesão estadual formalizada e aprovada.
+Pessoas
+Formação docente progressiva, aplicada e certificada.
+Escola
+PPP, planejamento, atividades, projetos e evidências.
+Gestão
+Dashboard, alertas, indicadores e relatório anual.
+Tese de valor do produto
+O município não compra apenas formação; contrata uma rota de implementação da política.
+A adequação normativa é tratada junto com capacidade de execução, reduzindo o risco de “currículo no papel”.
+A formação é conectada à prática e gera evidências por escola, professor, etapa e eixo da BNCC Computação.
+O monitoramento bimestral é uma camada própria de gestão municipal; a comprovação oficial do VAAR segue o ciclo e as regras do Simec.
+A arquitetura é preparada para acompanhar futuras métricas nacionais de aprendizagem em educação digital previstas no PNE 2026-2036.
+
+Estrutura do Volume 3
+1. Por que BNCC Computação é uma prioridade municipal
+2. Marco legal e regulatório vigente
+3. VAAR 2027 e a Condicionalidade V: o que o município comprova
+4. Visão, objetivos e resultados do projeto
+5. Escopo e fronteiras da solução
+6. Método IMPACTA aplicado à BNCC Computação
+7. Diagnóstico municipal de prontidão
+8. Arquitetura curricular: três eixos e formas de oferta
+9. Desenho por etapa de ensino
+10. Pacote normativo e documental municipal
+11. Governança e responsabilidades
+12. Estratégia de formação continuada
+13. Trilha formativa recomendada
+14. Certificação, reconhecimento e gamificação
+15. Implementação na escola e no PPP
+16. Planejamento pedagógico e banco de práticas
+17. Infraestrutura, conectividade e computação desplugada
+18. Plataforma digital e perfis de acesso
+19. Arquitetura de dados e evidências
+20. Sistema de indicadores
+21. Monitoramento bimestral e ciclo anual
+22. Avaliação da aprendizagem dos estudantes
+23. Relatórios, transparência e memória institucional
+24. Cronograma de implantação — 12 meses
+25. Níveis de serviço e composição comercial
+26. Entregáveis consolidados
+27. Riscos, premissas e respostas
+28. Sustentabilidade, escala e evolução
+29. Roteiro de diagnóstico comercial
+30. Transição para instrumentos operacionais
+Anexos — checklists, matrizes e referências oficiais.
+
+1. Por que BNCC Computação é uma prioridade municipal
+1.1 Da recomendação tecnológica à política curricular
+O debate municipal sobre tecnologia educacional mudou de natureza. A questão já não é apenas disponibilizar laboratório, internet, tablets ou plataformas. A política nacional passou a estabelecer aprendizagens de Computação e educação digital que precisam ser traduzidas em currículo, formação, planejamento, práticas e acompanhamento. Isso desloca a agenda do setor de tecnologia para o núcleo pedagógico e estratégico da Secretaria de Educação.
+1.2 Cinco pressões convergentes
+Pressão
+O que mudou
+Risco municipal
+Resposta do projeto
+Curricular
+Normas nacionais definem competências e habilidades de Computação.
+Referencial desatualizado ou sem aprovação formal.
+Adequação/adesão, matriz curricular e ato normativo.
+Financeira
+A BNCC Computação passou a integrar a Condicionalidade V do VAAR 2027.
+Inabilitação na condicionalidade por ausência de alinhamento/comprovação.
+Checklist Simec, repositório de documentos e prontidão para diligências.
+Pedagógica
+A rede precisa transformar habilidade curricular em experiência de aprendizagem.
+Formação superficial e baixa aplicação em sala.
+Trilhas, planos, banco de práticas e acompanhamento.
+Avaliação
+O PNE 2026-2036 cria metas de aprendizagem em educação digital.
+A rede chegar atrasada à futura medição nacional.
+Diagnóstico de aprendizagem e indicadores próprios desde já.
+Governança
+A execução depende de currículo, conselho, formação, escola, tecnologia e dados.
+Responsabilidade fragmentada e perda de memória institucional.
+RACI, calendário, painel e trilha de evidências.
+1.3 O problema comercial que o projeto resolve
+A prefeitura precisa saber: “estamos formalmente adequados?”, “nossos professores sabem implementar?”, “as escolas estão executando?”, “temos evidências?” e “os estudantes estão aprendendo?”. O produto responde às cinco perguntas em uma única arquitetura.
+
+2. Marco legal e regulatório vigente
+A implementação municipal deve ser orientada por um núcleo normativo nacional e pelas regras do sistema de ensino ao qual o município pertence. O quadro abaixo sintetiza os marcos mais relevantes para o desenho deste produto na data de atualização deste volume.
+Norma
+Efeito principal
+Implicação municipal
+Uso no projeto
+Resolução CNE/CEB nº 1/2022
+Define Normas sobre Computação na Educação Básica como complemento à BNCC.
+Currículos e formação docente devem considerar competências e habilidades de Computação.
+Base curricular e matriz de habilidades.
+Lei nº 14.533/2023 — PNED
+Institui a Política Nacional de Educação Digital e inclui educação digital na LDB.
+Fortalece a educação digital, computação, programação, robótica e competências digitais no currículo.
+Justificativa institucional e integração com estratégia digital.
+Resolução CNE/CEB nº 2/2025
+Institui diretrizes sobre dispositivos digitais e integração curricular da educação digital e midiática.
+Exige abordagem pedagógica, segura, crítica e articulada às etapas da Educação Básica.
+Integração curricular e política de uso pedagógico.
+Lei nº 15.100/2025
+Disciplina o uso de aparelhos eletrônicos portáteis pessoais em estabelecimentos de ensino.
+Uso de dispositivos precisa ser intencionalmente pedagógico e compatível com as regras escolares.
+Política de uso, segurança e intencionalidade.
+Resolução CIF nº 24/2026
+Regula Condicionalidades I, IV e V do VAAR para 2027.
+Condicionalidade V inclui alinhamento às normas de Computação e comprovação no Simec.
+Módulo de conformidade e evidências.
+Lei nº 15.388/2026 — PNE
+Aprova o PNE por dez anos; Objetivo 7 e Meta 7.b tratam de educação digital e aprendizagem nas três dimensões.
+Redes precisarão planejar e monitorar metas de aprendizagem e conectividade no horizonte decenal.
+Indicadores de resultado e roadmap de longo prazo.
+2.1 Os três eixos estruturantes
+Pensamento computacional
+Resolver e modelar problemas; reconhecer padrões; formular algoritmos; programar e automatizar.
+Mundo digital
+Compreender informação, hardware, software, redes, dados, segurança e funcionamento dos artefatos digitais.
+Cultura digital
+Atuar de modo crítico, ético, seguro, responsável e criativo nos ambientes e práticas digitais.
+2.2 Regra de prudência regulatória
+O projeto deve registrar a versão normativa utilizada em cada implantação. Mudanças de resolução, formulário do Simec, calendário do VAAR ou regras do sistema estadual/municipal exigem revisão do checklist. Por isso, a plataforma deve guardar “versão da regra”, “data de verificação” e “fonte oficial”.
+
+3. VAAR 2027 e a Condicionalidade V: o que o município comprova
+A Resolução CIF nº 24/2026 tornou explícito que, para a Condicionalidade V do VAAR 2027, a rede deve possuir referenciais curriculares alinhados à BNCC e às normas de Computação. A comprovação não é um “projeto futuro”: ela se apoia em referencial adotado, ato de aprovação/adesão e informações registradas no Simec.
+3.1 Fluxo de habilitação curricular
+1. Decisão
+2. Documento
+3. Aprovação
+4. Simec
+5. Análise
+6. Diligência
+Referencial próprio, adesão ao estado ou modelo por etapa.
+Currículo/referencial contempla BNCC e Computação.
+Ato válido no sistema de ensino competente.
+Registro e uploads no ciclo oficial.
+MEC/SEB analisa a documentação.
+Se solicitada, resposta no prazo oficial.
+3.2 O que o Simec perguntou no ciclo 2026/2027
+Item
+Exigência / alternativa
+Risco de inabilitação
+BNCC geral
+Rede possui referencial alinhado à BNCC; informa se é próprio ou adesão ao estado.
+Sim, quando inexistente ou não aprovado nos termos exigidos.
+Aprovação
+Referencial alinhado à BNCC aprovado no respectivo sistema de ensino.
+Sim.
+Computação
+Referencial adotado contempla as Normas sobre Computação na Educação Básica.
+Sim, se a resposta for “não”.
+Forma de adoção
+Adesão ao estado; referencial próprio; ou adesão estadual para uma etapa e referencial próprio para outra.
+Depende da consistência e habilitação correspondente.
+Referencial próprio de Computação
+Upload do documento e do ato de aprovação; data de aprovação posterior a 4/10/2022.
+Sim, se ausente, não aprovado ou com data incompatível.
+Prazo do ciclo 2026
+Registro até 31/08/2026.
+A ausência de registro no prazo compromete a habilitação; verificar situação oficial e eventuais diligências.
+3.3 Situação na data deste documento
+Em 1º de setembro de 2026, o prazo ordinário de registro previsto na Resolução CIF nº 24/2026 (31 de agosto) já terminou. Para novas propostas comerciais, o primeiro passo é verificar a situação real do ente no Simec. O projeto não deve prometer regularização retroativa nem habilitação automática. Se houver diligência oficial, a resposta deve observar o prazo aplicável; se a rede não se habilitou, a solução pode estruturar a implementação pedagógica e preparar o próximo ciclo.
+3.4 O que a BNCC Computação “vale” no VAAR
+Não existe uma fatia financeira própria da BNCC Computação dentro dos 2,5% do VAAR. O alinhamento curricular atua como requisito de habilitação na Condicionalidade V. Portanto, o argumento comercial correto é proteção de conformidade e capacidade de execução, e não “geração garantida de receita”.
+
+4. Visão, objetivos e resultados do projeto
+4.1 Visão
+Transformar a BNCC Computação em uma política municipal viva, integrada ao currículo e à rotina escolar, com profissionais preparados, evidências organizadas e capacidade de acompanhar progressivamente a aprendizagem dos estudantes.
+4.2 Objetivo geral
+Implantar uma estrutura municipal de governança para adequar, implementar, monitorar e aprimorar a BNCC Computação, articulando currículo, formação continuada, gestão escolar, infraestrutura, práticas pedagógicas, avaliação, dados e reconhecimento.
+4.3 Objetivos específicos
+Diagnosticar a situação normativa, curricular, pedagógica, tecnológica e de dados da rede.
+Definir ou revisar a estratégia de adoção curricular da Computação nas etapas ofertadas pelo município.
+Apoiar a elaboração e aprovação dos documentos necessários no sistema de ensino competente.
+Formar professores, coordenadores e gestores com trilhas alinhadas ao papel de cada público.
+Levar competências e habilidades da BNCC Computação ao planejamento, PPP e práticas de sala de aula.
+Organizar evidências de execução por escola, etapa, turma, eixo e profissional.
+Criar indicadores de prontidão, execução, formação e aprendizagem.
+Produzir relatórios gerenciais e uma memória institucional auditável.
+Estabelecer mecanismo de reconhecimento de escolas e profissionais sem substituir políticas formais de carreira.
+Preparar a rede para futuros padrões de avaliação da educação digital previstos no PNE.
+4.4 Resultados esperados
+Conformidade
+Decisão curricular formalizada e documentos organizados.
+Capacidade
+Profissionais com competências progressivas e aplicáveis.
+Execução
+Escolas implementando atividades e projetos com evidências.
+Inteligência
+Secretaria acompanhando cobertura, qualidade e resultados.
+
+5. Escopo e fronteiras da solução
+Inclui
+Pode incluir como adicional
+Não deve ser prometido como efeito automático
+Diagnóstico da rede; desenho curricular; documentação; formação; implantação; plataforma; indicadores; evidências; relatórios.
+Produção de materiais didáticos; kits; eventos; olimpíadas/desafios; mentoria intensiva; integração com sistemas; avaliação externa.
+Habilitação VAAR, recebimento de recursos, aprovação automática pelo conselho, melhoria imediata em Ideb/Saeb.
+Painel da Secretaria e visão por escola/professor.
+Aplicativo do cursista; banco municipal de atividades; portfólio estudantil.
+Substituição do Simec, Censo Escolar, sistemas oficiais ou obrigações legais do gestor.
+Ciclo bimestral municipal e relatório anual de implementação.
+Suporte a diligências e preparação de dossiês, quando juridicamente e administrativamente cabível.
+Atuação como representante oficial do ente sem autorização formal.
+5.1 Unidade de implantação
+A unidade contratual é o município; a unidade operacional é a escola; a unidade formativa é o profissional; e a unidade final de resultado é a aprendizagem do estudante. O sistema deve permitir navegar entre essas quatro escalas sem expor dados pessoais desnecessários.
+
+6. Método IMPACTA aplicado à BNCC Computação
+Etapa
+Aplicação no módulo
+Produto mínimo
+I — Identificar
+Identificar obrigação, ciclo do VAAR, situação do currículo, etapas atendidas e decisão política.
+Ficha normativa; mapa de urgência; escopo inicial.
+M — Mapear
+Mapear escolas, professores, currículo, PPPs, infraestrutura, conectividade, formações e dados.
+Diagnóstico municipal; baseline; matriz de maturidade.
+P — Planejar
+Escolher modelo curricular, metas, trilhas, cronograma e estratégia de implantação.
+Plano municipal BNCC Computação; metas por etapa.
+A — Articular
+Definir conselho, atos, RACI, comunicação, fluxos e responsabilidades.
+Pacote normativo; governança; plano de comunicação.
+C — Capacitar
+Formar técnicos, gestores, coordenadores e professores.
+Trilhas, avaliações, certificação e portfólio.
+T — Transformar
+Inserir a política no PPP, planejamento, atividades, projetos e rotina das escolas.
+Planos escolares, banco de práticas, evidências.
+A — Acompanhar
+Monitorar formação, implementação, evidências e aprendizagem; revisar metas.
+Dashboard, relatório bimestral, relatório anual, plano de melhoria.
+6.1 Portões de decisão
+Não iniciar formação massiva antes de definir o modelo curricular e a população prioritária.
+Não desenvolver plataforma específica sem inventário dos dados já existentes.
+Não exigir evidência de escola que não esteja vinculada a um requisito, indicador ou finalidade pedagógica.
+Não certificar “implementação” apenas pela presença em curso: separar conclusão formativa de aplicação pedagógica.
+Não publicar ranking público de profissionais ou escolas sem regra, contexto e salvaguardas de equidade.
+
+7. Diagnóstico municipal de prontidão
+O diagnóstico transforma uma conversa comercial em um mapa verificável de maturidade. Recomenda-se avaliar oito dimensões, com pontuação de 0 a 4 e evidências associadas.
+Dimensão
+Pergunta central
+Exemplos de evidência
+Saída
+1. Normativa
+Há referencial/ato válido e situação conhecida no Simec?
+Currículo, resolução, termo de adesão, tela Simec.
+Risco regulatório.
+2. Curricular
+As habilidades estão mapeadas por etapa/ano e forma de oferta?
+Matriz curricular, orientações, planos.
+Mapa de lacunas.
+3. Pessoas
+Quem precisa ensinar e qual o nível de preparação?
+Base docente, diagnóstico de competências, certificados.
+Plano de formação.
+4. Escola
+PPP e coordenação pedagógica incorporam a política?
+PPP, regimento, planejamento, calendário.
+Plano escolar.
+5. Infraestrutura
+Há condições para atividades plugadas e desplugadas?
+Internet, dispositivos, laboratório, espaços.
+Mapa de capacidade.
+6. Recursos pedagógicos
+Existem materiais e sequências adequadas?
+Banco de atividades, objetos digitais, kits.
+Plano de recursos.
+7. Dados e evidências
+A rede registra execução e consegue consolidar?
+Planilhas, sistemas, relatórios, pastas.
+Modelo de dados.
+8. Avaliação
+A rede mede aprendizagem digital ou apenas participação?
+Instrumentos diagnósticos e rubricas.
+Plano avaliativo.
+7.1 Escala de maturidade
+0 — Ausente
+1 — Inicial
+2 — Estruturando
+3 — Implementado
+4 — Gerenciado
+Não há evidência.
+Há ações isoladas.
+Há documentos/processos parciais.
+Há execução consistente na maior parte da rede.
+Há monitoramento, metas, evidências e melhoria contínua.
+7.2 Dados mínimos para iniciar
+Lista de escolas municipais, INEP, etapas, turmas e matrículas.
+Base de professores ativos com escola, componente/ano, formação e vínculo.
+Referencial curricular vigente e atos de aprovação/adesão.
+PPPs ou amostra representativa e orientações pedagógicas da rede.
+Inventário de conectividade, dispositivos e laboratórios.
+Histórico de formações em tecnologia/computação.
+Telas/documentos de situação da Condicionalidade V no ciclo vigente, quando disponíveis.
+Avaliações e indicadores internos que possam ser usados como baseline.
+
+8. Arquitetura curricular: três eixos e formas de oferta
+8.1 Três eixos, uma política
+Eixo
+Foco
+Exemplos de experiências
+Evidência possível
+Pensamento Computacional
+Decomposição, padrões, modelagem, algoritmos, lógica, programação, automação.
+Jogos de regras, sequências, desafios, programação em blocos/textual, robótica como recurso.
+Plano/atividade + produção do estudante + rubrica.
+Mundo Digital
+Dados, representação da informação, hardware, software, redes, segurança, sistemas.
+Exploração de dispositivos, dados, redes, criptografia introdutória, arquitetura básica.
+Atividade investigativa, relatório, projeto.
+Cultura Digital
+Cidadania, ética, segurança, autoria, participação, pensamento crítico, uso responsável.
+Checagem de informação, privacidade, direitos digitais, produção midiática, IA crítica.
+Projeto, debate, campanha, portfólio.
+8.2 Modelos de oferta curricular
+Modelo
+Descrição
+Vantagem
+Risco
+Quando usar
+Transversal integrado
+Habilidades são distribuídas entre componentes/campos existentes.
+Menor impacto na matriz de horários.
+Diluição de responsabilidade.
+Rede com forte coordenação curricular e professores preparados.
+Componente específico
+Cria componente/tempo curricular próprio para Computação/Educação Digital.
+Clareza de responsabilidade e progressão.
+Demanda pessoal, carga horária e regulamentação.
+Rede com capacidade docente e decisão política definida.
+Híbrido
+Parte das habilidades em componente específico e parte transversalmente.
+Equilibra profundidade e integração.
+Exige mapeamento rigoroso para evitar lacunas/duplicidades.
+Rede que quer progressão explícita sem perder interdisciplinaridade.
+Por projetos/eletivas complementares
+Projetos reforçam habilidades, mas não substituem necessariamente a cobertura curricular.
+Engajamento e visibilidade.
+Cobertura desigual se usado sozinho.
+Como camada de aplicação e reconhecimento.
+8.3 Critérios para decidir o modelo
+Etapas e anos efetivamente ofertados pela rede municipal.
+Quadro de professores, formação disponível e possibilidade de atribuição de aulas.
+Autonomia do sistema municipal e regras do conselho de educação.
+Matriz curricular existente e espaço de carga horária.
+Capacidade de acompanhamento pedagógico e produção de materiais.
+Infraestrutura — lembrando que pensamento computacional também pode ser desenvolvido com atividades desplugadas.
+Plano de expansão: é preferível um modelo implementável e monitorável a um desenho ambicioso sem capacidade de execução.
+
+9. Desenho por etapa de ensino
+A proposta não trata a Computação como a mesma disciplina em todas as idades. A forma de implementação deve respeitar o desenvolvimento dos estudantes e as diretrizes específicas de cada etapa.
+Etapa
+Ênfase pedagógica
+Abordagem recomendada
+Formação docente
+Indicador inicial
+Educação Infantil
+Exploração, padrões, sequências, expressão, brincadeira e uso mediado.
+Predominância de atividades desplugadas; integração aos campos de experiências; mediação cuidadosa de dispositivos.
+Professor regente + coordenação.
+% unidades com planejamento que integra objetivos de Computação.
+EF — Anos Iniciais
+Lógica, algoritmos simples, modelagem, mundo digital, segurança e autonomia progressiva.
+Integração com alfabetização, matemática, ciências e projetos; possibilidade de tempo específico conforme decisão curricular.
+Regentes + especialistas/apoio.
+% turmas com cobertura dos eixos e evidência bimestral.
+EF — Anos Finais
+Programação, dados, redes, sistemas, cultura digital crítica, cidadania e projetos.
+Maior profundidade disciplinar; componente específico ou híbrido pode ganhar relevância.
+Docentes responsáveis + demais áreas.
+% estudantes expostos à progressão prevista e % docentes formados.
+EJA, se ofertada
+Contextualização, cidadania digital, mundo do trabalho e resolução de problemas.
+Abordagem aplicada à vida cotidiana, acesso a serviços, segurança e produção digital.
+Docentes da modalidade.
+% turmas com atividades contextualizadas e cobertura mínima.
+9.1 Matriz municipal de progressão
+O projeto deve gerar uma matriz que relacione etapa/ano, habilidade, eixo, forma de oferta, componente responsável, período previsto, recurso necessário e evidência esperada. Essa matriz é a ponte entre o referencial curricular e o monitoramento.
+Ano/etapa
+Código/habilidade
+Eixo
+Forma de oferta
+Responsável
+Período
+Evidência
+Exemplo
+[código oficial]
+Pensamento Computacional
+Integrada
+Professor/área
+1º bim.
+Plano + atividade
+Exemplo
+[código oficial]
+Mundo Digital
+Componente
+Professor responsável
+2º bim.
+Projeto + rubrica
+Exemplo
+[código oficial]
+Cultura Digital
+Projeto transversal
+Equipe docente
+3º bim.
+Portfólio
+
+10. Pacote normativo e documental municipal
+A implantação precisa distinguir documentos que dão validade institucional daqueles que orientam a prática. O pacote final varia conforme o sistema de ensino e o modelo curricular escolhido.
+Documento
+Finalidade
+Responsável típico
+Aprovação
+Status na plataforma
+Referencial curricular / adendo
+Formalizar competências, habilidades e organização curricular.
+Equipe curricular da SME.
+Conselho/sistema competente ou adesão estadual.
+Obrigatório para conformidade.
+Ato de aprovação/adesão
+Dar validade ao referencial adotado.
+CME/órgão competente.
+Sistema de ensino.
+Evidência crítica.
+Orientação de implementação
+Explicar como escolas executarão o currículo.
+SME.
+Ato administrativo conforme governança local.
+Documento operacional.
+Matriz de progressão
+Distribuir habilidades por etapa/ano e responsável.
+Currículo + formação.
+Validação técnica.
+Base do monitoramento.
+Guia de atualização do PPP
+Orientar escolas na incorporação da política.
+SME/coordenação.
+Aprovação escolar conforme processo local.
+Evidência por escola.
+Plano de formação
+Definir públicos, trilhas, metas e certificação.
+SME/consultoria.
+Gestão da SME.
+Monitorado.
+Plano de monitoramento
+Definir indicadores, periodicidade e evidências.
+SME/dados.
+Gestão da SME.
+Configura painel.
+Política de uso de dispositivos e segurança
+Articular intencionalidade pedagógica, proteção e regras escolares.
+SME + escolas.
+Conforme normas locais.
+Camada de segurança.
+10.1 Dossiê de conformidade
+Versão vigente do referencial curricular.
+Ato de aprovação ou documento formal de adesão.
+Data de aprovação e órgão competente.
+Comprovação de que a BNCC Computação está contemplada.
+Registros do Simec e situação da Condicionalidade V, quando aplicável.
+Comunicações/diligências e respostas, quando houver.
+Pareceres, notas técnicas locais e histórico de revisões.
+Registro da fonte normativa nacional utilizada na elaboração.
+
+11. Governança e responsabilidades
+11.1 Estrutura mínima
+Patrocínio
+Secretário(a) / alta gestão: decisão, prioridade e remoção de barreiras.
+Coordenação
+Núcleo municipal BNCC Computação: currículo, formação, tecnologia e dados.
+Execução
+Gestores, coordenadores e professores nas escolas.
+Controle
+Conselho de Educação e instâncias de acompanhamento conforme competência.
+11.2 RACI de alto nível
+Atividade
+Secretaria
+Currículo
+Formação
+Escola
+Conselho/sistema
+Definir estratégia curricular
+A
+R
+C
+C
+C/I
+Elaborar referencial/adendo
+C
+R
+C
+C
+C/A conforme sistema
+Aprovar/validar normativamente
+I
+C
+I
+I
+A/R
+Executar trilhas de formação
+A
+C
+R
+C
+I
+Atualizar PPP e planejamento
+C
+C
+C
+R/A
+I
+Registrar evidências
+C
+C
+C
+R
+I
+Monitorar indicadores
+A
+C
+C
+R/C
+I
+Responder diligência oficial
+A/R
+C
+C
+I
+C
+Legenda: R = responsável pela execução; A = responsável final; C = consultado; I = informado. O RACI deve ser adaptado à estrutura de cada município.
+11.3 Comitê de implementação
+Reunião executiva mensal durante a implantação e trimestral após estabilização.
+Reunião técnica quinzenal nas fases de currículo/formação.
+Revisão bimestral dos indicadores e evidências das escolas.
+Revisão normativa anual e sempre que houver mudança oficial relevante.
+Plano de ação com responsável, prazo, evidência e status para cada pendência.
+
+12. Estratégia de formação continuada
+A formação não deve ser desenhada como um curso único para toda a rede. O projeto separa públicos, competências e evidências de aplicação. A carga horária e o número de ações formativas são parametrizados após o diagnóstico e a decisão curricular.
+Público
+Competência esperada
+Formato
+Evidência de conclusão
+Evidência de aplicação
+Equipe técnica SME
+Interpretar norma, desenhar currículo, governança e monitoramento.
+Oficina executiva + laboratório de desenho.
+Produto técnico validado.
+Plano e matriz curricular.
+Gestores escolares
+Organizar implementação, PPP, calendário, apoio e evidências.
+Formação curta aplicada.
+Plano escolar.
+PPP/rotina atualizada.
+Coordenadores pedagógicos
+Apoiar planejamento, observação, devolutiva e progressão.
+Trilha + comunidade de prática.
+Atividades e rubrica.
+Acompanhamento docente.
+Professores regentes/áreas
+Ensinar habilidades dos eixos em sua etapa/contexto.
+Módulos práticos, oficinas e projetos.
+Avaliação + produção.
+Plano aplicado + evidência.
+Professor/especialista de Computação, se houver
+Aprofundar progressão, programação, dados, sistemas e projetos.
+Trilha avançada.
+Projeto técnico-pedagógico.
+Sequência/projeto com estudantes.
+12.1 Princípios formativos
+Diagnóstico antes da formação.
+Aprender fazendo: cada módulo gera um artefato aplicável.
+Progressão por competência e não apenas por presença.
+Integração entre atividades desplugadas e plugadas.
+Exemplos contextualizados à etapa de atuação do professor.
+Mentoria/apoio após o curso para reduzir a distância entre formação e sala de aula.
+Certificação separada da classificação de “implementador” ou “referência”.
+
+13. Trilha formativa recomendada
+Como modelo de referência, propõe-se uma trilha em cinco ações formativas. A quantidade, carga horária e profundidade são ajustáveis ao município. O desenho abaixo é deliberadamente modular para permitir contratação por etapas.
+Ação
+Tema
+Público
+Carga de referência
+Produto
+Pré-requisito
+F0 — Mobilização
+BNCC Computação, PNED, PNE, modelo municipal e governança.
+Gestão + técnicos + escolas
+4–8h
+Mapa de compromisso e papéis.
+Nenhum.
+F1 — Fundamentos
+Três eixos, progressão, computação desplugada e segurança.
+Docentes + coordenação
+12–20h
+Plano de atividade.
+F0 recomendado.
+F2 — Didática por etapa
+Estratégias para EI, anos iniciais/finais e integração curricular.
+Docentes por segmento
+16–24h
+Sequência didática.
+F1.
+F3 — Ferramentas e criação
+Programação, dados, recursos digitais, autoria e projetos conforme etapa.
+Docentes
+16–30h
+Projeto/artefato.
+F1/F2.
+F4 — Implementação e evidências
+Aplicação, avaliação, portfólio, rubricas e melhoria.
+Docentes + coordenação
+12–20h
+Evidência aplicada + reflexão.
+F2/F3.
+13.1 Trilhas por nível de desenvolvimento
+Nível
+Critério
+Formação
+Aplicação
+Reconhecimento sugerido
+1 — Iniciado
+Concluiu diagnóstico e fundamentos.
+F0/F1.
+Planejamento inicial.
+Selo “Iniciado”.
+2 — Preparado
+Concluiu didática e produto formativo.
+F1/F2.
+Sequência pronta.
+Selo “Preparado”.
+3 — Aplicando
+Executou prática com evidência válida.
+F2/F3/F4.
+Atividade/projeto aplicado.
+Selo “Implementador”.
+4 — Referência
+Apresenta consistência, evidência e compartilhamento.
+Aprofundamento/mentoria.
+Portfólio + apoio a pares.
+Selo “Referência municipal”.
+
+14. Certificação, reconhecimento e gamificação
+O reconhecimento é uma ferramenta de engajamento, não um substituto de carreira, progressão funcional ou política remuneratória. O município pode adotar certificados, selos, vitrines de boas práticas e eventos de reconhecimento com regras transparentes.
+Mecanismo
+Critério
+Cuidado
+Uso na plataforma
+Certificado de formação
+Frequência + avaliação + entregas previstas.
+Critério objetivo e carga horária real.
+Geração/validação por código.
+Selo de aplicação
+Evidência pedagógica validada.
+Não confundir com avaliação de desempenho funcional.
+Status por profissional.
+Escola implementadora
+Cobertura mínima + PPP + evidências + participação formativa.
+Considerar porte, contexto e infraestrutura.
+Selo institucional.
+Mostra municipal
+Projetos selecionados por critérios públicos.
+Evitar competição excludente.
+Portfólio e vitrine.
+Premiação, se adotada
+Regra pública, critérios pedagógicos e orçamento próprio.
+Análise jurídica, financeira e de equidade.
+Módulo opcional.
+14.1 Pontuação sugerida para gamificação interna
+A gamificação pode ser usada como mecanismo interno de progresso, sem produzir ranking público. Exemplo ilustrativo, a ser validado pelo município:
+Evento
+Pontos ilustrativos
+Validação
+Conclusão de módulo
+10
+Automática + avaliação
+Plano de aula validado
+15
+Coordenação
+Aplicação com evidência
+25
+Coordenação/validador
+Projeto interdisciplinar
+30
+Comissão pedagógica
+Compartilhamento de boa prática
+20
+Curadoria municipal
+
+15. Implementação na escola e no PPP
+A escola transforma a política em rotina. Para evitar burocratização, o projeto propõe um plano de implementação escolar enxuto, com metas por bimestre e poucos documentos-chave.
+15.1 Checklist da escola
+Conhecer o modelo curricular adotado pela rede.
+Definir professores/turmas envolvidos e responsabilidades.
+Atualizar PPP, regimento ou planejamento institucional quando aplicável.
+Inserir habilidades/objetivos no planejamento docente.
+Executar pelo menos as experiências previstas no calendário municipal.
+Registrar evidências mínimas sem exposição desnecessária de estudantes.
+Realizar acompanhamento com coordenação pedagógica.
+Participar da avaliação diagnóstica/formativa prevista.
+Revisar o plano no fechamento de cada bimestre.
+15.2 Plano escolar de uma página
+Campo
+Conteúdo
+Responsável local
+Gestor + coordenador + ponto focal.
+Turmas prioritárias
+Etapas/anos atendidos no ciclo.
+Professores
+Nome/ID, função e status de formação.
+Metas bimestrais
+Cobertura curricular, formação e evidências.
+Recursos
+Dispositivos, espaços, materiais desplugados e conectividade.
+Riscos
+Ausência, infraestrutura, resistência, calendário, pessoal.
+Evidências
+Tipos e responsáveis pelo registro.
+Apoio necessário
+Demanda para SME/consultoria.
+
+16. Planejamento pedagógico e banco de práticas
+A plataforma pode oferecer um banco municipal de atividades alinhadas à matriz curricular. O banco deve ser curado, versionado e contextualizado à etapa, não um repositório indiscriminado de links.
+Campo
+Descrição
+Exemplo de filtro
+Obrigatório?
+Quem publica
+Validação
+Eixo
+PC, MD ou CD.
+Pensamento Computacional
+Sim
+Curadoria
+Sim
+Etapa/ano
+Público-alvo.
+4º ano
+Sim
+Curadoria/professor
+Sim
+Habilidade
+Código e descrição oficial.
+[código]
+Sim
+Curadoria
+Sim
+Tipo
+Desplugada, digital, projeto, investigação.
+Desplugada
+Sim
+Autor
+Sim
+Tempo
+Duração estimada.
+2 aulas
+Recomendado
+Autor
+Não
+Recursos
+Materiais necessários.
+Cartões + projetor
+Sim
+Autor
+Sim
+Evidência
+O que comprova execução/aprendizagem.
+Rubrica + produto
+Sim
+Autor
+Sim
+Acessibilidade
+Adaptações e alternativas.
+Leitura ampliada
+Recomendado
+Autor/curadoria
+Sim
+16.1 Ciclo de curadoria
+Professor propõe → coordenação revisa → curadoria municipal valida alinhamento → atividade é publicada → uso e feedback são registrados → versão é revisada.
+
+17. Infraestrutura, conectividade e computação desplugada
+A falta de laboratório não deve paralisar toda a BNCC Computação. Parte importante do pensamento computacional pode ser trabalhada com materiais físicos e atividades desplugadas. Ao mesmo tempo, mundo digital e cultura digital exigem progressivamente experiências concretas com tecnologias. O diagnóstico deve, portanto, separar “capacidade pedagógica” de “capacidade tecnológica”.
+Nível
+Situação
+Estratégia imediata
+Investimento prioritário
+Indicador
+A
+Sem laboratório/conectividade confiável.
+Desplugado + uso compartilhado de poucos dispositivos.
+Conectividade básica e equipamentos docentes/compartilhados.
+% turmas com atividades mínimas executadas.
+B
+Internet e poucos dispositivos.
+Estações, rodízio, projetos colaborativos.
+Rede interna, ampliação de dispositivos e manutenção.
+Relação dispositivo/estudante e disponibilidade.
+C
+Laboratório ou carrinhos móveis funcionais.
+Programação, dados, projetos e autoria.
+Manutenção, software, segurança e formação.
+Uso pedagógico efetivo.
+D
+Ambiente digital maduro.
+Projetos avançados, integração de dados, produção e inovação.
+Renovação sustentável, acessibilidade e avaliação.
+Aprendizagem + equidade de acesso.
+17.1 Inventário mínimo por escola
+Conectividade externa e cobertura Wi-Fi interna.
+Computadores, notebooks, tablets e dispositivos móveis institucionais.
+Quantidade funcional, idade aproximada e disponibilidade por turno.
+Projetores/telas e recursos de acessibilidade.
+Laboratórios, salas maker ou espaços flexíveis.
+Política de manutenção e suporte.
+Soluções de segurança, autenticação e proteção de dados.
+Materiais para atividades desplugadas e kits pedagógicos.
+
+18. Plataforma digital e perfis de acesso
+A plataforma é a camada de orquestração do projeto. Ela não substitui AVA, Simec ou sistemas acadêmicos existentes; integra informações necessárias à governança e pode acionar links/serviços externos.
+Perfil
+Visão
+Ações principais
+Restrições
+Administrador municipal
+Rede completa.
+Configurar programa, usuários, metas, documentos, indicadores e relatórios.
+Acesso sensível conforme função.
+Equipe técnica SME
+Rede/área.
+Validar documentos, acompanhar escolas, formação e evidências.
+Sem permissões administrativas críticas, se definido.
+Gestor escolar
+Somente escola.
+Plano escolar, equipe, evidências, status e relatórios locais.
+Sem dados de outras escolas.
+Coordenador pedagógico
+Escola/turmas/professores.
+Acompanhar planejamento, práticas e devolutivas.
+Dados conforme necessidade.
+Professor
+Próprio perfil/trilha/turmas.
+Formação, planos, envio de evidência, portfólio.
+Sem dados administrativos indevidos.
+Conselho/controle
+Visão documental/indicadores autorizados.
+Consulta e acompanhamento.
+Preferência por leitura.
+Consultoria/suporte
+Escopo contratado.
+Configuração, apoio, análise e suporte.
+Acesso temporário, registrado e minimizado.
+18.1 Módulos funcionais
+Currículo
+Referenciais, matriz de habilidades, documentos e status.
+Formação
+Trilhas, inscrições, progresso, avaliação e certificados.
+Escolas
+Plano local, PPP, turmas, equipe, práticas e evidências.
+Inteligência
+Indicadores, alertas, mapas, relatórios e exportações.
+Repositório de documentos normativos com versionamento.
+Calendário regulatório e operacional.
+Painel de status por escola e etapa.
+Fluxo de envio, validação, devolução e correção de evidências.
+Banco de atividades e planos de aula.
+Portfólio de projetos e boas práticas.
+Módulo de reconhecimento/certificação.
+Exportação em planilha/PDF e APIs quando aplicável.
+
+19. Arquitetura de dados e evidências
+19.1 Entidades centrais
+Entidade
+Chave
+Dados essenciais
+Relações
+Município
+Código IBGE / ID interno
+Nome, sistema de ensino, configuração, ciclo.
+Escolas, documentos, metas.
+Escola
+INEP
+Etapas, zona, infraestrutura, gestor.
+Turmas, professores, evidências.
+Professor
+Matrícula/ID interno
+Escola, função, formação, status de trilha.
+Cursos, planos, evidências.
+Turma
+ID local
+Ano/etapa, turno, escola.
+Estudantes agregados, práticas.
+Habilidade
+Código oficial
+Eixo, etapa/ano, descrição, versão.
+Planos, atividades, evidências.
+Formação
+ID ação
+Carga, público, módulo, critérios.
+Participantes, avaliações.
+Evidência
+ID registro
+Tipo, data, escola, autor, status, arquivo/link.
+Requisito, habilidade, indicador.
+Indicador
+ID métrica
+Definição, fórmula, fonte, periodicidade, meta.
+Município/escola/período.
+19.2 LGPD e minimização
+Evitar coletar CPF ou nome de estudante quando indicadores agregados ou IDs pseudonimizados forem suficientes.
+Definir finalidade, base legal e perfil de acesso para cada conjunto de dados.
+Separar dados de formação de profissionais de dados pedagógicos de estudantes.
+Registrar logs de acesso e alterações em documentos/evidências críticas.
+Definir prazo de retenção, política de backup e processo de exportação/eliminação.
+Não publicar fotos ou produções identificáveis de estudantes sem tratamento adequado e fundamento institucional.
+19.3 Evidência mínima viável
+Cada evidência deve responder a: quem fez, o que foi feito, quando, onde, a qual habilidade/requisito se vincula, quem validou e qual é o status. A plataforma deve evitar “acúmulo de arquivo” sem metadados.
+
+20. Sistema de indicadores
+Os indicadores são organizados em cinco famílias. A recomendação é começar com um conjunto pequeno e acionável, ampliando conforme a maturidade da rede.
+Família
+Indicador
+Fórmula resumida
+Periodicidade
+Meta exemplo
+Ação associada
+Conformidade
+Índice de prontidão normativa
+requisitos cumpridos / requisitos aplicáveis
+Mensal no início; anual após estabilização
+100%
+Resolver pendências documentais.
+Formação
+Cobertura docente
+docentes com formação mínima / docentes-alvo
+Mensal/bimestral
+≥90%
+Abrir turma/recuperação.
+Formação
+Taxa de aplicação
+docentes com evidência válida / docentes formados
+Bimestral
+≥70%
+Mentoria e apoio.
+Escola
+Cobertura de implementação
+escolas com plano + evidência / escolas-alvo
+Bimestral
+≥90%
+Apoio focalizado.
+Currículo
+Cobertura de habilidades
+habilidades previstas executadas / habilidades planejadas
+Bimestral/semestral
+Definida por etapa
+Replanejamento.
+Infraestrutura
+Disponibilidade pedagógica
+recursos funcionais / recursos necessários
+Trimestral
+≥85%
+Manutenção/aquisição.
+Aprendizagem
+Proficiência municipal em educação digital
+resultado em instrumento municipal padronizado
+Semestral/anual
+Baseline + evolução
+Intervenção curricular.
+Equidade
+Gap de acesso/resultado
+diferença entre grupos/escolas
+Semestral
+Redução contínua
+Priorização de suporte.
+20.1 Índice Municipal de Implementação da BNCC Computação — proposta
+Pode ser criado um índice interno de governança para sintetizar a implementação, sem confundi-lo com indicador oficial do MEC. Exemplo de pesos iniciais, ajustáveis após validação:
+Dimensão
+Peso ilustrativo
+Componentes
+Conformidade curricular
+20%
+Referencial, ato, matriz e documentação.
+Formação
+25%
+Cobertura, conclusão e avaliação.
+Aplicação pedagógica
+30%
+Evidências válidas, cobertura por turma/habilidade.
+Infraestrutura e suporte
+10%
+Capacidade mínima e disponibilidade.
+Aprendizagem e melhoria
+15%
+Diagnóstico, evolução e equidade.
+A fórmula deve ser aprovada pela governança local. O índice é gerencial; não substitui avaliações oficiais nem deve ser apresentado como indicador do VAAR.
+
+21. Monitoramento bimestral e ciclo anual
+O VAAR não exige um relatório bimestral de implementação da BNCC Computação. O monitoramento bimestral é uma escolha de governança do produto para evitar que a política seja verificada apenas no momento da comprovação oficial.
+Período
+Foco
+Escola entrega
+SME analisa
+Produto
+B1
+Mobilização, formação inicial e planejamento.
+Plano escolar + responsáveis + planejamento.
+Cobertura inicial e pendências.
+Boletim B1.
+B2
+Primeiras aplicações e ajustes.
+Evidência de atividade/projeto + reflexão.
+Qualidade da aplicação e suporte.
+Boletim B2.
+B3
+Ampliação de cobertura e projetos.
+Evidências + avaliação formativa.
+Cobertura por eixo/etapa e equidade.
+Boletim B3.
+B4
+Consolidação, aprendizagem e memória.
+Portfólio final + autoavaliação.
+Resultados, lacunas e prioridades.
+Relatório anual.
+Ciclo regulatório
+Conformidade/documentos oficiais.
+Conforme demanda da SME.
+Validação e envio no sistema oficial quando aplicável.
+Dossiê de conformidade.
+21.1 Painel de alertas
+Escola sem plano aprovado.
+Professor-alvo sem formação mínima.
+Evidência vencida ou devolvida para correção.
+Eixo/habilidade com baixa cobertura.
+Turma sem prática registrada no período.
+Infraestrutura crítica sem plano de mitigação.
+Documento normativo próximo de revisão ou pendência oficial.
+Diligência do Simec com prazo, quando aplicável e autorizado.
+
+22. Avaliação da aprendizagem dos estudantes
+A avaliação deve evoluir da verificação de execução para a medição de competência. O novo PNE cria um horizonte concreto para padrões nacionais de aprendizagem em educação digital. O município que desenvolver instrumentos diagnósticos próprios desde já ganha baseline e capacidade de adaptação futura.
+Camada
+Objetivo
+Instrumento
+Frequência
+Uso
+Diagnóstica
+Conhecer ponto de partida.
+Itens situacionais, tarefas, desafios e autoavaliação adequada à idade.
+Início do ciclo.
+Planejar formação e ensino.
+Formativa
+Acompanhar progressão.
+Rubricas, observação, mini-desafios, produções.
+Durante bimestres.
+Feedback e intervenção.
+Projeto
+Integrar competências.
+Projeto/artefato/solução com critérios.
+Semestral/anual.
+Autoria, integração e evidência.
+Rede
+Comparabilidade municipal.
+Instrumento padronizado amostral ou censitário, se viável.
+Anual.
+Baseline, equidade e evolução.
+Nacional futura
+Acompanhar padrões oficiais quando definidos.
+Conforme Inep/MEC.
+Conforme calendário oficial.
+Comparação e metas do PNE.
+22.1 Meta 7.b do PNE como horizonte
+A Lei nº 15.388/2026 estabelece como Meta 7.b que todos os estudantes alcancem nível básico nas três dimensões da educação digital e define percentuais de nível adequado para marcos dos anos iniciais, anos finais e ensino médio. Para redes municipais, isso reforça que a implementação deve ser desenhada desde o início com capacidade de medir aprendizagem, não apenas matrícula em cursos docentes ou número de equipamentos.
+22.2 Rubrica municipal simples
+Competência
+1 — Inicial
+2 — Em desenvolvimento
+3 — Adequado
+4 — Avançado
+Resolver problema computacional
+Depende de instrução direta.
+Identifica partes com apoio.
+Modela e cria estratégia coerente.
+Compara, otimiza e justifica soluções.
+Compreender mundo digital
+Reconhece usos básicos.
+Explica elementos isolados.
+Relaciona dados, sistemas e segurança.
+Analisa riscos, escolhas e arquitetura.
+Atuar em cultura digital
+Usa recursos sem muita reflexão.
+Reconhece regras e riscos.
+Age de modo crítico, ético e seguro.
+Produz, argumenta e orienta pares com responsabilidade.
+
+23. Relatórios, transparência e memória institucional
+Relatório
+Público
+Periodicidade
+Conteúdo
+Formato
+Boletim executivo
+Secretário/alta gestão
+Bimestral
+Cobertura, riscos, metas, decisões.
+1–3 páginas + dashboard.
+Relatório técnico
+Equipe SME
+Bimestral/trimestral
+Indicadores detalhados, escola, formação, evidências.
+PDF/planilha.
+Relatório escolar
+Gestor/coordenação
+Bimestral
+Status local, professores, práticas, pendências.
+Painel/PDF.
+Relatório anual de implementação
+SME/CME/gestão
+Anual
+Currículo, formação, escolas, infraestrutura, aprendizagem, equidade, plano seguinte.
+Documento institucional.
+Dossiê regulatório
+Gestão autorizada
+Por ciclo oficial
+Referenciais, atos, telas, diligências, comprovações.
+Repositório + índice.
+Transparência pública
+Sociedade
+Anual/semestral
+Indicadores agregados e boas práticas, sem dados pessoais.
+Página/relatório público.
+23.1 Relatório anual — estrutura recomendada
+1. Síntese executiva e decisões do ano.
+2. Situação curricular e normativa.
+3. Formação dos profissionais.
+4. Implementação por escola/etapa.
+5. Infraestrutura e equidade de acesso.
+6. Práticas e projetos de destaque.
+7. Resultados de aprendizagem disponíveis.
+8. Riscos e pendências.
+9. Recomendações e metas para o ciclo seguinte.
+10. Anexos e índice de evidências.
+
+24. Cronograma de implantação — 12 meses
+O cronograma abaixo é uma referência. Municípios que já possuem referencial aprovado podem acelerar a etapa normativa e concentrar esforço em formação e implementação. Municípios sem base curricular precisam tratar a decisão normativa como caminho crítico.
+Fase
+Meses
+Atividades-chave
+Marco de saída
+Dependência
+0. Mobilização
+M0
+Contrato, governança, coleta de dados, agenda executiva.
+Kick-off + plano de trabalho.
+Patrocínio.
+1. Diagnóstico
+M1
+Mapeamento normativo, curricular, pessoas, escola, infraestrutura e dados.
+Diagnóstico e baseline.
+Dados mínimos.
+2. Desenho curricular
+M1–M3
+Modelo de oferta, matriz, referencial/adendo, validações.
+Documento técnico final.
+Equipe curricular.
+3. Formalização
+M2–M4
+Trâmite no conselho/sistema, atos e comunicação.
+Ato válido/adesão formal.
+Calendário do sistema.
+4. Formação inicial
+M3–M6
+F0/F1/F2 e formação de multiplicadores.
+Cobertura mínima definida.
+Modelo curricular.
+5. Piloto
+M4–M6
+Aplicação em conjunto de escolas/turmas, suporte e ajustes.
+Relatório de piloto.
+Formação inicial.
+6. Expansão
+M6–M10
+Escala para rede, banco de práticas e evidências bimestrais.
+Cobertura municipal.
+Aprendizados do piloto.
+7. Consolidação
+M10–M12
+Avaliação, relatório anual, reconhecimento e plano seguinte.
+Relatório + roadmap.
+Dados do ciclo.
+24.1 Alternativa 30–60–90 dias para municípios mais maduros
+30 dias
+Diagnóstico, decisão curricular, governança e configuração inicial.
+60 dias
+Pacote documental, formação inicial, piloto e baseline.
+90 dias
+Primeira onda de implementação, evidências e dashboard operacional.
+
+25. Níveis de serviço e composição comercial
+O município pode contratar o módulo em níveis progressivos. Valores não são fixados neste volume, pois dependem do porte da rede, quantidade de profissionais, escopo formativo, produção de conteúdo, integrações e intensidade de suporte.
+Nível
+Inclui
+Indicado para
+Principal entrega de valor
+Essencial — Conformidade e desenho
+Diagnóstico, estratégia curricular, checklists, pacote documental, orientação para aprovação e painel básico.
+Município com urgência normativa e equipe capaz de executar formação internamente.
+Prontidão institucional.
+Integrado — Implementação
+Essencial + trilhas formativas, piloto, planos escolares, evidências, suporte e indicadores.
+Município que precisa sair do documento para a escola.
+Capacidade de execução.
+Completo — Governança contínua
+Integrado + plataforma completa, banco de práticas, avaliação, relatórios, reconhecimento, mentoria e revisão anual.
+Município que busca política permanente e inteligência de gestão.
+Sustentabilidade e melhoria contínua.
+25.1 Variáveis de dimensionamento
+Número de escolas, etapas e turmas.
+Número de professores-alvo e multiplicadores.
+Situação do currículo: inexistente, em revisão, aprovado ou adesão estadual.
+Quantidade de formações, carga horária e modalidade (presencial, síncrona, AVA).
+Produção de materiais didáticos e banco de práticas.
+Necessidade de avaliação municipal dos estudantes.
+Grau de suporte por escola e número de visitas/mentorias.
+Integrações com sistemas e bases do município.
+Prazo de implantação e calendário regulatório.
+Duração do acompanhamento pós-implantação.
+
+26. Entregáveis consolidados
+Código
+Entregável
+Essencial
+Integrado
+Completo
+E01
+Diagnóstico municipal de prontidão
+●
+●
+●
+E02
+Mapa normativo e checklist VAAR/Cond. V
+●
+●
+●
+E03
+Estratégia/modelo curricular
+●
+●
+●
+E04
+Referencial/adendo e matriz de progressão
+●
+●
+●
+E05
+Pacote de atos, fluxos e dossiê documental
+●
+●
+●
+E06
+Plano de governança e RACI
+●
+●
+●
+E07
+Trilhas de formação
+—
+●
+●
+E08
+Materiais e banco inicial de práticas
+—
+●
+●
+E09
+Piloto e relatório de ajustes
+—
+●
+●
+E10
+Plano de implementação por escola
+—
+●
+●
+E11
+Plataforma/painel de monitoramento
+Básico
+●
+●
+E12
+Fluxo de evidências e validação
+Básico
+●
+●
+E13
+Avaliação municipal de aprendizagem
+—
+Opcional
+●
+E14
+Programa de reconhecimento
+—
+Opcional
+●
+E15
+Relatório anual e roadmap
+—
+●
+●
+E16
+Mentoria e revisão contínua
+—
+—
+●
+
+27. Riscos, premissas e respostas
+Risco
+Prob.
+Impacto
+Resposta
+Responsável típico
+Referencial não aprovado a tempo do ciclo oficial
+Média
+Alto
+Tratar decisão normativa como caminho crítico; não prometer retroatividade.
+SME + conselho.
+Formação sem aplicação
+Alta
+Alto
+Entregas aplicadas, mentoria, evidência e acompanhamento.
+Formação + escola.
+Baixa infraestrutura
+Média/Alta
+Médio/Alto
+Computação desplugada + plano gradual de capacidade tecnológica.
+SME/TI.
+Sobrecarga docente
+Alta
+Médio
+Integrar ao planejamento existente; reduzir burocracia de evidência.
+SME/escola.
+Rotatividade de gestores/professores
+Média
+Médio
+Trilhas recorrentes, memória institucional e multiplicadores.
+SME.
+Dados incompletos
+Alta
+Médio
+Baseline e governança de dados antes do dashboard.
+Dados/TI.
+Uso de ranking inadequado
+Média
+Médio
+Indicadores contextualizados, equidade e reconhecimento não punitivo.
+Gestão.
+Mudança normativa
+Média
+Alto
+Versionamento de regras, revisão anual e fonte oficial registrada.
+Governança.
+Diligência não respondida
+Baixa/Média
+Alto
+Calendário, alertas e responsáveis formais; prazo conforme regra oficial.
+Dirigente/SME.
+Exposição de dados pessoais
+Baixa/Média
+Alto
+Privacidade por padrão, minimização, perfis e logs.
+DPO/TI/SME.
+
+28. Sustentabilidade, escala e evolução
+28.1 Da implantação ao ciclo permanente
+A BNCC Computação é uma excelente porta de entrada porque combina urgência normativa, formação, currículo, tecnologia e dados. Depois do primeiro ciclo, a mesma infraestrutura municipal pode servir a outros módulos da Plataforma de Governança Educacional Municipal.
+Ano/ciclo
+Foco BNCC Computação
+Capacidade adicionada
+Expansão possível
+Ciclo 1
+Conformidade, formação e piloto.
+Cadastros, documentos, trilhas, evidências.
+Formação continuada municipal.
+Ciclo 2
+Escala, aprendizagem e equidade.
+Avaliação, mentoria, indicadores avançados.
+Saeb/Ideb, alfabetização, frequência.
+Ciclo 3
+Inovação e integração.
+Dados interoperáveis, banco de práticas, comunidades.
+Painel executivo e demais políticas curriculares.
+Contínuo
+Revisão normativa e melhoria.
+Memória institucional e inteligência de rede.
+Catálogo completo do Volume 2.
+28.2 Oportunidade de negócio
+O ativo escalável não é apenas o conteúdo de Computação. É a metodologia de transformar uma política nacional em diagnóstico, desenho municipal, formação, execução, evidência e indicador. A mesma arquitetura pode ser parametrizada para novas agendas.
+
+29. Roteiro de diagnóstico comercial
+Em uma primeira reunião com o município, o objetivo não é apresentar cinquenta funcionalidades; é descobrir o estágio real da rede e a urgência. O roteiro abaixo pode ser convertido em formulário.
+Dimensão
+Pergunta
+Norma e VAAR
+O município sabe qual foi sua situação na Condicionalidade V do VAAR 2027? Há print/relatório do Simec?
+Currículo
+A rede possui referencial próprio, aderiu ao estadual ou utiliza outra solução? O documento contempla BNCC Computação?
+Aprovação
+Qual órgão aprovou o referencial? Existe ato posterior a 4/10/2022 para Computação quando referencial próprio?
+Etapas
+Quais etapas/anos são atendidos pela rede municipal?
+Modelo
+Computação é transversal, componente específico, híbrido ou ainda não foi definida?
+Professores
+Quantos professores serão impactados e quantos já receberam formação específica?
+Escolas
+Quantas escolas já executam práticas de Computação de forma sistemática?
+PPP
+Os PPPs/regimentos/planejamentos já incorporam a política?
+Infraestrutura
+Quais escolas têm internet, laboratório e dispositivos funcionais?
+Materiais
+Existe banco de atividades, currículo detalhado e materiais por etapa?
+Evidências
+Como a SME comprova hoje que a política chegou à escola?
+Avaliação
+Existe alguma forma de medir aprendizagem de estudantes em Computação/educação digital?
+Dados
+Quais sistemas e planilhas já existem e quem mantém as bases?
+Governança
+Quem é o responsável municipal pela implementação? Há comitê ou cronograma?
+Prioridade
+Qual problema precisa estar resolvido nos próximos 90 dias?
+29.1 Classificação da oportunidade
+Perfil
+Sinal
+Oferta recomendada
+Mensagem
+Urgência normativa
+Currículo/ato/Simec frágil.
+Essencial.
+Organizar conformidade e decisão curricular.
+Currículo pronto, escola frágil
+Documento existe; formação/aplicação baixa.
+Integrado.
+Transformar currículo em execução.
+Rede madura
+Boa cobertura, busca medir qualidade.
+Completo.
+Aprendizagem, equidade e melhoria contínua.
+Infraestrutura crítica
+Baixa capacidade tecnológica.
+Integrado + plano de infraestrutura.
+Começar com desplugado e expandir com prioridade.
+Gestão fragmentada
+Muitas ações sem visão consolidada.
+Completo + painel executivo.
+Criar governança e memória institucional.
+
+30. Transição para instrumentos operacionais
+Este Volume 3 estabelece a arquitetura completa do módulo BNCC Computação. A próxima camada de trabalho é transformar cada componente em instrumentos editáveis e reutilizáveis: modelos de diagnóstico, planilhas, minutas, checklists, formulários, rubricas, matrizes curriculares, roteiros de formação, modelos de relatório e especificação funcional da plataforma.
+30.1 Instrumentos prioritários para o Volume 4
+Checklist VAAR — Condicionalidade V e dossiê Simec.
+Formulário de diagnóstico municipal de prontidão.
+Matriz de maturidade 0–4 com cálculo automático.
+Matriz curricular por etapa/ano/eixo/habilidade.
+Modelo de plano municipal BNCC Computação.
+Minuta-base de orientação de implementação e checklist de ato normativo.
+Modelo de plano escolar de uma página.
+Checklist de atualização do PPP.
+Diagnóstico de competências docentes.
+Plano detalhado das trilhas F0–F4.
+Rubricas de validação de planos e evidências.
+Modelo de relatório bimestral e relatório anual.
+Dicionário de dados e indicadores.
+Especificação de telas e fluxos da plataforma.
+Modelo de proposta comercial parametrizável por porte do município.
+O Volume 3 responde “como a política deve funcionar”. O Volume 4 responderá “quais instrumentos usamos para executar e vender essa política de forma repetível”.
+
+Anexo A — Checklist executivo de prontidão BNCC Computação
+Código
+Item
+Status
+Evidência / observação
+A1
+Referencial curricular alinhado à BNCC identificado.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A2
+Forma de adoção municipal definida: próprio, adesão estadual ou por etapa.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A3
+BNCC Computação contemplada explicitamente.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A4
+Ato de aprovação/adesão localizado e validado.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A5
+Data e órgão de aprovação registrados.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A6
+Situação da Condicionalidade V no Simec conhecida.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A7
+Diligências oficiais identificadas e responsáveis definidos, se houver.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A8
+Matriz de habilidades por etapa/ano definida.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A9
+Modelo de oferta curricular definido.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A10
+Professores-alvo quantificados.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A11
+Diagnóstico de competências docentes aplicado.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A12
+Plano de formação aprovado.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A13
+Escolas-alvo e pilotos definidos.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A14
+PPPs/planejamentos com orientação de atualização.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A15
+Infraestrutura mapeada por escola.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A16
+Banco inicial de práticas disponível.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A17
+Fluxo de evidências configurado.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A18
+Indicadores, metas e periodicidade definidos.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A19
+Avaliação de aprendizagem desenhada.
+☐ Não  ☐ Parcial  ☐ Sim
+
+A20
+Relatório anual e ciclo de revisão previstos.
+☐ Não  ☐ Parcial  ☐ Sim
+
+Anexo B — Matriz de evidências por nível
+Nível
+Requisito
+Evidência mínima
+Validador
+Periodicidade
+Município
+Referencial/ato vigente.
+PDF + metadados + fonte.
+Equipe técnica/gestão.
+Por revisão normativa.
+Município
+Plano de formação.
+Documento + metas + calendário.
+SME.
+Anual.
+Escola
+Plano escolar.
+Formulário validado.
+SME/gestão escolar.
+Anual com revisão bimestral.
+Escola
+PPP/planejamento atualizado.
+Trecho/documento ou declaração estruturada.
+Gestor/coordenação.
+Anual.
+Professor
+Conclusão formativa.
+Frequência + avaliação + entrega.
+Formação.
+Por módulo.
+Professor
+Aplicação pedagógica.
+Plano + registro + produto/rubrica.
+Coordenação.
+Bimestral.
+Turma
+Cobertura curricular.
+Habilidades planejadas x executadas.
+Professor/coordenação.
+Bimestral.
+Estudante
+Aprendizagem.
+Resultado agregado de instrumento/rubrica.
+Escola/SME.
+Semestral/anual.
+
+Anexo C — Painel executivo: campos recomendados
+Conformidade
+Status curricular, ato, ciclo VAAR e pendências.
+Formação
+Cobertura, conclusão, aplicação e níveis docentes.
+Implementação
+Escolas, turmas, eixos, evidências e cobertura.
+Aprendizagem
+Baseline, evolução, equidade e alertas.
+Bloco
+Indicadores principais
+Drill-down
+Rede
+Escolas, professores-alvo, estudantes alcançados, índice de implementação.
+Escola / etapa.
+Currículo
+% habilidades mapeadas e executadas; status documental.
+Etapa / eixo / habilidade.
+Formação
+% inscritos, concluintes, aplicando, referência.
+Professor / escola / trilha.
+Escolas
+% com plano, PPP, evidência e cobertura mínima.
+Escola / bimestre.
+Infraestrutura
+Conectividade, dispositivos funcionais, capacidade.
+Escola / tipo de recurso.
+Aprendizagem
+Resultado médio, distribuição por nível, gap entre grupos.
+Etapa / escola / eixo.
+Riscos
+Pendências, prazos, diligências, baixa cobertura.
+Responsável / prazo.
+
+Referências oficiais e notas de atualização
+As referências abaixo devem ser verificadas novamente antes de cada proposta municipal, especialmente para prazos, formulários do Simec e regras do VAAR.
+Conselho Nacional de Educação — Resolução CNE/CEB nº 1, de 4 de outubro de 2022 — Normas sobre Computação na Educação Básica — Complemento à BNCC. Acessar fonte oficial
+CNE/MEC — Anexo ao Parecer CNE/CEB nº 2/2022 — habilidades da BNCC Computação. Acessar fonte oficial
+Presidência da República — Lei nº 14.533, de 11 de janeiro de 2023 — Política Nacional de Educação Digital. Acessar fonte oficial
+Conselho Nacional de Educação — Resolução CNE/CEB nº 2, de 21 de março de 2025 — Diretrizes Operacionais Nacionais sobre dispositivos digitais e integração curricular de educação digital e midiática. Acessar fonte oficial
+FNDE — Resolução CIF nº 24, de 15 de junho de 2026 — Condicionalidades I, IV e V do VAAR 2027. Acessar fonte oficial
+Presidência da República — Lei nº 15.388, de 14 de abril de 2026 — Plano Nacional de Educação. Acessar fonte oficial
+MEC — Guia Educação Digital e Midiática (referência de apoio à implementação). Acessar fonte oficial
+Nota sobre o ciclo VAAR 2027
+A Resolução CIF nº 24/2026 estabeleceu 31 de agosto de 2026 como prazo de registro no Simec para as condicionalidades tratadas na norma e previu diligências com prazo de 15 dias quando emitidas pela Secretaria de Educação Básica. O status de cada município deve ser conferido no sistema oficial. Este documento não substitui orientação jurídica, regulatória ou comunicação oficial do MEC/FNDE.
+Nota sobre o PNE 2026–2036
+A Lei nº 15.388/2026 criou, no Objetivo 7, metas de conectividade e aprendizagem em educação digital. A Estratégia 7.20 prevê a definição, pelo Inep, de níveis, padrões e indicadores para pensamento computacional, mundo digital e cultura digital, com vistas ao monitoramento da Meta 7.b e à inclusão da educação digital na avaliação nacional. Esse horizonte justifica a adoção de baseline e avaliação municipal desde o início da implantação.
+FIM DO VOLUME 3 — BNCC COMPUTAÇÃO
+Próxima entrega: Volume 4 — instrumentos operacionais, modelos, checklists, matrizes e anexos editáveis.
