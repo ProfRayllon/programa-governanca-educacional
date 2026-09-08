@@ -92,6 +92,7 @@
 
 (() => {
   const STATE_FILE = '.image-slots.state.json';
+  const STATE_FILE_FALLBACK = 'image-slots.state.json';
 
   // Unsplash terms require visible attribution wherever their photos
   // display, and every link back to unsplash.com must carry utm referral
@@ -171,8 +172,9 @@
 
   function load() {
     if (loadP) return loadP;
-    loadP = fetch(STATE_FILE)
-      .then((r) => (r.ok ? r.json() : null))
+    const readState = (file) => fetch(file).then((r) => (r.ok ? r.json() : null));
+    loadP = readState(STATE_FILE)
+      .then((j) => j || readState(STATE_FILE_FALLBACK))
       .then((j) => {
         // Merge: sidecar loses to any in-memory change that raced ahead of
         // the fetch (drop or clear) so neither is clobbered by hydration.
